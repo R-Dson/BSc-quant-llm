@@ -1,0 +1,5602 @@
+{
+    "sample_244": {
+        "expected": "'        '",
+        "answer": "BC1ty",
+        "time": 222.425,
+        "tokens": 581,
+        "toks/sec": 2612.1164437450825
+    },
+    "sample_518": {
+        "expected": "True",
+        "answer": "the speed is 36",
+        "time": 194.56,
+        "tokens": 586,
+        "toks/sec": 3011.9243421052633
+    },
+    "sample_578": {
+        "expected": "{'R': 0, 'T': -3, 'F': -6, 'K': 0}",
+        "answer": "R",
+        "time": 122.893,
+        "tokens": 558,
+        "toks/sec": 4540.535262382723
+    },
+    "sample_285": {
+        "expected": "5",
+        "answer": "5",
+        "time": 108.101,
+        "tokens": 664,
+        "toks/sec": 6142.403863053996
+    },
+    "sample_38": {
+        "expected": "'1Oe-ErrBzz-Bmm'",
+        "answer": "1000 ERROR BZZ BAM",
+        "time": 170.136,
+        "tokens": 660,
+        "toks/sec": 3879.2495415432363
+    },
+    "sample_193": {
+        "expected": "'1:1'",
+        "answer": "1",
+        "time": 139.116,
+        "tokens": 658,
+        "toks/sec": 4729.86572356882
+    },
+    "sample_321": {
+        "expected": "{'desciduous': 2}",
+        "answer": "{'desciduous': 2}",
+        "time": 157.164,
+        "tokens": 696,
+        "toks/sec": 4428.495075208063
+    },
+    "sample_187": {
+        "expected": "39",
+        "answer": "39",
+        "time": 115.914,
+        "tokens": 690,
+        "toks/sec": 5952.689062580879
+    },
+    "sample_554": {
+        "expected": "[-5, 3, 9999, 1, 0, 2]",
+        "answer": "[9999, 3, -5, 2, 1, 0]",
+        "time": 247.515,
+        "tokens": 678,
+        "toks/sec": 2739.227925580268
+    },
+    "sample_426": {
+        "expected": "[1, 2, 3, 8]",
+        "answer": "[1, 2, 3, 8, 5]",
+        "time": 217.946,
+        "tokens": 675,
+        "toks/sec": 3097.0974461563874
+    },
+    "sample_653": {
+        "expected": "1",
+        "answer": "4",
+        "time": 118.273,
+        "tokens": 680,
+        "toks/sec": 5749.410262697319
+    },
+    "sample_435": {
+        "expected": "''",
+        "answer": "0 1",
+        "time": 150.534,
+        "tokens": 716,
+        "toks/sec": 4756.400547384645
+    },
+    "sample_419": {
+        "expected": "'mmfb'",
+        "answer": "mmfbifen",
+        "time": 137.998,
+        "tokens": 666,
+        "toks/sec": 4826.15690082465
+    },
+    "sample_220": {
+        "expected": "'bagfedcacbagfedc'",
+        "answer": "\"abcabcde\"",
+        "time": 142.574,
+        "tokens": 702,
+        "toks/sec": 4923.758890120218
+    },
+    "sample_685": {
+        "expected": "-2",
+        "answer": "3",
+        "time": 100.896,
+        "tokens": 654,
+        "toks/sec": 6481.921979067554
+    },
+    "sample_247": {
+        "expected": "'yes'",
+        "answer": "\"yes\"",
+        "time": 112.309,
+        "tokens": 666,
+        "toks/sec": 5930.067937565111
+    },
+    "sample_368": {
+        "expected": "'4327 00004327 000004327 4327 0004327 4327'",
+        "answer": "4327 89 2 7 1",
+        "time": 219.723,
+        "tokens": 702,
+        "toks/sec": 3194.9318004942584
+    },
+    "sample_94": {
+        "expected": "{'w': 3, 'wi': 10}",
+        "answer": "{'w': 5, 'wi': 10}",
+        "time": 206.914,
+        "tokens": 671,
+        "toks/sec": 3242.893182674928
+    },
+    "sample_590": {
+        "expected": "'5000   $'",
+        "answer": "\"25000$\"",
+        "time": 165.602,
+        "tokens": 677,
+        "toks/sec": 4088.1148778396396
+    },
+    "sample_452": {
+        "expected": "1",
+        "answer": "3",
+        "time": 106.417,
+        "tokens": 666,
+        "toks/sec": 6258.398564139188
+    },
+    "sample_782": {
+        "expected": "False",
+        "answer": "False",
+        "time": 105.326,
+        "tokens": 660,
+        "toks/sec": 6266.2590433511195
+    },
+    "sample_504": {
+        "expected": "[1, 1, 1, 1]",
+        "answer": "1",
+        "time": 108.244,
+        "tokens": 651,
+        "toks/sec": 6014.190162965153
+    },
+    "sample_754": {
+        "expected": "['2', '2', '44', '0', '7', '20257']",
+        "answer": "['1', '2', '2', '44', '0', '7', '20257']",
+        "time": 310.256,
+        "tokens": 732,
+        "toks/sec": 2359.341962766232
+    },
+    "sample_522": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 102.041,
+        "tokens": 665,
+        "toks/sec": 6516.988269421116
+    },
+    "sample_480": {
+        "expected": "''",
+        "answer": "mi siast",
+        "time": 143.616,
+        "tokens": 716,
+        "toks/sec": 4985.516934046345
+    },
+    "sample_487": {
+        "expected": "[4]",
+        "answer": "[4]",
+        "time": 119.505,
+        "tokens": 682,
+        "toks/sec": 5706.874189364462
+    },
+    "sample_41": {
+        "expected": "[58, 92, 21]",
+        "answer": "[92, 58]",
+        "time": 162.272,
+        "tokens": 688,
+        "toks/sec": 4239.794912246106
+    },
+    "sample_180": {
+        "expected": "[-1, -2, -6, 8, 8]",
+        "answer": "[-2, 5, 3]",
+        "time": 166.929,
+        "tokens": 708,
+        "toks/sec": 4241.324155778804
+    },
+    "sample_15": {
+        "expected": "'ZN KGD JW LNT'",
+        "answer": "\" Zwieg KD JW LNT\"",
+        "time": 150.021,
+        "tokens": 676,
+        "toks/sec": 4506.035821651636
+    },
+    "sample_179": {
+        "expected": "[2, 0, 6, 2, 1, 7, 1, 2, 6, 0, 2]",
+        "answer": "[0, 1, 2, 2, 6, 7]",
+        "time": 247.296,
+        "tokens": 718,
+        "toks/sec": 2903.403209109731
+    },
+    "sample_565": {
+        "expected": "13",
+        "answer": "4",
+        "time": 111.767,
+        "tokens": 658,
+        "toks/sec": 5887.247577549724
+    },
+    "sample_88": {
+        "expected": "'hello'",
+        "answer": "\"hello\"",
+        "time": 120.374,
+        "tokens": 673,
+        "toks/sec": 5590.908335687109
+    },
+    "sample_602": {
+        "expected": "4",
+        "answer": "2",
+        "time": 108.546,
+        "tokens": 657,
+        "toks/sec": 6052.733403349732
+    },
+    "sample_272": {
+        "expected": "[9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 2, 6, 0, 6, 6]",
+        "answer": "[0, 1, 2, 3, 4]",
+        "time": 219.29,
+        "tokens": 724,
+        "toks/sec": 3301.5641388116196
+    },
+    "sample_386": {
+        "expected": "'Done!'",
+        "answer": "Done!",
+        "time": 125.868,
+        "tokens": 699,
+        "toks/sec": 5553.436933930785
+    },
+    "sample_116": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 98.001,
+        "tokens": 666,
+        "toks/sec": 6795.849021948755
+    },
+    "sample_264": {
+        "expected": "'pApArA'",
+        "answer": "\"papaper\"",
+        "time": 124.027,
+        "tokens": 664,
+        "toks/sec": 5353.672990558507
+    },
+    "sample_318": {
+        "expected": "1",
+        "answer": "4",
+        "time": 113.369,
+        "tokens": 678,
+        "toks/sec": 5980.470851820162
+    },
+    "sample_615": {
+        "expected": "1",
+        "answer": "-2",
+        "time": 111.693,
+        "tokens": 676,
+        "toks/sec": 6052.304083514634
+    },
+    "sample_51": {
+        "expected": "20",
+        "answer": "20",
+        "time": 119.77,
+        "tokens": 668,
+        "toks/sec": 5577.356600150289
+    },
+    "sample_265": {
+        "expected": "{1: 2, 2: 4}",
+        "answer": "{1: 2, 2: 4}",
+        "time": 191.307,
+        "tokens": 703,
+        "toks/sec": 3674.7217822662005
+    },
+    "sample_516": {
+        "expected": "[]",
+        "answer": "['gay', 'isa', 'eyes']",
+        "time": 165.736,
+        "tokens": 683,
+        "toks/sec": 4121.011729497514
+    },
+    "sample_393": {
+        "expected": "'a---c---s'",
+        "answer": "scala",
+        "time": 118.435,
+        "tokens": 699,
+        "toks/sec": 5901.971545573521
+    },
+    "sample_26": {
+        "expected": "'error'",
+        "answer": "8",
+        "time": 113.147,
+        "tokens": 712,
+        "toks/sec": 6292.698878450157
+    },
+    "sample_406": {
+        "expected": "False",
+        "answer": "Josh",
+        "time": 121.751,
+        "tokens": 675,
+        "toks/sec": 5544.102307167908
+    },
+    "sample_495": {
+        "expected": "('a1234', '\u00e5r')",
+        "answer": "a1234",
+        "time": 156.119,
+        "tokens": 702,
+        "toks/sec": 4496.56992422447
+    },
+    "sample_161": {
+        "expected": "'j rinpxdif'",
+        "answer": "p",
+        "time": 117.668,
+        "tokens": 660,
+        "toks/sec": 5609.001597715606
+    },
+    "sample_783": {
+        "expected": "0",
+        "answer": "0",
+        "time": 112.17,
+        "tokens": 695,
+        "toks/sec": 6195.952571988945
+    },
+    "sample_788": {
+        "expected": "'hello.txt'",
+        "answer": "hello.txt",
+        "time": 128.803,
+        "tokens": 662,
+        "toks/sec": 5139.631840873271
+    },
+    "sample_311": {
+        "expected": "'no'",
+        "answer": "yes",
+        "time": 113.918,
+        "tokens": 667,
+        "toks/sec": 5855.08874804684
+    },
+    "sample_312": {
+        "expected": "'True'",
+        "answer": "True",
+        "time": 96.005,
+        "tokens": 653,
+        "toks/sec": 6801.729076610593
+    },
+    "sample_784": {
+        "expected": "('read', 'Is')",
+        "answer": "Is read",
+        "time": 122.395,
+        "tokens": 659,
+        "toks/sec": 5384.206871195719
+    },
+    "sample_354": {
+        "expected": "'R, R!!!'",
+        "answer": "{R}!!!",
+        "time": 136.465,
+        "tokens": 688,
+        "toks/sec": 5041.5857545890885
+    },
+    "sample_388": {
+        "expected": "'2nm_28in'",
+        "answer": "\"2m_28in\"",
+        "time": 164.718,
+        "tokens": 701,
+        "toks/sec": 4255.758326351704
+    },
+    "sample_617": {
+        "expected": "'ascii'",
+        "answer": "non ascii",
+        "time": 123.859,
+        "tokens": 659,
+        "toks/sec": 5320.56612761285
+    },
+    "sample_591": {
+        "expected": "([0, 0, 0, 0, 0, 0, 0, 0, 0], [3, 4, 6, 7, 8, 9])",
+        "answer": "[1, 5, 3]",
+        "time": 176.88,
+        "tokens": 741,
+        "toks/sec": 4189.280868385346
+    },
+    "sample_113": {
+        "expected": "'987YhnShAShD 93275yRgsgBgssHfBsFB'",
+        "answer": "\"SHASHDSBHGF\"",
+        "time": 156.826,
+        "tokens": 732,
+        "toks/sec": 4667.593383750143
+    },
+    "sample_613": {
+        "expected": "'e!t!'",
+        "answer": "ea!",
+        "time": 131.628,
+        "tokens": 722,
+        "toks/sec": 5485.155134165983
+    },
+    "sample_344": {
+        "expected": "[6, 4, 2, 8, 15]",
+        "answer": "[8, 6, 4, 2, 15]",
+        "time": 227.414,
+        "tokens": 698,
+        "toks/sec": 3069.2921280132273
+    },
+    "sample_80": {
+        "expected": "'ba'",
+        "answer": "ab",
+        "time": 115.263,
+        "tokens": 646,
+        "toks/sec": 5604.5738875441375
+    },
+    "sample_128": {
+        "expected": "'Mmohamt'",
+        "answer": "Mammoth",
+        "time": 137.961,
+        "tokens": 690,
+        "toks/sec": 5001.413442929523
+    },
+    "sample_346": {
+        "expected": "False",
+        "answer": "docs.doc",
+        "time": 137.91,
+        "tokens": 669,
+        "toks/sec": 4850.989775940831
+    },
+    "sample_541": {
+        "expected": "True",
+        "answer": "",
+        "time": 123.101,
+        "tokens": 653,
+        "toks/sec": 5304.587290111372
+    },
+    "sample_535": {
+        "expected": "False",
+        "answer": "True",
+        "time": 108.378,
+        "tokens": 681,
+        "toks/sec": 6283.563084758899
+    },
+    "sample_286": {
+        "expected": "[1, 2, 3, 4, 11, 6, 7, 8, 9, 10]",
+        "answer": "[1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "time": 330.74,
+        "tokens": 734,
+        "toks/sec": 2219.2658886134122
+    },
+    "sample_234": {
+        "expected": "0",
+        "answer": "4",
+        "time": 115.477,
+        "tokens": 694,
+        "toks/sec": 6009.854776275795
+    },
+    "sample_322": {
+        "expected": "['lsi', 's', 't', 't', 'd']",
+        "answer": "['t', 's', 'l', 'd']",
+        "time": 197.389,
+        "tokens": 705,
+        "toks/sec": 3571.627598295751
+    },
+    "sample_758": {
+        "expected": "False",
+        "answer": "True",
+        "time": 105.288,
+        "tokens": 658,
+        "toks/sec": 6249.525112073551
+    },
+    "sample_111": {
+        "expected": "(89, 4)",
+        "answer": "89, 67",
+        "time": 158.324,
+        "tokens": 730,
+        "toks/sec": 4610.7981102043905
+    },
+    "sample_764": {
+        "expected": "'any test string'",
+        "answer": "\"some test string\"",
+        "time": 131.499,
+        "tokens": 698,
+        "toks/sec": 5308.025156084837
+    },
+    "sample_571": {
+        "expected": "'a\\\\tb'",
+        "answer": "a\\t4",
+        "time": 135.782,
+        "tokens": 658,
+        "toks/sec": 4846.003152111472
+    },
+    "sample_326": {
+        "expected": "0",
+        "answer": "5",
+        "time": 105.745,
+        "tokens": 666,
+        "toks/sec": 6298.170126247103
+    },
+    "sample_733": {
+        "expected": "'n'",
+        "answer": "nn",
+        "time": 116.707,
+        "tokens": 677,
+        "toks/sec": 5800.851705553223
+    },
+    "sample_626": {
+        "expected": "'baba'",
+        "answer": "ab",
+        "time": 119.945,
+        "tokens": 688,
+        "toks/sec": 5735.962316061528
+    },
+    "sample_301": {
+        "expected": "[0, 6, 2, -1, -2, 6, 6, -2, -2, -2, -2, -2, -2]",
+        "answer": "[0, 2, -1, -2]",
+        "time": 201.957,
+        "tokens": 694,
+        "toks/sec": 3436.375069940631
+    },
+    "sample_299": {
+        "expected": "'staovk'",
+        "answer": "stkovk",
+        "time": 134.116,
+        "tokens": 667,
+        "toks/sec": 4973.3066897312765
+    },
+    "sample_39": {
+        "expected": "0",
+        "answer": "2",
+        "time": 106.449,
+        "tokens": 667,
+        "toks/sec": 6265.911375400427
+    },
+    "sample_310": {
+        "expected": "'__1.00r__j_a6__6'",
+        "answer": "1666r",
+        "time": 165.362,
+        "tokens": 732,
+        "toks/sec": 4426.651830529384
+    },
+    "sample_537": {
+        "expected": "'[4]'",
+        "answer": "a[1]",
+        "time": 151.016,
+        "tokens": 699,
+        "toks/sec": 4628.648620013773
+    },
+    "sample_160": {
+        "expected": "{1: 38381, 3: 83607}",
+        "answer": "{1: 38381}",
+        "time": 187.244,
+        "tokens": 704,
+        "toks/sec": 3759.8000469975004
+    },
+    "sample_210": {
+        "expected": "46",
+        "answer": "48",
+        "time": 132.993,
+        "tokens": 713,
+        "toks/sec": 5361.184423240321
+    },
+    "sample_724": {
+        "expected": "[3]",
+        "answer": "[4, 2]",
+        "time": 160.05,
+        "tokens": 711,
+        "toks/sec": 4442.361761949391
+    },
+    "sample_125": {
+        "expected": "'3Leap and the net will appear'",
+        "answer": "\"The net will appear",
+        "time": 156.403,
+        "tokens": 701,
+        "toks/sec": 4482.011214618646
+    },
+    "sample_394": {
+        "expected": "1",
+        "answer": "2",
+        "time": 109.4,
+        "tokens": 685,
+        "toks/sec": 6261.425959780621
+    },
+    "sample_255": {
+        "expected": "'w'",
+        "answer": "no asw",
+        "time": 135.649,
+        "tokens": 695,
+        "toks/sec": 5123.5173130653375
+    },
+    "sample_365": {
+        "expected": "'mRcwVqXsRDRb'",
+        "answer": "xqcMRcwVqXsRDRb",
+        "time": 196.574,
+        "tokens": 697,
+        "toks/sec": 3545.7385005138012
+    },
+    "sample_509": {
+        "expected": "'5'",
+        "answer": "5",
+        "time": 123.425,
+        "tokens": 683,
+        "toks/sec": 5533.724934170549
+    },
+    "sample_343": {
+        "expected": "[[1, 2, 3], [1, 2], 1, [1, 2, 3], 3, [2, 1]]",
+        "answer": "[[1, 2, 3], [1, 2], 1]",
+        "time": 252.401,
+        "tokens": 696,
+        "toks/sec": 2757.516808570489
+    },
+    "sample_791": {
+        "expected": "'08999'",
+        "answer": "8999",
+        "time": 141.705,
+        "tokens": 691,
+        "toks/sec": 4876.327581948413
+    },
+    "sample_698": {
+        "expected": "'(((((((((((d.((((('",
+        "answer": "(((",
+        "time": 127.277,
+        "tokens": 658,
+        "toks/sec": 5169.826441540891
+    },
+    "sample_767": {
+        "expected": "'-'",
+        "answer": "\"41\"",
+        "time": 124.433,
+        "tokens": 691,
+        "toks/sec": 5553.189266512903
+    },
+    "sample_592": {
+        "expected": "[3, 11]",
+        "answer": "[3, 11]",
+        "time": 149.76,
+        "tokens": 683,
+        "toks/sec": 4560.630341880342
+    },
+    "sample_741": {
+        "expected": "1",
+        "answer": "2",
+        "time": 114.449,
+        "tokens": 698,
+        "toks/sec": 6098.786358989593
+    },
+    "sample_634": {
+        "expected": "'biec'",
+        "answer": "bie",
+        "time": 124.333,
+        "tokens": 692,
+        "toks/sec": 5565.698567556481
+    },
+    "sample_153": {
+        "expected": "False",
+        "answer": "friends and love",
+        "time": 137.13,
+        "tokens": 670,
+        "toks/sec": 4885.874717421425
+    },
+    "sample_527": {
+        "expected": "'!?'",
+        "answer": "\"??\"",
+        "time": 112.704,
+        "tokens": 651,
+        "toks/sec": 5776.192504258944
+    },
+    "sample_443": {
+        "expected": "'lorem ipsum'",
+        "answer": "lorem ipsum",
+        "time": 125.891,
+        "tokens": 678,
+        "toks/sec": 5385.611362210166
+    },
+    "sample_431": {
+        "expected": "[]",
+        "answer": "[1, 3]",
+        "time": 139.523,
+        "tokens": 673,
+        "toks/sec": 4823.577474681594
+    },
+    "sample_132": {
+        "expected": "'abc'",
+        "answer": "abc",
+        "time": 117.919,
+        "tokens": 670,
+        "toks/sec": 5681.866365895234
+    },
+    "sample_717": {
+        "expected": "'t'",
+        "answer": "\"timetable, 2000\"",
+        "time": 184.175,
+        "tokens": 734,
+        "toks/sec": 3985.3400298629017
+    },
+    "sample_200": {
+        "expected": "'tm oajhouse'",
+        "answer": "jomo house",
+        "time": 136.579,
+        "tokens": 690,
+        "toks/sec": 5052.021174558314
+    },
+    "sample_560": {
+        "expected": "0",
+        "answer": "5",
+        "time": 114.523,
+        "tokens": 685,
+        "toks/sec": 5981.331260969412
+    },
+    "sample_96": {
+        "expected": "True",
+        "answer": "True",
+        "time": 97.324,
+        "tokens": 649,
+        "toks/sec": 6668.447659364597
+    },
+    "sample_266": {
+        "expected": "[2, 3, 3, 4, 6, -2]",
+        "answer": "[2, 4, 6, 3]",
+        "time": 195.535,
+        "tokens": 705,
+        "toks/sec": 3605.4926228041018
+    },
+    "sample_619": {
+        "expected": "'   rock   paper   scissors  '",
+        "answer": "Rock Paper Scissors",
+        "time": 135.264,
+        "tokens": 650,
+        "toks/sec": 4805.417553820676
+    },
+    "sample_580": {
+        "expected": "[0, 1]",
+        "answer": "[0, 1]",
+        "time": 153.703,
+        "tokens": 698,
+        "toks/sec": 4541.225610430505
+    },
+    "sample_658": {
+        "expected": "['swims like a bull', None, None, None, None]",
+        "answer": "['swims', 2, 'c', True]",
+        "time": 196.123,
+        "tokens": 697,
+        "toks/sec": 3553.8922003028715
+    },
+    "sample_461": {
+        "expected": "True",
+        "answer": "True",
+        "time": 97.316,
+        "tokens": 654,
+        "toks/sec": 6720.374861276666
+    },
+    "sample_665": {
+        "expected": "'aCbCed'",
+        "answer": "ACBCD",
+        "time": 150.032,
+        "tokens": 685,
+        "toks/sec": 4565.69265223419
+    },
+    "sample_68": {
+        "expected": "'dq'",
+        "answer": "omeunhwpvr",
+        "time": 165.099,
+        "tokens": 698,
+        "toks/sec": 4227.766370480742
+    },
+    "sample_54": {
+        "expected": "1",
+        "answer": "2",
+        "time": 119.99,
+        "tokens": 678,
+        "toks/sec": 5650.470872572715
+    },
+    "sample_473": {
+        "expected": "'scedvtvtkwqfqn'",
+        "answer": "scedvtvotkwq",
+        "time": 170.608,
+        "tokens": 724,
+        "toks/sec": 4243.646253399606
+    },
+    "sample_715": {
+        "expected": "False",
+        "answer": "True",
+        "time": 97.565,
+        "tokens": 653,
+        "toks/sec": 6692.973914826013
+    },
+    "sample_436": {
+        "expected": "['7', '6', '1', '7', ' ']",
+        "answer": "['7', '6', 'ss']",
+        "time": 180.634,
+        "tokens": 680,
+        "toks/sec": 3764.5183077383
+    },
+    "sample_217": {
+        "expected": "'more than ASCII'",
+        "answer": "more than ASCII encoded is allowed for this language",
+        "time": 197.236,
+        "tokens": 684,
+        "toks/sec": 3467.9267476525583
+    },
+    "sample_587": {
+        "expected": "{0: 'abcca', 1: 'abcca', 2: 'abcca'}",
+        "answer": "abcabc",
+        "time": 138.01,
+        "tokens": 667,
+        "toks/sec": 4832.983117165423
+    },
+    "sample_413": {
+        "expected": "'cwcuc'",
+        "answer": "jwcwc",
+        "time": 135.498,
+        "tokens": 660,
+        "toks/sec": 4870.9206039941555
+    },
+    "sample_174": {
+        "expected": "[1, 3, 2]",
+        "answer": "[3, 2, 1]",
+        "time": 162.534,
+        "tokens": 667,
+        "toks/sec": 4103.756752433337
+    },
+    "sample_359": {
+        "expected": "['dZwbSR', 'wijHeq', 'qluVok', 'dxjxbF']",
+        "answer": "['dZwbSR', 'wijHeq', 'qluVok', 'dxjxbF']",
+        "time": 289.786,
+        "tokens": 708,
+        "toks/sec": 2443.1822103207196
+    },
+    "sample_738": {
+        "expected": "'r;r;r;r;r;r;r;r;'",
+        "answer": "\"r\"",
+        "time": 119.397,
+        "tokens": 687,
+        "toks/sec": 5753.913414909922
+    },
+    "sample_374": {
+        "expected": "['zzzz']",
+        "answer": "[0, 2, 4, 8, 0, 2, 4, 8]",
+        "time": 301.848,
+        "tokens": 720,
+        "toks/sec": 2385.3065118867776
+    },
+    "sample_213": {
+        "expected": "'[ac]'",
+        "answer": "\"a\"",
+        "time": 113.937,
+        "tokens": 649,
+        "toks/sec": 5696.130317631674
+    },
+    "sample_793": {
+        "expected": "3",
+        "answer": "2",
+        "time": 115.85,
+        "tokens": 707,
+        "toks/sec": 6102.719033232629
+    },
+    "sample_753": {
+        "expected": "{0: 5}",
+        "answer": "{0: 0, 1: 0, 2: 0, 3: 0, 4: 0}",
+        "time": 345.039,
+        "tokens": 737,
+        "toks/sec": 2135.9904242708794
+    },
+    "sample_85": {
+        "expected": "[3, 4.5]",
+        "answer": "[1, 2]",
+        "time": 146.814,
+        "tokens": 703,
+        "toks/sec": 4788.37168117482
+    },
+    "sample_706": {
+        "expected": "['xy', 'ab']",
+        "answer": "\"xy\"",
+        "time": 133.822,
+        "tokens": 705,
+        "toks/sec": 5268.192076041309
+    },
+    "sample_253": {
+        "expected": "'umwwfv'",
+        "answer": "fv",
+        "time": 123.776,
+        "tokens": 668,
+        "toks/sec": 5396.845915201655
+    },
+    "sample_154": {
+        "expected": "'*  There  Hello'",
+        "answer": "Hello There*",
+        "time": 131.155,
+        "tokens": 668,
+        "toks/sec": 5093.210323662842
+    },
+    "sample_140": {
+        "expected": "'Hey'",
+        "answer": "Hi",
+        "time": 117.813,
+        "tokens": 681,
+        "toks/sec": 5780.346820809248
+    },
+    "sample_416": {
+        "expected": "'jysrhfm ojwesf xgwwdyr dlrul ymba bpq'",
+        "answer": "1j",
+        "time": 131.477,
+        "tokens": 735,
+        "toks/sec": 5590.331388760011
+    },
+    "sample_23": {
+        "expected": "'new-medium-performing-application - XQuery 2.'",
+        "answer": "new-medium-performing-application",
+        "time": 174.985,
+        "tokens": 709,
+        "toks/sec": 4051.7758665028427
+    },
+    "sample_625": {
+        "expected": "4",
+        "answer": "5",
+        "time": 112.295,
+        "tokens": 674,
+        "toks/sec": 6002.048176677501
+    },
+    "sample_512": {
+        "expected": "False",
+        "answer": "2",
+        "time": 104.732,
+        "tokens": 655,
+        "toks/sec": 6254.05797654967
+    },
+    "sample_780": {
+        "expected": "'2'",
+        "answer": "2 4 5",
+        "time": 163.189,
+        "tokens": 739,
+        "toks/sec": 4528.49150371655
+    },
+    "sample_362": {
+        "expected": "'razugizoernmgzu'",
+        "answer": "wraz",
+        "time": 125.988,
+        "tokens": 677,
+        "toks/sec": 5373.527637552783
+    },
+    "sample_145": {
+        "expected": "8.5",
+        "answer": "7.15",
+        "time": 139.802,
+        "tokens": 692,
+        "toks/sec": 4949.857655827528
+    },
+    "sample_357": {
+        "expected": "'werc'",
+        "answer": "crew",
+        "time": 121.561,
+        "tokens": 678,
+        "toks/sec": 5577.446713995442
+    },
+    "sample_478": {
+        "expected": "{'m': 2, 'e': 2, 'o': 2, 'w': 2, ' ': 1}",
+        "answer": "2",
+        "time": 111.579,
+        "tokens": 668,
+        "toks/sec": 5986.789628872817
+    },
+    "sample_106": {
+        "expected": "[4, 4, 4, 4, 4, 4, 2, 8, -2, 9, 3, 3]",
+        "answer": "[4, 16, -4, 18, 6, 6]",
+        "time": 264.265,
+        "tokens": 702,
+        "toks/sec": 2656.424422454733
+    },
+    "sample_395": {
+        "expected": "0",
+        "answer": "0",
+        "time": 115.102,
+        "tokens": 689,
+        "toks/sec": 5985.9950304946915
+    },
+    "sample_11": {
+        "expected": "{'foo': ['bar']}",
+        "answer": "{}",
+        "time": 109.816,
+        "tokens": 686,
+        "toks/sec": 6246.812850586435
+    },
+    "sample_681": {
+        "expected": "[1, 5, 8, 7, 2, 0, 3]",
+        "answer": "[1, 5, 8, 2, 7, 3]",
+        "time": 246.392,
+        "tokens": 709,
+        "toks/sec": 2877.528491184779
+    },
+    "sample_239": {
+        "expected": "'1co'",
+        "answer": "t 1cos",
+        "time": 140.764,
+        "tokens": 682,
+        "toks/sec": 4844.9887755392
+    },
+    "sample_768": {
+        "expected": "'bababba'",
+        "answer": "abba",
+        "time": 116.201,
+        "tokens": 666,
+        "toks/sec": 5731.44809425048
+    },
+    "sample_254": {
+        "expected": "'lwwer case'",
+        "answer": "upper case",
+        "time": 123.377,
+        "tokens": 668,
+        "toks/sec": 5414.29926161278
+    },
+    "sample_526": {
+        "expected": "'rpg'",
+        "answer": "ekwies",
+        "time": 130.844,
+        "tokens": 700,
+        "toks/sec": 5349.882302589343
+    },
+    "sample_561": {
+        "expected": "7",
+        "answer": "7",
+        "time": 109.908,
+        "tokens": 672,
+        "toks/sec": 6114.204607489901
+    },
+    "sample_202": {
+        "expected": "[15, 15]",
+        "answer": "[15, 1]",
+        "time": 150.177,
+        "tokens": 691,
+        "toks/sec": 4601.237206762687
+    },
+    "sample_529": {
+        "expected": "[1, 2, 3]",
+        "answer": "[1, 2, 3]",
+        "time": 174.563,
+        "tokens": 715,
+        "toks/sec": 4095.942439119401
+    },
+    "sample_92": {
+        "expected": "False",
+        "answer": "wvw",
+        "time": 124.915,
+        "tokens": 664,
+        "toks/sec": 5315.614617940199
+    },
+    "sample_661": {
+        "expected": "'elrts,SSee'",
+        "answer": "rts, SS",
+        "time": 132.607,
+        "tokens": 659,
+        "toks/sec": 4969.571742064899
+    },
+    "sample_47": {
+        "expected": "False",
+        "answer": "True",
+        "time": 101.747,
+        "tokens": 684,
+        "toks/sec": 6722.556930425467
+    },
+    "sample_53": {
+        "expected": "[1, 1, 1, 1, 1, 1, 1]",
+        "answer": "['R', 'N', 'B']",
+        "time": 184.583,
+        "tokens": 732,
+        "toks/sec": 3965.6956491117817
+    },
+    "sample_650": {
+        "expected": "''",
+        "answer": "A",
+        "time": 120.453,
+        "tokens": 663,
+        "toks/sec": 5504.22156359742
+    },
+    "sample_593": {
+        "expected": "[]",
+        "answer": "[14]",
+        "time": 127.605,
+        "tokens": 679,
+        "toks/sec": 5321.108107049096
+    },
+    "sample_81": {
+        "expected": "[('Bulls', 'bulls'), ('White Sox', 45)]",
+        "answer": "[\"Bulls\", \"white sox\"]",
+        "time": 173.095,
+        "tokens": 712,
+        "toks/sec": 4113.348161414252
+    },
+    "sample_641": {
+        "expected": "False",
+        "answer": "True",
+        "time": 102.53,
+        "tokens": 647,
+        "toks/sec": 6310.348190773432
+    },
+    "sample_27": {
+        "expected": "False",
+        "answer": "flak",
+        "time": 127.079,
+        "tokens": 703,
+        "toks/sec": 5531.991910543835
+    },
+    "sample_750": {
+        "expected": "'hbd'",
+        "answer": "hbd",
+        "time": 128.706,
+        "tokens": 697,
+        "toks/sec": 5415.442947492736
+    },
+    "sample_524": {
+        "expected": "{2: 1, 4: 3, 3: 2, 1: 0, 5: 1}",
+        "answer": "{1: 5, 2: 3, 3: 4, 4: 2, 5: 1}",
+        "time": 358.232,
+        "tokens": 728,
+        "toks/sec": 2032.2025949663903
+    },
+    "sample_398": {
+        "expected": "{'2': 2, '0': 1, '1': 2, 2: ['2', '1'], 1: ['0']}",
+        "answer": "{'0': 1, '1': 2, '2': 2}",
+        "time": 256.888,
+        "tokens": 725,
+        "toks/sec": 2822.2415994519015
+    },
+    "sample_71": {
+        "expected": "{1: 2, 3: 4, 5: 6, 7: 8, 10: 9}",
+        "answer": "{1: 2, 3: 4, 5: 6, 7: 8}",
+        "time": 297.508,
+        "tokens": 722,
+        "toks/sec": 2426.825497129489
+    },
+    "sample_147": {
+        "expected": "[1, 1, 1]",
+        "answer": "[1, 1, 1]",
+        "time": 166.258,
+        "tokens": 668,
+        "toks/sec": 4017.8517725462834
+    },
+    "sample_772": {
+        "expected": "'DFA.'",
+        "answer": "abcdefghijkmnopqrstuvwxyz",
+        "time": 162.38,
+        "tokens": 674,
+        "toks/sec": 4150.757482448577
+    },
+    "sample_296": {
+        "expected": "'https://www.www.ekapusta.com/image/url'",
+        "answer": "ekapusta.com/image/url",
+        "time": 181.288,
+        "tokens": 667,
+        "toks/sec": 3679.2286306870833
+    },
+    "sample_604": {
+        "expected": "True",
+        "answer": "\"Hello\"",
+        "time": 117.937,
+        "tokens": 648,
+        "toks/sec": 5494.458906026099
+    },
+    "sample_729": {
+        "expected": "[10, 2]",
+        "answer": "[0, 4, 8]",
+        "time": 174.354,
+        "tokens": 712,
+        "toks/sec": 4083.645915780538
+    },
+    "sample_570": {
+        "expected": "[2, 1, 2]",
+        "answer": "[2, 0, 2]",
+        "time": 168.243,
+        "tokens": 684,
+        "toks/sec": 4065.548046575489
+    },
+    "sample_396": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 100.989,
+        "tokens": 663,
+        "toks/sec": 6565.071443424531
+    },
+    "sample_70": {
+        "expected": "30",
+        "answer": "50",
+        "time": 120.022,
+        "tokens": 685,
+        "toks/sec": 5707.286997383812
+    },
+    "sample_104": {
+        "expected": "{'a': 1}",
+        "answer": "a",
+        "time": 121.554,
+        "tokens": 696,
+        "toks/sec": 5725.850239399773
+    },
+    "sample_114": {
+        "expected": "['a', '', 'b']",
+        "answer": "['a-.,', '-.]",
+        "time": 147.916,
+        "tokens": 659,
+        "toks/sec": 4455.231347521566
+    },
+    "sample_122": {
+        "expected": "'Nuva?dlfuyjys'",
+        "answer": "Nuva",
+        "time": 123.515,
+        "tokens": 670,
+        "toks/sec": 5424.44237541999
+    },
+    "sample_781": {
+        "expected": "''",
+        "answer": "6",
+        "time": 117.54,
+        "tokens": 699,
+        "toks/sec": 5946.91168963757
+    },
+    "sample_7": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 107.859,
+        "tokens": 703,
+        "toks/sec": 6517.768568223329
+    },
+    "sample_434": {
+        "expected": "8",
+        "answer": "6",
+        "time": 109.154,
+        "tokens": 662,
+        "toks/sec": 6064.82584238782
+    },
+    "sample_150": {
+        "expected": "[-2, 4, -4]",
+        "answer": "[-4, -2]",
+        "time": 142.567,
+        "tokens": 679,
+        "toks/sec": 4762.672988840334
+    },
+    "sample_190": {
+        "expected": "'jiojickldl'",
+        "answer": "980jio80jic",
+        "time": 189.363,
+        "tokens": 688,
+        "toks/sec": 3633.2335250286487
+    },
+    "sample_345": {
+        "expected": "('mv', 'ml')",
+        "answer": "mv",
+        "time": 113.514,
+        "tokens": 661,
+        "toks/sec": 5823.070282079743
+    },
+    "sample_736": {
+        "expected": "'pichiwa'",
+        "answer": "pich",
+        "time": 131.102,
+        "tokens": 701,
+        "toks/sec": 5346.98173940901
+    },
+    "sample_514": {
+        "expected": "'stew---corn-and-beans-in soup-.'",
+        "answer": "stew corn and beans in soup.",
+        "time": 165.349,
+        "tokens": 692,
+        "toks/sec": 4185.087300195345
+    },
+    "sample_646": {
+        "expected": "'aBc, ,SzY'",
+        "answer": "aBc, SzY",
+        "time": 162.496,
+        "tokens": 671,
+        "toks/sec": 4129.3324143363525
+    },
+    "sample_115": {
+        "expected": "b'111; 115; 124; 124; 97; 103; 120; 53; '",
+        "answer": "os|agx5",
+        "time": 161.832,
+        "tokens": 708,
+        "toks/sec": 4374.907311285778
+    },
+    "sample_376": {
+        "expected": "'no'",
+        "answer": "\"programmers\"",
+        "time": 124.449,
+        "tokens": 673,
+        "toks/sec": 5407.837748796696
+    },
+    "sample_135": {
+        "expected": "['Russia', 'Kazakhstan']",
+        "answer": "['Russia', 'Kazakhstan']",
+        "time": 145.203,
+        "tokens": 680,
+        "toks/sec": 4683.098834046128
+    },
+    "sample_568": {
+        "expected": "'mhbwm'",
+        "answer": "7h",
+        "time": 131.472,
+        "tokens": 706,
+        "toks/sec": 5369.964707314105
+    },
+    "sample_235": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 100.438,
+        "tokens": 676,
+        "toks/sec": 6730.5203209940455
+    },
+    "sample_572": {
+        "expected": "[(2, 10), (3, 1), ((3, 1), None), ((2, 10), None)]",
+        "answer": "{2, 3}",
+        "time": 152.407,
+        "tokens": 725,
+        "toks/sec": 4756.999350423536
+    },
+    "sample_677": {
+        "expected": "'I'",
+        "answer": "I got 1 0",
+        "time": 166.804,
+        "tokens": 713,
+        "toks/sec": 4274.47783026786
+    },
+    "sample_63": {
+        "expected": "'dbtdabdahesyehu'",
+        "answer": "ndbtdabdahesyehu",
+        "time": 180.291,
+        "tokens": 678,
+        "toks/sec": 3760.587050934323
+    },
+    "sample_453": {
+        "expected": "False",
+        "answer": "wrschxjmb8",
+        "time": 149.522,
+        "tokens": 656,
+        "toks/sec": 4387.314241382539
+    },
+    "sample_275": {
+        "expected": "{'a': -1, 'b': 0, 'c': 1}",
+        "answer": "{'a': 0, 'b': 1, 'c': 2}",
+        "time": 256.315,
+        "tokens": 686,
+        "toks/sec": 2676.3942804751964
+    },
+    "sample_13": {
+        "expected": "2",
+        "answer": "3",
+        "time": 111.212,
+        "tokens": 682,
+        "toks/sec": 6132.431751969212
+    },
+    "sample_536": {
+        "expected": "5",
+        "answer": "5",
+        "time": 107.25,
+        "tokens": 670,
+        "toks/sec": 6247.086247086247
+    },
+    "sample_250": {
+        "expected": "'wlace Alc l  '",
+        "answer": "wlACE A",
+        "time": 136.758,
+        "tokens": 673,
+        "toks/sec": 4921.101507772853
+    },
+    "sample_739": {
+        "expected": "False",
+        "answer": "True",
+        "time": 104.267,
+        "tokens": 683,
+        "toks/sec": 6550.490567485398
+    },
+    "sample_708": {
+        "expected": "'    jcmfxv'",
+        "answer": "jcmfxv",
+        "time": 149.127,
+        "tokens": 692,
+        "toks/sec": 4640.34011278977
+    },
+    "sample_36": {
+        "expected": "'ha'",
+        "answer": "h",
+        "time": 112.229,
+        "tokens": 650,
+        "toks/sec": 5791.729410401946
+    },
+    "sample_57": {
+        "expected": "1",
+        "answer": "no",
+        "time": 120.751,
+        "tokens": 691,
+        "toks/sec": 5722.519896315558
+    },
+    "sample_219": {
+        "expected": "False",
+        "answer": "True",
+        "time": 102.087,
+        "tokens": 689,
+        "toks/sec": 6749.145336820555
+    },
+    "sample_439": {
+        "expected": "'coscifysu'",
+        "answer": "coscifsu",
+        "time": 139.719,
+        "tokens": 660,
+        "toks/sec": 4723.766989457411
+    },
+    "sample_725": {
+        "expected": "5",
+        "answer": "7",
+        "time": 109.914,
+        "tokens": 675,
+        "toks/sec": 6141.164910748404
+    },
+    "sample_693": {
+        "expected": "'x0x0'",
+        "answer": "\"x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0\"",
+        "time": 388.633,
+        "tokens": 702,
+        "toks/sec": 1806.3314232193356
+    },
+    "sample_400": {
+        "expected": "'I, am, hungry!, eat, food.'",
+        "answer": "I am hungry! eat food.",
+        "time": 163.861,
+        "tokens": 701,
+        "toks/sec": 4278.016123421681
+    },
+    "sample_148": {
+        "expected": "'2io 12 tfiqr.-'",
+        "answer": "2imo 12 tfiqr.",
+        "time": 184.148,
+        "tokens": 727,
+        "toks/sec": 3947.911462519278
+    },
+    "sample_586": {
+        "expected": "2",
+        "answer": "4",
+        "time": 103.61,
+        "tokens": 647,
+        "toks/sec": 6244.570987356433
+    },
+    "sample_651": {
+        "expected": "'E wrestled evil until upperfeat'",
+        "answer": "E Wrestled Evil Until Upperfeat",
+        "time": 176.524,
+        "tokens": 693,
+        "toks/sec": 3925.8117876322767
+    },
+    "sample_652": {
+        "expected": "'3'",
+        "answer": "3",
+        "time": 115.01,
+        "tokens": 692,
+        "toks/sec": 6016.868098426224
+    },
+    "sample_181": {
+        "expected": "['3291223', 7]",
+        "answer": "[\"123\", 2]",
+        "time": 176.3,
+        "tokens": 694,
+        "toks/sec": 3936.4719228587633
+    },
+    "sample_732": {
+        "expected": "{'u': 10, 'v': 2, 'b': 3, 'w': 1, 'x': 1}",
+        "answer": "{'u': 10, 'v': 2.5, 'b': 7.5, 'w': 3.5, 'x': 3.5}",
+        "time": 421.798,
+        "tokens": 734,
+        "toks/sec": 1740.1694650045756
+    },
+    "sample_755": {
+        "expected": "'ph>t#A#BiEcDefW#ON#iiNCU'",
+        "answer": "###",
+        "time": 119.4,
+        "tokens": 690,
+        "toks/sec": 5778.894472361809
+    },
+    "sample_158": {
+        "expected": "[6, 4, -2, 6, 4, -2]",
+        "answer": "[3, 4]",
+        "time": 150.821,
+        "tokens": 706,
+        "toks/sec": 4681.045742966829
+    },
+    "sample_479": {
+        "expected": "[1, 2, 3]",
+        "answer": "[2, 3, 6]",
+        "time": 171.649,
+        "tokens": 691,
+        "toks/sec": 4025.6570093621285
+    },
+    "sample_716": {
+        "expected": "[]",
+        "answer": "[1, 2, 3]",
+        "time": 169.354,
+        "tokens": 691,
+        "toks/sec": 4080.2106829481436
+    },
+    "sample_588": {
+        "expected": "3",
+        "answer": "0",
+        "time": 105.544,
+        "tokens": 669,
+        "toks/sec": 6338.588645493823
+    },
+    "sample_451": {
+        "expected": "'n'",
+        "answer": "p",
+        "time": 116.947,
+        "tokens": 684,
+        "toks/sec": 5848.803304060813
+    },
+    "sample_699": {
+        "expected": "['1', 'some']",
+        "answer": "[\"1\", \"some\"]",
+        "time": 145.926,
+        "tokens": 695,
+        "toks/sec": 4762.687937721859
+    },
+    "sample_206": {
+        "expected": "'h e l l o w o r l d!'",
+        "answer": "hello world!",
+        "time": 131.187,
+        "tokens": 657,
+        "toks/sec": 5008.118182441857
+    },
+    "sample_277": {
+        "expected": "[4, 3, 2, 1]",
+        "answer": "[4, 3, 2, 1]",
+        "time": 198.943,
+        "tokens": 682,
+        "toks/sec": 3428.1176015240544
+    },
+    "sample_270": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 105.185,
+        "tokens": 664,
+        "toks/sec": 6312.687170223891
+    },
+    "sample_745": {
+        "expected": "'minimc@minimc.io'",
+        "answer": "minimc",
+        "time": 139.166,
+        "tokens": 699,
+        "toks/sec": 5022.778552232586
+    },
+    "sample_550": {
+        "expected": "[1, 1, 1, 1, 2, 4]",
+        "answer": "[1, 4, 16]",
+        "time": 171.746,
+        "tokens": 675,
+        "toks/sec": 3930.2225379339257
+    },
+    "sample_770": {
+        "expected": "'$$78$$'",
+        "answer": "$78",
+        "time": 127.905,
+        "tokens": 692,
+        "toks/sec": 5410.265431374848
+    },
+    "sample_55": {
+        "expected": "[89, 43, 17, 14, 8, 4]",
+        "answer": "[89, 43, 17, 8, 4]",
+        "time": 247.679,
+        "tokens": 715,
+        "toks/sec": 2886.8010610507954
+    },
+    "sample_620": {
+        "expected": "'3 i h o x m q d n   a n d   t r e l'",
+        "answer": "\"mxohi3ndimqlex\"",
+        "time": 165.839,
+        "tokens": 661,
+        "toks/sec": 3985.793450274061
+    },
+    "sample_463": {
+        "expected": "{3: 6}",
+        "answer": "{-1: -1, 5: 5, 3: 6, -4: -4}",
+        "time": 296.363,
+        "tokens": 719,
+        "toks/sec": 2426.0788290036207
+    },
+    "sample_98": {
+        "expected": "1",
+        "answer": "11",
+        "time": 127.542,
+        "tokens": 657,
+        "toks/sec": 5151.244295996613
+    },
+    "sample_407": {
+        "expected": "0",
+        "answer": "3",
+        "time": 118.627,
+        "tokens": 675,
+        "toks/sec": 5690.104276429481
+    },
+    "sample_163": {
+        "expected": "'w))))))))))))'",
+        "answer": "w",
+        "time": 132.623,
+        "tokens": 673,
+        "toks/sec": 5074.534582990885
+    },
+    "sample_735": {
+        "expected": "'Abb'",
+        "answer": "AB",
+        "time": 119.995,
+        "tokens": 678,
+        "toks/sec": 5650.235426476103
+    },
+    "sample_680": {
+        "expected": "'we32r71g72ug94823658324'",
+        "answer": "we32rg71g72ur4=(823658!@324",
+        "time": 321.016,
+        "tokens": 718,
+        "toks/sec": 2236.648640566202
+    },
+    "sample_405": {
+        "expected": "[5, 3, 4, 1, 2, 3, 5]",
+        "answer": "[1, 2, 3, 4, 5]",
+        "time": 237.008,
+        "tokens": 728,
+        "toks/sec": 3071.626274218592
+    },
+    "sample_639": {
+        "expected": "'yes '",
+        "answer": "\"xxabxxcabcxx\"",
+        "time": 172.906,
+        "tokens": 732,
+        "toks/sec": 4233.514163765282
+    },
+    "sample_62": {
+        "expected": "('ja', 'nee', 'coke', 'zoo')",
+        "answer": "\"excitement\"",
+        "time": 132.093,
+        "tokens": 700,
+        "toks/sec": 5299.2967076226605
+    },
+    "sample_544": {
+        "expected": "'            tab tab tabulates'",
+        "answer": "tab tab tabulates",
+        "time": 147.513,
+        "tokens": 703,
+        "toks/sec": 4765.681668734281
+    },
+    "sample_697": {
+        "expected": "('', '', 'not it')",
+        "answer": "\"not it\"",
+        "time": 136.257,
+        "tokens": 706,
+        "toks/sec": 5181.385176541388
+    },
+    "sample_306": {
+        "expected": "[0, 6, 1, 2, 0]",
+        "answer": "[0, 6, 1, 2, 0]",
+        "time": 233.959,
+        "tokens": 716,
+        "toks/sec": 3060.3652776768577
+    },
+    "sample_672": {
+        "expected": "'1zd'",
+        "answer": "\"1zd\"",
+        "time": 133.115,
+        "tokens": 701,
+        "toks/sec": 5266.123276865867
+    },
+    "sample_214": {
+        "expected": "7",
+        "answer": "present/here/car/we",
+        "time": 169.567,
+        "tokens": 693,
+        "toks/sec": 4086.880112285999
+    },
+    "sample_261": {
+        "expected": "([], [12, 516, 5, 214, 51])",
+        "answer": "[12, 5, 2]",
+        "time": 180.654,
+        "tokens": 726,
+        "toks/sec": 4018.7319406157626
+    },
+    "sample_573": {
+        "expected": "'Vipra'",
+        "answer": "\"Vipra\"",
+        "time": 125.417,
+        "tokens": 663,
+        "toks/sec": 5286.3646874028245
+    },
+    "sample_164": {
+        "expected": "[0, 1, 3]",
+        "answer": "[1, 3, 5]",
+        "time": 170.317,
+        "tokens": 666,
+        "toks/sec": 3910.3553961143043
+    },
+    "sample_302": {
+        "expected": "'wdeejjjzsjsjjsxjjneddaddddddefsfd'",
+        "answer": "wdeejjjzsjsjjsxjjneedsshaystacks",
+        "time": 223.827,
+        "tokens": 673,
+        "toks/sec": 3006.7864913526964
+    },
+    "sample_367": {
+        "expected": "[6, 2, 1, 1, 4, 1]",
+        "answer": "[1, 1, 1, 4, 5]",
+        "time": 227.614,
+        "tokens": 717,
+        "toks/sec": 3150.0698551055734
+    },
+    "sample_622": {
+        "expected": "', g, a, l, g, u, '",
+        "answer": "g, al",
+        "time": 136.557,
+        "tokens": 684,
+        "toks/sec": 5008.897383510183
+    },
+    "sample_414": {
+        "expected": "{'X': ['X', 'Y']}",
+        "answer": "yx",
+        "time": 120.902,
+        "tokens": 690,
+        "toks/sec": 5707.101619493474
+    },
+    "sample_274": {
+        "expected": "3",
+        "answer": "3",
+        "time": 121.599,
+        "tokens": 682,
+        "toks/sec": 5608.598754923972
+    },
+    "sample_77": {
+        "expected": "''",
+        "answer": "hiluvk",
+        "time": 137.266,
+        "tokens": 672,
+        "toks/sec": 4895.604155435432
+    },
+    "sample_12": {
+        "expected": "'If you want to live a happy life! Daniel'",
+        "answer": "If you want to live a happy life!",
+        "time": 191.648,
+        "tokens": 706,
+        "toks/sec": 3683.837034563366
+    },
+    "sample_103": {
+        "expected": "'abcdefghij'",
+        "answer": "abcdefghij",
+        "time": 126.272,
+        "tokens": 654,
+        "toks/sec": 5179.2954891028885
+    },
+    "sample_75": {
+        "expected": "-22",
+        "answer": "10",
+        "time": 116.957,
+        "tokens": 678,
+        "toks/sec": 5797.002317090897
+    },
+    "sample_647": {
+        "expected": "['/alcm@ an)t//eprw)/e!/d', 'ujv']",
+        "answer": "/alcm an",
+        "time": 243.63,
+        "tokens": 676,
+        "toks/sec": 2774.699339161844
+    },
+    "sample_14": {
+        "expected": "'POO'",
+        "answer": "OOP",
+        "time": 119.207,
+        "tokens": 659,
+        "toks/sec": 5528.198847383123
+    },
+    "sample_271": {
+        "expected": "'uufh'",
+        "answer": "ufhl",
+        "time": 129.748,
+        "tokens": 689,
+        "toks/sec": 5310.293800289793
+    },
+    "sample_427": {
+        "expected": "''",
+        "answer": "s a a b s d",
+        "time": 168.579,
+        "tokens": 721,
+        "toks/sec": 4276.9265448246815
+    },
+    "sample_649": {
+        "expected": "' f9\\n ldf9\\n adf9!\\n f9?'",
+        "answer": "\"    \\tf9\\n    \\tldf9\\n    \\tadf9!\\n    \\tf9?\"",
+        "time": 319.999,
+        "tokens": 713,
+        "toks/sec": 2228.131962912384
+    },
+    "sample_149": {
+        "expected": "'2,4,2,0,'",
+        "answer": ",23543,132323,33300",
+        "time": 277.061,
+        "tokens": 728,
+        "toks/sec": 2627.5802079686423
+    },
+    "sample_410": {
+        "expected": "[1, 1, 1, 1, 1, 1, 1, 3, -1, 1, -2, 6]",
+        "answer": "[1, 3, 0, 1, -2, 6]",
+        "time": 245.486,
+        "tokens": 702,
+        "toks/sec": 2859.6335432570495
+    },
+    "sample_171": {
+        "expected": "[1, 2, 3]",
+        "answer": "[3, 4]",
+        "time": 152.189,
+        "tokens": 680,
+        "toks/sec": 4468.128445551256
+    },
+    "sample_464": {
+        "expected": "-50",
+        "answer": "0",
+        "time": 120.861,
+        "tokens": 695,
+        "toks/sec": 5750.407492905073
+    },
+    "sample_701": {
+        "expected": "'31849 let it!31849 pass!'",
+        "answer": "31849 let it!31849 pass!",
+        "time": 242.706,
+        "tokens": 702,
+        "toks/sec": 2892.3883216731356
+    },
+    "sample_465": {
+        "expected": "{'wise king': 'north', 'young king': 'north'}",
+        "answer": "young king",
+        "time": 133.27,
+        "tokens": 684,
+        "toks/sec": 5132.437908006303
+    },
+    "sample_337": {
+        "expected": "'LL'",
+        "answer": "5ll6",
+        "time": 146.34,
+        "tokens": 703,
+        "toks/sec": 4803.881372147055
+    },
+    "sample_377": {
+        "expected": "'BYE, NO, WAY'",
+        "answer": "BYE, NO, WAY",
+        "time": 150.422,
+        "tokens": 654,
+        "toks/sec": 4347.768278576272
+    },
+    "sample_488": {
+        "expected": "'5ezmgvn 651h'",
+        "answer": "651",
+        "time": 156.935,
+        "tokens": 720,
+        "toks/sec": 4587.8867046866535
+    },
+    "sample_433": {
+        "expected": "'T,T,Sspp,G ,.tB,Vxk,Cct'",
+        "answer": "\"T,G,Cct,Dmreh,Sspp,T\"",
+        "time": 234.053,
+        "tokens": 711,
+        "toks/sec": 3037.77349574669
+    },
+    "sample_262": {
+        "expected": "'BA'",
+        "answer": "AE",
+        "time": 127.923,
+        "tokens": 724,
+        "toks/sec": 5659.654635991964
+    },
+    "sample_110": {
+        "expected": "1",
+        "answer": "5",
+        "time": 115.747,
+        "tokens": 688,
+        "toks/sec": 5943.998548558494
+    },
+    "sample_792": {
+        "expected": "{'a': ['car', 'dog'], 'b': ['car', 'dog']}",
+        "answer": "{'a': 'car', 'b': 'dog'}",
+        "time": 200.35,
+        "tokens": 689,
+        "toks/sec": 3438.9817818817073
+    },
+    "sample_6": {
+        "expected": "[('74', 31)]",
+        "answer": "['11', '65', 'a', '4']",
+        "time": 217.761,
+        "tokens": 723,
+        "toks/sec": 3320.1537465386364
+    },
+    "sample_74": {
+        "expected": "[44, 34, 23, 82, 15, 24, 11, 63, 99]",
+        "answer": "[44, 82, 34, 99, 24, 23, 63]",
+        "time": 325.093,
+        "tokens": 712,
+        "toks/sec": 2190.142513065492
+    },
+    "sample_20": {
+        "expected": "',saw'",
+        "answer": "was",
+        "time": 118.859,
+        "tokens": 670,
+        "toks/sec": 5636.931153719954
+    },
+    "sample_540": {
+        "expected": "[5, 5, 5, 5, 5, 5, 6, 4, 9, 5]",
+        "answer": "[5, 5, 5, 6, 4, 9]",
+        "time": 257.628,
+        "tokens": 721,
+        "toks/sec": 2798.6088468644716
+    },
+    "sample_490": {
+        "expected": "'\\n\\n\\r\\r \\x0c'",
+        "answer": "gijkvu",
+        "time": 131.456,
+        "tokens": 667,
+        "toks/sec": 5073.941090555015
+    },
+    "sample_340": {
+        "expected": "'   DEGHIVjkptx'",
+        "answer": "E jIkx HtDpV G",
+        "time": 192.261,
+        "tokens": 705,
+        "toks/sec": 3666.8903209699315
+    },
+    "sample_623": {
+        "expected": "'HI~'",
+        "answer": "hi!",
+        "time": 135.013,
+        "tokens": 718,
+        "toks/sec": 5318.006414197152
+    },
+    "sample_402": {
+        "expected": "{}",
+        "answer": "{'aaa': 100, 'bbb': 200}",
+        "time": 228.207,
+        "tokens": 700,
+        "toks/sec": 3067.3905708413854
+    },
+    "sample_91": {
+        "expected": "['1', '2', 'a', 'b', '3', 'x', 'y']",
+        "answer": "['a', 'b', '2', '3', 'x']",
+        "time": 215.867,
+        "tokens": 673,
+        "toks/sec": 3117.6604112717555
+    },
+    "sample_583": {
+        "expected": "'t\\nZA\\nA'",
+        "answer": "\"t\\nza\\na\"",
+        "time": 166.893,
+        "tokens": 714,
+        "toks/sec": 4278.190217684384
+    },
+    "sample_364": {
+        "expected": "[[3, False], [1, True]]",
+        "answer": "[(-3, True), (-1, False)]",
+        "time": 191.125,
+        "tokens": 713,
+        "toks/sec": 3730.5428384565075
+    },
+    "sample_786": {
+        "expected": "'kefp719'",
+        "answer": "19kefp7",
+        "time": 151.845,
+        "tokens": 685,
+        "toks/sec": 4511.179162962231
+    },
+    "sample_188": {
+        "expected": "['a']",
+        "answer": "[\"a\", \"b\"]",
+        "time": 149.518,
+        "tokens": 708,
+        "toks/sec": 4735.215826856967
+    },
+    "sample_679": {
+        "expected": "True",
+        "answer": "True",
+        "time": 105.036,
+        "tokens": 700,
+        "toks/sec": 6664.381735785826
+    },
+    "sample_502": {
+        "expected": "'Fred*Smith'",
+        "answer": "Fred Smith",
+        "time": 118.259,
+        "tokens": 647,
+        "toks/sec": 5471.042373096339
+    },
+    "sample_532": {
+        "expected": "[[1, 2, 3], [1, 2, 3, 1, 2, 3]]",
+        "answer": "[1, 2, 3]",
+        "time": 172.58,
+        "tokens": 698,
+        "toks/sec": 4044.501100938695
+    },
+    "sample_19": {
+        "expected": "''",
+        "answer": "80",
+        "time": 121.047,
+        "tokens": 698,
+        "toks/sec": 5766.3552173948965
+    },
+    "sample_616": {
+        "expected": "'[\\n][\\n][y]\\n'",
+        "answer": "\\n\\ny\\n",
+        "time": 184.952,
+        "tokens": 751,
+        "toks/sec": 4060.51299796704
+    },
+    "sample_740": {
+        "expected": "[1, 2, 4]",
+        "answer": "1 2 3",
+        "time": 153.127,
+        "tokens": 701,
+        "toks/sec": 4577.899390701836
+    },
+    "sample_366": {
+        "expected": "''",
+        "answer": "Hello World!!",
+        "time": 136.256,
+        "tokens": 685,
+        "toks/sec": 5027.301550023485
+    },
+    "sample_690": {
+        "expected": "'800'",
+        "answer": "800",
+        "time": 132.797,
+        "tokens": 670,
+        "toks/sec": 5045.2946979223925
+    },
+    "sample_3": {
+        "expected": "'bcksrutq'",
+        "answer": "bcksrq",
+        "time": 133.517,
+        "tokens": 672,
+        "toks/sec": 5033.066950275995
+    },
+    "sample_546": {
+        "expected": "'Do you know who the other was? [NEGMENDS]'",
+        "answer": "[CHARRUNNERS]Do you know who the other was?",
+        "time": 219.914,
+        "tokens": 694,
+        "toks/sec": 3155.7790772756625
+    },
+    "sample_333": {
+        "expected": "1",
+        "answer": "4",
+        "time": 125.728,
+        "tokens": 739,
+        "toks/sec": 5877.767879867651
+    },
+    "sample_151": {
+        "expected": "'697 this is the ultimate 7 address to attack'",
+        "answer": "697.000000",
+        "time": 197.53,
+        "tokens": 714,
+        "toks/sec": 3614.6408140535614
+    },
+    "sample_204": {
+        "expected": "['m', 'a']",
+        "answer": "[\"m\", \"a\"]",
+        "time": 139.845,
+        "tokens": 654,
+        "toks/sec": 4676.606242625764
+    },
+    "sample_288": {
+        "expected": "[(1, 3), (4, 555)]",
+        "answer": "[(1, 3), (4, 555), (555, 4)]",
+        "time": 299.539,
+        "tokens": 761,
+        "toks/sec": 2540.570676940232
+    },
+    "sample_633": {
+        "expected": "0",
+        "answer": "2",
+        "time": 110.418,
+        "tokens": 680,
+        "toks/sec": 6158.416200257204
+    },
+    "sample_222": {
+        "expected": "'0aabbaa0b'",
+        "answer": "0a",
+        "time": 128.756,
+        "tokens": 702,
+        "toks/sec": 5452.173102612694
+    },
+    "sample_675": {
+        "expected": "[1]",
+        "answer": "[1, 2, 2]",
+        "time": 168.326,
+        "tokens": 676,
+        "toks/sec": 4016.016539334387
+    },
+    "sample_621": {
+        "expected": "b'13:45:56'",
+        "answer": "13:45:56",
+        "time": 176.11,
+        "tokens": 681,
+        "toks/sec": 3866.901368462892
+    },
+    "sample_380": {
+        "expected": "'xxjarcz'",
+        "answer": "xxczx",
+        "time": 134.695,
+        "tokens": 666,
+        "toks/sec": 4944.504250343369
+    },
+    "sample_76": {
+        "expected": "[6, 2, 0, 0, 0, 0, 0, 2, 3, 10]",
+        "answer": "[2, 0, 2, 2, 6]",
+        "time": 223.764,
+        "tokens": 724,
+        "toks/sec": 3235.551742013907
+    },
+    "sample_491": {
+        "expected": "[4, 8, 8, 5, 5, 5, 5, 5, 5, 5, 5, 5]",
+        "answer": "[8, 8, 5]",
+        "time": 167.556,
+        "tokens": 685,
+        "toks/sec": 4088.185442478932
+    },
+    "sample_294": {
+        "expected": "'2$z&5H3*1a@#a*1hris'",
+        "answer": "\"x$2xz&5H3*1a@#a*1hris\"",
+        "time": 270.056,
+        "tokens": 741,
+        "toks/sec": 2743.8753443730193
+    },
+    "sample_412": {
+        "expected": "8",
+        "answer": "4",
+        "time": 121.772,
+        "tokens": 685,
+        "toks/sec": 5625.266892224813
+    },
+    "sample_129": {
+        "expected": "[28, 19, 12, 6]",
+        "answer": "9",
+        "time": 112.528,
+        "tokens": 702,
+        "toks/sec": 6238.447319778188
+    },
+    "sample_165": {
+        "expected": "True",
+        "answer": "=xtanp|sugv?z",
+        "time": 181.47,
+        "tokens": 669,
+        "toks/sec": 3686.5597619441232
+    },
+    "sample_108": {
+        "expected": "0",
+        "answer": "1",
+        "time": 111.941,
+        "tokens": 686,
+        "toks/sec": 6128.228263102885
+    },
+    "sample_21": {
+        "expected": "[1, 1, 2, 2, 2]",
+        "answer": "[1, 2, 2]",
+        "time": 167.82,
+        "tokens": 670,
+        "toks/sec": 3992.3727803599095
+    },
+    "sample_746": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 109.211,
+        "tokens": 680,
+        "toks/sec": 6226.479017681369
+    },
+    "sample_655": {
+        "expected": "'p'",
+        "answer": "paar",
+        "time": 115.493,
+        "tokens": 649,
+        "toks/sec": 5619.388188028712
+    },
+    "sample_28": {
+        "expected": "True",
+        "answer": "[8, 5]",
+        "time": 157.917,
+        "tokens": 672,
+        "toks/sec": 4255.399988601607
+    },
+    "sample_291": {
+        "expected": "{'a': [2]}",
+        "answer": "{'a': [2]}",
+        "time": 168.256,
+        "tokens": 692,
+        "toks/sec": 4112.780524914416
+    },
+    "sample_662": {
+        "expected": "['Angela', 'Dan', 'Dusty', 'Joe', 'Linda', 'Pete']",
+        "answer": "Joe",
+        "time": 129.071,
+        "tokens": 671,
+        "toks/sec": 5198.689093599647
+    },
+    "sample_417": {
+        "expected": "[8, 2, 8]",
+        "answer": "[8, 7, 2, 8]",
+        "time": 208.817,
+        "tokens": 673,
+        "toks/sec": 3222.9176743272815
+    },
+    "sample_45": {
+        "expected": "2",
+        "answer": "8",
+        "time": 117.876,
+        "tokens": 705,
+        "toks/sec": 5980.861244019138
+    },
+    "sample_674": {
+        "expected": "'qq'",
+        "answer": "q",
+        "time": 125.452,
+        "tokens": 711,
+        "toks/sec": 5667.506297229219
+    },
+    "sample_245": {
+        "expected": "[]",
+        "answer": "['abcdefghijklmnopqrstuvwxyz', 'uppercased # % ^ @ ! vz']",
+        "time": 216.741,
+        "tokens": 700,
+        "toks/sec": 3229.661208539224
+    },
+    "sample_300": {
+        "expected": "[1, 2, 3]",
+        "answer": "[3]",
+        "time": 120.968,
+        "tokens": 694,
+        "toks/sec": 5737.054427617221
+    },
+    "sample_201": {
+        "expected": "'641524'",
+        "answer": "4yrw",
+        "time": 148.481,
+        "tokens": 683,
+        "toks/sec": 4599.9151406577275
+    },
+    "sample_642": {
+        "expected": "'space'",
+        "answer": "space",
+        "time": 128.482,
+        "tokens": 682,
+        "toks/sec": 5308.136548310269
+    },
+    "sample_523": {
+        "expected": "'&nbsp;&nbsp;&nbsp;'",
+        "answer": "",
+        "time": 128.635,
+        "tokens": 688,
+        "toks/sec": 5348.466591518639
+    },
+    "sample_66": {
+        "expected": "''",
+        "answer": "happy",
+        "time": 135.02,
+        "tokens": 700,
+        "toks/sec": 5184.4171233891275
+    },
+    "sample_390": {
+        "expected": "0",
+        "answer": "5",
+        "time": 121.814,
+        "tokens": 654,
+        "toks/sec": 5368.84101991561
+    },
+    "sample_481": {
+        "expected": "[1, 1]",
+        "answer": "[1, 2, 3]",
+        "time": 195.531,
+        "tokens": 724,
+        "toks/sec": 3702.7376733101146
+    },
+    "sample_437": {
+        "expected": "{'d': None, 'o': None, 'e': None}",
+        "answer": "{'john': 2, 'doe': 1}",
+        "time": 214.273,
+        "tokens": 688,
+        "toks/sec": 3210.8571775258665
+    },
+    "sample_534": {
+        "expected": "'hosu'",
+        "answer": "hosu",
+        "time": 129.348,
+        "tokens": 712,
+        "toks/sec": 5504.530414076754
+    },
+    "sample_771": {
+        "expected": "[2, 4, 6, 8]",
+        "answer": "3, 5",
+        "time": 150.878,
+        "tokens": 732,
+        "toks/sec": 4851.6019565476745
+    },
+    "sample_645": {
+        "expected": "1",
+        "answer": "2",
+        "time": 112.793,
+        "tokens": 691,
+        "toks/sec": 6126.266700947754
+    },
+    "sample_137": {
+        "expected": "[]",
+        "answer": "[2, 0, 2]",
+        "time": 178.422,
+        "tokens": 724,
+        "toks/sec": 4057.7955633273923
+    },
+    "sample_130": {
+        "expected": "'h=l'",
+        "answer": "l6",
+        "time": 146.689,
+        "tokens": 743,
+        "toks/sec": 5065.1378085609695
+    },
+    "sample_121": {
+        "expected": "'1001'",
+        "answer": "1001",
+        "time": 151.152,
+        "tokens": 694,
+        "toks/sec": 4591.40467873399
+    },
+    "sample_438": {
+        "expected": "'1                             3'",
+        "answer": "1\\t\\t\\t3",
+        "time": 202.065,
+        "tokens": 708,
+        "toks/sec": 3503.8230272437086
+    },
+    "sample_307": {
+        "expected": "'px|||||cznyf'",
+        "answer": "p|x|c|f",
+        "time": 179.836,
+        "tokens": 691,
+        "toks/sec": 3842.3897328677235
+    },
+    "sample_743": {
+        "expected": "-6",
+        "answer": "-5",
+        "time": 118.974,
+        "tokens": 666,
+        "toks/sec": 5597.861717686217
+    },
+    "sample_668": {
+        "expected": "'rhellomyfriendea'",
+        "answer": "'em",
+        "time": 115.569,
+        "tokens": 648,
+        "toks/sec": 5607.039950159645
+    },
+    "sample_671": {
+        "expected": "'gwrioad gmf rwdo sggoa'",
+        "answer": "\"rwyt emf rwto segy\"",
+        "time": 215.271,
+        "tokens": 745,
+        "toks/sec": 3460.7541192264634
+    },
+    "sample_505": {
+        "expected": "''",
+        "answer": "--4/0-209",
+        "time": 188.878,
+        "tokens": 675,
+        "toks/sec": 3573.735427101092
+    },
+    "sample_691": {
+        "expected": "'rpytt'",
+        "answer": "rtc",
+        "time": 127.887,
+        "tokens": 680,
+        "toks/sec": 5317.19408540352
+    },
+    "sample_139": {
+        "expected": "'no'",
+        "answer": "yes",
+        "time": 123.08,
+        "tokens": 716,
+        "toks/sec": 5817.354566135847
+    },
+    "sample_466": {
+        "expected": "'-----'",
+        "answer": "th",
+        "time": 121.805,
+        "tokens": 688,
+        "toks/sec": 5648.372398505808
+    },
+    "sample_347": {
+        "expected": "'hhhhhzcw'",
+        "answer": "hzcw",
+        "time": 128.436,
+        "tokens": 688,
+        "toks/sec": 5356.753558192407
+    },
+    "sample_714": {
+        "expected": "[]",
+        "answer": "[0, -2, 3]",
+        "time": 169.017,
+        "tokens": 679,
+        "toks/sec": 4017.347367424579
+    },
+    "sample_295": {
+        "expected": "['pear', 'banana', 'pear']",
+        "answer": "apple",
+        "time": 140.526,
+        "tokens": 706,
+        "toks/sec": 5023.981327298862
+    },
+    "sample_308": {
+        "expected": "{'La': 3, 'Q': 1, '9': 1}",
+        "answer": "{'La': 3, 'Q': 1, '9': 1}",
+        "time": 263.145,
+        "tokens": 702,
+        "toks/sec": 2667.730718805222
+    },
+    "sample_659": {
+        "expected": "4",
+        "answer": "4",
+        "time": 131.531,
+        "tokens": 709,
+        "toks/sec": 5390.364248732238
+    },
+    "sample_761": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 111.461,
+        "tokens": 663,
+        "toks/sec": 5948.268901230027
+    },
+    "sample_547": {
+        "expected": "'h,e,l,l,o,wo,r,ld'",
+        "answer": "\"hello world!\"",
+        "time": 140.663,
+        "tokens": 678,
+        "toks/sec": 4820.030853884817
+    },
+    "sample_348": {
+        "expected": "{563: 555, 133: None}",
+        "answer": "{563: 555}",
+        "time": 172.72,
+        "tokens": 661,
+        "toks/sec": 3827.0032422417785
+    },
+    "sample_442": {
+        "expected": "[1, 2, 3, 4]",
+        "answer": "[1, 2, 3, 4]",
+        "time": 203.691,
+        "tokens": 698,
+        "toks/sec": 3426.759159707596
+    },
+    "sample_29": {
+        "expected": "'123314'",
+        "answer": "134",
+        "time": 132.569,
+        "tokens": 677,
+        "toks/sec": 5106.7745853102915
+    },
+    "sample_548": {
+        "expected": "'spider'",
+        "answer": "spider",
+        "time": 116.83,
+        "tokens": 671,
+        "toks/sec": 5743.387828468715
+    },
+    "sample_330": {
+        "expected": "' 4 2 '",
+        "answer": "m4n2o",
+        "time": 152.849,
+        "tokens": 687,
+        "toks/sec": 4494.631957029487
+    },
+    "sample_167": {
+        "expected": "'aaQwQwQwbbQwQwQwccQwQwQwde'",
+        "answer": "aQcw",
+        "time": 143.641,
+        "tokens": 726,
+        "toks/sec": 5054.267235677836
+    },
+    "sample_485": {
+        "expected": "'avdropj gsd  '",
+        "answer": "gsd avdropj",
+        "time": 153.747,
+        "tokens": 700,
+        "toks/sec": 4552.934366199015
+    },
+    "sample_774": {
+        "expected": "'quiz leader = Cornareti, count = 23'",
+        "answer": "quiz leader = Cornareti, count = 1",
+        "time": 200.274,
+        "tokens": 678,
+        "toks/sec": 3385.362053986039
+    },
+    "sample_695": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 114.46,
+        "tokens": 705,
+        "toks/sec": 6159.356980604578
+    },
+    "sample_0": {
+        "expected": "[(4, 1), (4, 1), (4, 1), (4, 1), (2, 3), (2, 3)]",
+        "answer": "[([1, 3], 3), ([1, 1], 2)]",
+        "time": 270.419,
+        "tokens": 704,
+        "toks/sec": 2603.367366937974
+    },
+    "sample_785": {
+        "expected": "'1 '",
+        "answer": "111",
+        "time": 142.604,
+        "tokens": 669,
+        "toks/sec": 4691.31300664778
+    },
+    "sample_194": {
+        "expected": "[[], [5, 6, 2, 3], [1, 9, 5, 6]]",
+        "answer": "[[5, 6, 2, 3], [1, 9, 5, 6]]",
+        "time": 302.219,
+        "tokens": 700,
+        "toks/sec": 2316.2011653800723
+    },
+    "sample_721": {
+        "expected": "[-8, -7, -6, -5, 2]",
+        "answer": "[-8, -7, -6, -5, 2]",
+        "time": 225.234,
+        "tokens": 686,
+        "toks/sec": 3045.721338696644
+    },
+    "sample_48": {
+        "expected": "''",
+        "answer": "[]",
+        "time": 104.697,
+        "tokens": 686,
+        "toks/sec": 6552.241229452611
+    },
+    "sample_399": {
+        "expected": "'a--cado'",
+        "answer": "aaaa",
+        "time": 122.472,
+        "tokens": 710,
+        "toks/sec": 5797.243451564439
+    },
+    "sample_319": {
+        "expected": "4",
+        "answer": "3",
+        "time": 110.13,
+        "tokens": 678,
+        "toks/sec": 6156.360664669028
+    },
+    "sample_648": {
+        "expected": "6",
+        "answer": "5",
+        "time": 119.939,
+        "tokens": 711,
+        "toks/sec": 5928.013406815131
+    },
+    "sample_692": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 107.178,
+        "tokens": 683,
+        "toks/sec": 6372.576461587266
+    },
+    "sample_606": {
+        "expected": "'ruamNHIB'",
+        "answer": "ruam",
+        "time": 129.28,
+        "tokens": 660,
+        "toks/sec": 5105.19801980198
+    },
+    "sample_515": {
+        "expected": "[10, 8, 6, 4, 2]",
+        "answer": "[2, 4, 6, 8, 10]",
+        "time": 242.946,
+        "tokens": 691,
+        "toks/sec": 2844.2534555003995
+    },
+    "sample_574": {
+        "expected": "'Costanza'",
+        "answer": "George",
+        "time": 120.661,
+        "tokens": 677,
+        "toks/sec": 5610.760726332452
+    },
+    "sample_383": {
+        "expected": "'ellod!p.nkyp.exa.bi.y.hain'",
+        "answer": "hello!",
+        "time": 135.696,
+        "tokens": 708,
+        "toks/sec": 5217.545100813583
+    },
+    "sample_251": {
+        "expected": "'Marie;Nelson;Oscar;+;3;5;3'",
+        "answer": "Marie;Nelson;Oscar",
+        "time": 153.919,
+        "tokens": 695,
+        "toks/sec": 4515.361976104315
+    },
+    "sample_506": {
+        "expected": "'snts'",
+        "answer": "one",
+        "time": 124.163,
+        "tokens": 706,
+        "toks/sec": 5686.073951177082
+    },
+    "sample_769": {
+        "expected": "'AKa?RIU'",
+        "answer": "aA",
+        "time": 122.766,
+        "tokens": 686,
+        "toks/sec": 5587.866347360018
+    },
+    "sample_282": {
+        "expected": "2",
+        "answer": "5",
+        "time": 122.819,
+        "tokens": 694,
+        "toks/sec": 5650.591520855894
+    },
+    "sample_243": {
+        "expected": "True",
+        "answer": "a",
+        "time": 114.307,
+        "tokens": 652,
+        "toks/sec": 5703.9376416142495
+    },
+    "sample_43": {
+        "expected": "-1",
+        "answer": "6",
+        "time": 109.972,
+        "tokens": 665,
+        "toks/sec": 6046.99378023497
+    },
+    "sample_494": {
+        "expected": "'001'",
+        "answer": "\"13\"",
+        "time": 124.577,
+        "tokens": 672,
+        "toks/sec": 5394.254156064121
+    },
+    "sample_666": {
+        "expected": "4",
+        "answer": "2",
+        "time": 119.419,
+        "tokens": 733,
+        "toks/sec": 6138.051733811203
+    },
+    "sample_598": {
+        "expected": "''",
+        "answer": "abc",
+        "time": 118.312,
+        "tokens": 659,
+        "toks/sec": 5570.018256812496
+    },
+    "sample_269": {
+        "expected": "['0', 2]",
+        "answer": "[9, 2]",
+        "time": 159.908,
+        "tokens": 728,
+        "toks/sec": 4552.617755209246
+    },
+    "sample_211": {
+        "expected": "10",
+        "answer": "5",
+        "time": 118.689,
+        "tokens": 675,
+        "toks/sec": 5687.131916184314
+    },
+    "sample_287": {
+        "expected": "'pinneaple'",
+        "answer": "pineapple",
+        "time": 118.971,
+        "tokens": 668,
+        "toks/sec": 5614.813694093518
+    },
+    "sample_328": {
+        "expected": "[1, 2, 3, 1, 2, 3]",
+        "answer": "[1, 2, 3, 4]",
+        "time": 200.382,
+        "tokens": 695,
+        "toks/sec": 3468.3754029803076
+    },
+    "sample_109": {
+        "expected": "[9, 1, 0, 1, 1]",
+        "answer": "[1, 1, 1, 1]",
+        "time": 193.841,
+        "tokens": 675,
+        "toks/sec": 3482.2354403867084
+    },
+    "sample_117": {
+        "expected": "-1",
+        "answer": "3",
+        "time": 108.382,
+        "tokens": 669,
+        "toks/sec": 6172.611688287723
+    },
+    "sample_387": {
+        "expected": "[3, 1, 0, 2]",
+        "answer": "[3, 1, 2]",
+        "time": 162.539,
+        "tokens": 669,
+        "toks/sec": 4115.9352524624865
+    },
+    "sample_563": {
+        "expected": "2",
+        "answer": "5",
+        "time": 118.274,
+        "tokens": 683,
+        "toks/sec": 5774.726482574361
+    },
+    "sample_713": {
+        "expected": "True",
+        "answer": "False",
+        "time": 101.984,
+        "tokens": 684,
+        "toks/sec": 6706.934421085661
+    },
+    "sample_236": {
+        "expected": "'ac8qk6qk6'",
+        "answer": "ackqk",
+        "time": 138.309,
+        "tokens": 724,
+        "toks/sec": 5234.655734623198
+    },
+    "sample_95": {
+        "expected": "{'fr': 'AAA'}",
+        "answer": "{'AAA': 'fr'}",
+        "time": 150.996,
+        "tokens": 659,
+        "toks/sec": 4364.354022623115
+    },
+    "sample_752": {
+        "expected": "'zzzzzabc'",
+        "answer": "abcz",
+        "time": 124.403,
+        "tokens": 655,
+        "toks/sec": 5265.146338914657
+    },
+    "sample_84": {
+        "expected": "'nwvday mefday ofmeday bdrylday'",
+        "answer": "\"nvjamofbdayl\"",
+        "time": 167.364,
+        "tokens": 709,
+        "toks/sec": 4236.275423627542
+    },
+    "sample_221": {
+        "expected": "'.bpxa24fc5'",
+        "answer": "fc5.",
+        "time": 124.191,
+        "tokens": 666,
+        "toks/sec": 5362.707442568302
+    },
+    "sample_203": {
+        "expected": "{}",
+        "answer": "{'a': 3, 'b': -1, 'c': 'Dum'}",
+        "time": 260.723,
+        "tokens": 675,
+        "toks/sec": 2588.9545609708384
+    },
+    "sample_599": {
+        "expected": "['a', ' b c', 'b c', '', 'c', '']",
+        "answer": "['a', 'b', 'c']",
+        "time": 171.12,
+        "tokens": 715,
+        "toks/sec": 4178.354371201496
+    },
+    "sample_424": {
+        "expected": "'akers of a Statement'",
+        "answer": "\"Makers of a Statement\"",
+        "time": 178.644,
+        "tokens": 727,
+        "toks/sec": 4069.5461364501466
+    },
+    "sample_595": {
+        "expected": "'Qdhstudentamxupuihbuztn'",
+        "answer": "JDM",
+        "time": 132.612,
+        "tokens": 682,
+        "toks/sec": 5142.822670648207
+    },
+    "sample_155": {
+        "expected": "'dskj\\ns hj\\ncdjn\\nxhji\\ncnn'",
+        "answer": "\"jdmkjhxjdnjxhj\"",
+        "time": 199.321,
+        "tokens": 706,
+        "toks/sec": 3542.0251754707233
+    },
+    "sample_789": {
+        "expected": "'bR'",
+        "answer": "bR",
+        "time": 139.532,
+        "tokens": 721,
+        "toks/sec": 5167.273456984777
+    },
+    "sample_242": {
+        "expected": "'udhv zcvi nhtnfyd :erwuyawa pun'",
+        "answer": "\"udhv zcvi nhtnfyd :erwuyawa pun\"",
+        "time": 240.4,
+        "tokens": 725,
+        "toks/sec": 3015.8069883527455
+    },
+    "sample_777": {
+        "expected": "['avc  a .d e']",
+        "answer": "[\"avc a.d e\"]",
+        "time": 161.438,
+        "tokens": 693,
+        "toks/sec": 4292.669631685229
+    },
+    "sample_496": {
+        "expected": "0",
+        "answer": "3",
+        "time": 109.936,
+        "tokens": 680,
+        "toks/sec": 6185.41696987338
+    },
+    "sample_65": {
+        "expected": "9",
+        "answer": "15",
+        "time": 113.894,
+        "tokens": 671,
+        "toks/sec": 5891.442920610391
+    },
+    "sample_638": {
+        "expected": "'ababa'",
+        "answer": "a",
+        "time": 117.853,
+        "tokens": 672,
+        "toks/sec": 5702.018616411971
+    },
+    "sample_798": {
+        "expected": "'@!'",
+        "answer": "@hihu",
+        "time": 126.456,
+        "tokens": 666,
+        "toks/sec": 5266.65401404441
+    },
+    "sample_198": {
+        "expected": "'tcmfsm'",
+        "answer": "fsmj",
+        "time": 126.953,
+        "tokens": 661,
+        "toks/sec": 5206.651280395106
+    },
+    "sample_289": {
+        "expected": "\"148: b'148'\"",
+        "answer": "148",
+        "time": 137.885,
+        "tokens": 651,
+        "toks/sec": 4721.325742466549
+    },
+    "sample_603": {
+        "expected": "'not oscillating'",
+        "answer": "not oscillating",
+        "time": 123.342,
+        "tokens": 672,
+        "toks/sec": 5448.265797538552
+    },
+    "sample_292": {
+        "expected": "'5*83*23***'",
+        "answer": "5f83u23s*",
+        "time": 186.304,
+        "tokens": 678,
+        "toks/sec": 3639.213328753006
+    },
+    "sample_9": {
+        "expected": "False",
+        "answer": "True",
+        "time": 100.248,
+        "tokens": 663,
+        "toks/sec": 6613.598276274838
+    },
+    "sample_493": {
+        "expected": "['-4 => 4', '1 => 2', '- => -3']",
+        "answer": "['-4 => -4', '1 => 2', '- => -3']",
+        "time": 244.143,
+        "tokens": 696,
+        "toks/sec": 2850.7882675317333
+    },
+    "sample_404": {
+        "expected": "6",
+        "answer": "5",
+        "time": 114.151,
+        "tokens": 675,
+        "toks/sec": 5913.220208320558
+    },
+    "sample_169": {
+        "expected": "'++++taole++++'",
+        "answer": "taole",
+        "time": 129.765,
+        "tokens": 714,
+        "toks/sec": 5502.2540746734485
+    },
+    "sample_22": {
+        "expected": "[0]",
+        "answer": "0",
+        "time": 112.453,
+        "tokens": 702,
+        "toks/sec": 6242.608022907348
+    },
+    "sample_136": {
+        "expected": "'  a  \\n  bc \\n     \\n  d  \\n  ef '",
+        "answer": "\"a\\n\\n\\n\\n\\n\"",
+        "time": 202.26,
+        "tokens": 686,
+        "toks/sec": 3391.674082863641
+    },
+    "sample_637": {
+        "expected": "'no'",
+        "answer": "yes",
+        "time": 120.972,
+        "tokens": 681,
+        "toks/sec": 5629.401845055055
+    },
+    "sample_61": {
+        "expected": "'nada'",
+        "answer": "nada",
+        "time": 125.642,
+        "tokens": 697,
+        "toks/sec": 5547.507998917559
+    },
+    "sample_728": {
+        "expected": "''",
+        "answer": "r",
+        "time": 131.266,
+        "tokens": 699,
+        "toks/sec": 5325.065134916887
+    },
+    "sample_196": {
+        "expected": "'correct'",
+        "answer": "mixed",
+        "time": 120.028,
+        "tokens": 685,
+        "toks/sec": 5707.001699603426
+    },
+    "sample_747": {
+        "expected": "False",
+        "answer": "True",
+        "time": 106.106,
+        "tokens": 704,
+        "toks/sec": 6634.874559402861
+    },
+    "sample_531": {
+        "expected": "'djgblw asdl '",
+        "answer": "\"asdl \"",
+        "time": 126.814,
+        "tokens": 681,
+        "toks/sec": 5370.069550680524
+    },
+    "sample_372": {
+        "expected": "['']",
+        "answer": "['1v']",
+        "time": 124.328,
+        "tokens": 679,
+        "toks/sec": 5461.360272826716
+    },
+    "sample_370": {
+        "expected": "False",
+        "answer": "True",
+        "time": 101.315,
+        "tokens": 656,
+        "toks/sec": 6474.855648225831
+    },
+    "sample_605": {
+        "expected": "'quack'",
+        "answer": "quack",
+        "time": 126.565,
+        "tokens": 662,
+        "toks/sec": 5230.513965156244
+    },
+    "sample_205": {
+        "expected": "'fiu##nk#he###wumun'",
+        "answer": "\"##fiu##nk#he###wumun##\"",
+        "time": 214.005,
+        "tokens": 731,
+        "toks/sec": 3415.8080418681807
+    },
+    "sample_766": {
+        "expected": "{'0': 117, '3': 117, '03': 351}",
+        "answer": "{'0': 33, '3': 99}",
+        "time": 212.515,
+        "tokens": 700,
+        "toks/sec": 3293.8851375197046
+    },
+    "sample_709": {
+        "expected": "'loved a'",
+        "answer": "a loved",
+        "time": 126.59,
+        "tokens": 668,
+        "toks/sec": 5276.878110435263
+    },
+    "sample_379": {
+        "expected": "False",
+        "answer": "True",
+        "time": 102.735,
+        "tokens": 689,
+        "toks/sec": 6706.575169124447
+    },
+    "sample_309": {
+        "expected": "'faqo osax '",
+        "answer": "faqo osax f",
+        "time": 152.547,
+        "tokens": 676,
+        "toks/sec": 4431.421135781104
+    },
+    "sample_35": {
+        "expected": "[]",
+        "answer": "[0, 2, 4]",
+        "time": 183.98,
+        "tokens": 705,
+        "toks/sec": 3831.9382541580608
+    },
+    "sample_16": {
+        "expected": "'zejrohaj'",
+        "answer": "jrohaj",
+        "time": 133.949,
+        "tokens": 665,
+        "toks/sec": 4964.57606999679
+    },
+    "sample_162": {
+        "expected": "'\u0421BISHOPSWIFT'",
+        "answer": "SC BISHOP SWIFT",
+        "time": 156.073,
+        "tokens": 672,
+        "toks/sec": 4305.677471439647
+    },
+    "sample_447": {
+        "expected": "'||a'",
+        "answer": "\"||\"",
+        "time": 124.811,
+        "tokens": 707,
+        "toks/sec": 5664.564822010881
+    },
+    "sample_107": {
+        "expected": "'UA6HAJQ'",
+        "answer": "UJAHQAJ",
+        "time": 157.112,
+        "tokens": 714,
+        "toks/sec": 4544.52874382606
+    },
+    "sample_305": {
+        "expected": "'o hoseto'",
+        "answer": "horseto",
+        "time": 133.056,
+        "tokens": 725,
+        "toks/sec": 5448.833573833574
+    },
+    "sample_233": {
+        "expected": "[1, 2, 3]",
+        "answer": "[3, 2, 1]",
+        "time": 171.943,
+        "tokens": 681,
+        "toks/sec": 3960.614854922852
+    },
+    "sample_765": {
+        "expected": "3",
+        "answer": "5",
+        "time": 106.335,
+        "tokens": 650,
+        "toks/sec": 6112.756853340857
+    },
+    "sample_34": {
+        "expected": "[2, 7, 7, 6, 8, 4, 2, 5, 21]",
+        "answer": "[1, 2, 3, 7, 6]",
+        "time": 235.621,
+        "tokens": 744,
+        "toks/sec": 3157.6132857427815
+    },
+    "sample_227": {
+        "expected": "'Manolo'",
+        "answer": "MANOLO",
+        "time": 130.818,
+        "tokens": 666,
+        "toks/sec": 5091.042517084805
+    },
+    "sample_276": {
+        "expected": "[0]",
+        "answer": "[]",
+        "time": 101.882,
+        "tokens": 679,
+        "toks/sec": 6664.572741014114
+    },
+    "sample_218": {
+        "expected": "'bacfbacfcbaacbacfbacfcbaac'",
+        "answer": "cabcaca",
+        "time": 138.108,
+        "tokens": 669,
+        "toks/sec": 4844.035102962898
+    },
+    "sample_10": {
+        "expected": "''",
+        "answer": "abc123",
+        "time": 146.532,
+        "tokens": 687,
+        "toks/sec": 4688.395708787159
+    },
+    "sample_8": {
+        "expected": "'UppEr'",
+        "answer": "UYPER",
+        "time": 128.113,
+        "tokens": 669,
+        "toks/sec": 5221.952495062952
+    },
+    "sample_499": {
+        "expected": "'.........magazine........'",
+        "answer": "magazine",
+        "time": 112.885,
+        "tokens": 664,
+        "toks/sec": 5882.092394915179
+    },
+    "sample_664": {
+        "expected": "'3 4 '",
+        "answer": "\"3 4\"",
+        "time": 135.443,
+        "tokens": 666,
+        "toks/sec": 4917.197640335787
+    },
+    "sample_384": {
+        "expected": "'sfdellos'",
+        "answer": "asdf",
+        "time": 129.997,
+        "tokens": 721,
+        "toks/sec": 5546.281837273167
+    },
+    "sample_408": {
+        "expected": "[-1, 2, -7, 4, 0, 6, -4]",
+        "answer": "[-7, 6, 4, 4, -1, 2]",
+        "time": 240.37,
+        "tokens": 676,
+        "toks/sec": 2812.330989724175
+    },
+    "sample_72": {
+        "expected": "True",
+        "answer": "True",
+        "time": 106.701,
+        "tokens": 659,
+        "toks/sec": 6176.137055885138
+    },
+    "sample_678": {
+        "expected": "{'h': 1, 'i': 1}",
+        "answer": "H1",
+        "time": 135.144,
+        "tokens": 682,
+        "toks/sec": 5046.4689516367725
+    },
+    "sample_119": {
+        "expected": "'VsNlYgLtAw'",
+        "answer": "\"vsylgtaw\"",
+        "time": 153.222,
+        "tokens": 693,
+        "toks/sec": 4522.849199201159
+    },
+    "sample_497": {
+        "expected": "['4', '4']",
+        "answer": "44+",
+        "time": 121.412,
+        "tokens": 667,
+        "toks/sec": 5493.690903699799
+    },
+    "sample_49": {
+        "expected": "'816'",
+        "answer": "816",
+        "time": 141.76,
+        "tokens": 673,
+        "toks/sec": 4747.460496613996
+    },
+    "sample_430": {
+        "expected": "[5, 1, 3, 7, 8, '', 0, -1, []]",
+        "answer": "[1, 3, 5, 7, 8]",
+        "time": 219.866,
+        "tokens": 698,
+        "toks/sec": 3174.6609298390836
+    },
+    "sample_558": {
+        "expected": "False",
+        "answer": "True",
+        "time": 111.677,
+        "tokens": 725,
+        "toks/sec": 6491.936567063943
+    },
+    "sample_457": {
+        "expected": "[]",
+        "answer": "[3, 1, 7, 5, 6]",
+        "time": 224.086,
+        "tokens": 709,
+        "toks/sec": 3163.9638353132277
+    },
+    "sample_584": {
+        "expected": "'5123807309875480094949830'",
+        "answer": "\"5123807309875480100000000000000000000000\"",
+        "time": 456.613,
+        "tokens": 709,
+        "toks/sec": 1552.7372194834575
+    },
+    "sample_507": {
+        "expected": "0",
+        "answer": "0",
+        "time": 106.674,
+        "tokens": 657,
+        "toks/sec": 6158.951572079419
+    },
+    "sample_707": {
+        "expected": "'udbs l'",
+        "answer": "dblu",
+        "time": 145.763,
+        "tokens": 710,
+        "toks/sec": 4870.920603994155
+    },
+    "sample_644": {
+        "expected": "[6, 1]",
+        "answer": "[1, 6]",
+        "time": 158.173,
+        "tokens": 683,
+        "toks/sec": 4318.056811213039
+    },
+    "sample_131": {
+        "expected": "1",
+        "answer": "3",
+        "time": 114.68,
+        "tokens": 722,
+        "toks/sec": 6295.779560516218
+    },
+    "sample_102": {
+        "expected": "[]",
+        "answer": "jkxz",
+        "time": 132.815,
+        "tokens": 707,
+        "toks/sec": 5323.19391634981
+    },
+    "sample_711": {
+        "expected": "'apples\\t\\t\\tpears\\t\\t\\tbananas'",
+        "answer": "apples\\npears\\nbananas",
+        "time": 174.261,
+        "tokens": 667,
+        "toks/sec": 3827.591945415211
+    },
+    "sample_660": {
+        "expected": "4",
+        "answer": "6",
+        "time": 115.08,
+        "tokens": 695,
+        "toks/sec": 6039.277024678485
+    },
+    "sample_175": {
+        "expected": "' '",
+        "answer": "2 2",
+        "time": 164.665,
+        "tokens": 747,
+        "toks/sec": 4536.483162785049
+    },
+    "sample_58": {
+        "expected": "[-1, 0, 0, 1, 1, -1, 0, -1, 0, -1]",
+        "answer": "[1, 0, 1, 1]",
+        "time": 205.971,
+        "tokens": 693,
+        "toks/sec": 3364.551320331503
+    },
+    "sample_472": {
+        "expected": "[1, 1, 1, 1, 1]",
+        "answer": "[5, 3, 2, 1]",
+        "time": 194.737,
+        "tokens": 720,
+        "toks/sec": 3697.2942994911086
+    },
+    "sample_392": {
+        "expected": "'Hello Is It MyClass'",
+        "answer": "HELLO IS IT CLASSROOM",
+        "time": 147.912,
+        "tokens": 662,
+        "toks/sec": 4475.634160852399
+    },
+    "sample_467": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 102.52,
+        "tokens": 671,
+        "toks/sec": 6545.064377682404
+    },
+    "sample_176": {
+        "expected": "'some text'",
+        "answer": "some text some",
+        "time": 139.886,
+        "tokens": 699,
+        "toks/sec": 4996.926068369959
+    },
+    "sample_323": {
+        "expected": "1",
+        "answer": "XFd",
+        "time": 124.732,
+        "tokens": 656,
+        "toks/sec": 5259.275887502806
+    },
+    "sample_56": {
+        "expected": "True",
+        "answer": "True",
+        "time": 103.41,
+        "tokens": 668,
+        "toks/sec": 6459.723431002804
+    },
+    "sample_225": {
+        "expected": "False",
+        "answer": "True",
+        "time": 99.569,
+        "tokens": 651,
+        "toks/sec": 6538.17955387721
+    },
+    "sample_799": {
+        "expected": "'neqe-;ew22'",
+        "answer": "eqe;-ew22",
+        "time": 159.717,
+        "tokens": 693,
+        "toks/sec": 4338.924472661019
+    },
+    "sample_124": {
+        "expected": "'i like you'",
+        "answer": "i like you",
+        "time": 141.128,
+        "tokens": 721,
+        "toks/sec": 5108.837367496174
+    },
+    "sample_684": {
+        "expected": "'Transform quotations9\\nnot into numbers.'",
+        "answer": "\"Transform quotations not into numbers.\"",
+        "time": 159.131,
+        "tokens": 671,
+        "toks/sec": 4216.651689488534
+    },
+    "sample_351": {
+        "expected": "'a_A_b_B3 '",
+        "answer": "a_b_B3",
+        "time": 160.41,
+        "tokens": 689,
+        "toks/sec": 4295.2434386883615
+    },
+    "sample_420": {
+        "expected": "True",
+        "answer": "True",
+        "time": 104.41,
+        "tokens": 650,
+        "toks/sec": 6225.457331673211
+    },
+    "sample_543": {
+        "expected": "'.,,,,, , \u0645\u0646\u0628\u062a'",
+        "answer": "'M. FROM",
+        "time": 128.83,
+        "tokens": 683,
+        "toks/sec": 5301.560195606613
+    },
+    "sample_719": {
+        "expected": "'i f (x) {y = 1;} else {z = 1;}'",
+        "answer": "\"if y = 1; else z = 1\"",
+        "time": 214.16,
+        "tokens": 736,
+        "toks/sec": 3436.682853940979
+    },
+    "sample_636": {
+        "expected": "{3: 'A3', 1: 'A1', 2: 'A2'}",
+        "answer": "{1: 'A1', 2: 'A2', 3: 'A3'}",
+        "time": 299.63,
+        "tokens": 716,
+        "toks/sec": 2389.6138570904113
+    },
+    "sample_703": {
+        "expected": "'zzv2sg'",
+        "answer": "v2sg",
+        "time": 141.584,
+        "tokens": 663,
+        "toks/sec": 4682.732512148265
+    },
+    "sample_669": {
+        "expected": "'fubarbaz'",
+        "answer": "fubarbaz",
+        "time": 141.185,
+        "tokens": 684,
+        "toks/sec": 4844.707298934022
+    },
+    "sample_751": {
+        "expected": "'wwwwhhhtttpp'",
+        "answer": "\"WwHhTtPp\"",
+        "time": 146.079,
+        "tokens": 683,
+        "toks/sec": 4675.552269662306
+    },
+    "sample_670": {
+        "expected": "[2, 2]",
+        "answer": "['2', '12']",
+        "time": 148.585,
+        "tokens": 690,
+        "toks/sec": 4643.806575360904
+    },
+    "sample_585": {
+        "expected": "',,,?'",
+        "answer": "??",
+        "time": 119.717,
+        "tokens": 681,
+        "toks/sec": 5688.415179130783
+    },
+    "sample_762": {
+        "expected": "'this and cpanel'",
+        "answer": "this and cpanel",
+        "time": 146.071,
+        "tokens": 667,
+        "toks/sec": 4566.272566080878
+    },
+    "sample_521": {
+        "expected": "[77, 9, 0, 2, 5, 77, 4, 0, 43]",
+        "answer": "[77, 77, 5, 4, 4, 2, 0, 0, 9]",
+        "time": 347.118,
+        "tokens": 713,
+        "toks/sec": 2054.056545612731
+    },
+    "sample_86": {
+        "expected": "['sdfs', 'drcr', '2e']",
+        "answer": "sdfs",
+        "time": 131.997,
+        "tokens": 717,
+        "toks/sec": 5431.941635037159
+    },
+    "sample_350": {
+        "expected": "[1, 2, 3]",
+        "answer": "123",
+        "time": 138.576,
+        "tokens": 704,
+        "toks/sec": 5080.244775430089
+    },
+    "sample_40": {
+        "expected": "'the cow goes moo#'",
+        "answer": "\"the cow goes #\"",
+        "time": 140.641,
+        "tokens": 657,
+        "toks/sec": 4671.46849069617
+    },
+    "sample_177": {
+        "expected": "'HEy Dude tHIs $Nd^ &*&tHiS@#'",
+        "answer": "Hey Dude This Is This",
+        "time": 166.265,
+        "tokens": 700,
+        "toks/sec": 4210.146452951613
+    },
+    "sample_503": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 111.819,
+        "tokens": 693,
+        "toks/sec": 6197.515627934429
+    },
+    "sample_460": {
+        "expected": "'GENERAL NAGOOR'",
+        "answer": "GENERAL NAGOOR",
+        "time": 162.807,
+        "tokens": 709,
+        "toks/sec": 4354.849607203621
+    },
+    "sample_794": {
+        "expected": "'normalcharsqwet42'",
+        "answer": "\\'normal chars\\",
+        "time": 148.232,
+        "tokens": 683,
+        "toks/sec": 4607.642074585784
+    },
+    "sample_530": {
+        "expected": "'ff'",
+        "answer": "ff",
+        "time": 129.225,
+        "tokens": 694,
+        "toks/sec": 5370.4778487134845
+    },
+    "sample_640": {
+        "expected": "18",
+        "answer": "4",
+        "time": 129.434,
+        "tokens": 707,
+        "toks/sec": 5462.243305468424
+    },
+    "sample_445": {
+        "expected": "'Carrot,  Banana,  and Strawberry'",
+        "answer": "carrot banana and strawberry",
+        "time": 159.175,
+        "tokens": 692,
+        "toks/sec": 4347.416365635307
+    },
+    "sample_608": {
+        "expected": "{1: 1, 2: 2, 3: 3}",
+        "answer": "{1: 3, 2: 2, 3: 1}",
+        "time": 267.271,
+        "tokens": 687,
+        "toks/sec": 2570.424774853987
+    },
+    "sample_525": {
+        "expected": "('TEXT', 'CODE')",
+        "answer": "7, 3",
+        "time": 179.924,
+        "tokens": 740,
+        "toks/sec": 4112.847646784197
+    },
+    "sample_170": {
+        "expected": "2",
+        "answer": "2",
+        "time": 118.793,
+        "tokens": 662,
+        "toks/sec": 5572.718931250158
+    },
+    "sample_775": {
+        "expected": "[1, 3, 1, 6, 2]",
+        "answer": "[1, 2, 3, 6, 1]",
+        "time": 244.178,
+        "tokens": 710,
+        "toks/sec": 2907.7148637469386
+    },
+    "sample_363": {
+        "expected": "[1]",
+        "answer": "[1]",
+        "time": 148.226,
+        "tokens": 746,
+        "toks/sec": 5032.855234574231
+    },
+    "sample_686": {
+        "expected": "{'lorem ipsum': 12, 'dolor': 23}",
+        "answer": "{\"lorem ipsum\": 12, \"dolor\": 23}",
+        "time": 261.072,
+        "tokens": 721,
+        "toks/sec": 2761.6902616902617
+    },
+    "sample_228": {
+        "expected": "'llthh#saflapkphtswp'",
+        "answer": "llthhsaflapkhptswp",
+        "time": 182.568,
+        "tokens": 666,
+        "toks/sec": 3647.955830156435
+    },
+    "sample_230": {
+        "expected": "'qozx'",
+        "answer": "102xz0z",
+        "time": 177.732,
+        "tokens": 696,
+        "toks/sec": 3916.0083721558303
+    },
+    "sample_33": {
+        "expected": "'{5:[5,5],2:[5,2,2],7:[5,2,7]}'",
+        "answer": "2 2 5 5 7",
+        "time": 217.107,
+        "tokens": 727,
+        "toks/sec": 3348.5792719718847
+    },
+    "sample_403": {
+        "expected": "2",
+        "answer": "4",
+        "time": 132.981,
+        "tokens": 711,
+        "toks/sec": 5346.628465720667
+    },
+    "sample_448": {
+        "expected": "False",
+        "answer": "True",
+        "time": 106.123,
+        "tokens": 662,
+        "toks/sec": 6238.044533230308
+    },
+    "sample_744": {
+        "expected": "'jrowdlp'",
+        "answer": "jwldp",
+        "time": 142.406,
+        "tokens": 670,
+        "toks/sec": 4704.857941378874
+    },
+    "sample_455": {
+        "expected": "'?XyZ'",
+        "answer": "?YZX",
+        "time": 133.904,
+        "tokens": 680,
+        "toks/sec": 5078.265025690047
+    },
+    "sample_248": {
+        "expected": "[666]",
+        "answer": "666",
+        "time": 136.019,
+        "tokens": 662,
+        "toks/sec": 4866.967114888361
+    },
+    "sample_618": {
+        "expected": "'89'",
+        "answer": "98",
+        "time": 130.721,
+        "tokens": 653,
+        "toks/sec": 4995.371822430979
+    },
+    "sample_687": {
+        "expected": "'R:j:u:g: :z:u:f:E:rjug nzufe'",
+        "answer": "Rjug nzufE",
+        "time": 169.822,
+        "tokens": 686,
+        "toks/sec": 4039.5237366183414
+    },
+    "sample_127": {
+        "expected": "3",
+        "answer": "3",
+        "time": 119.788,
+        "tokens": 658,
+        "toks/sec": 5493.037699936554
+    },
+    "sample_562": {
+        "expected": "True",
+        "answer": "VTBAEPJSLGAHINS",
+        "time": 188.881,
+        "tokens": 659,
+        "toks/sec": 3488.9692451861224
+    },
+    "sample_609": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 111.912,
+        "tokens": 688,
+        "toks/sec": 6147.687468725427
+    },
+    "sample_702": {
+        "expected": "[-4, -5, 0]",
+        "answer": "[0, -4, -5]",
+        "time": 186.047,
+        "tokens": 692,
+        "toks/sec": 3719.4902363381298
+    },
+    "sample_582": {
+        "expected": "[5, 5, 5, 5, 5, 5, 5]",
+        "answer": "[7, 5]",
+        "time": 154.837,
+        "tokens": 666,
+        "toks/sec": 4301.297493493158
+    },
+    "sample_60": {
+        "expected": "'R'",
+        "answer": "RARROWA",
+        "time": 145.147,
+        "tokens": 661,
+        "toks/sec": 4554.003871936727
+    },
+    "sample_342": {
+        "expected": "False",
+        "answer": "3",
+        "time": 113.628,
+        "tokens": 650,
+        "toks/sec": 5720.4210229872915
+    },
+    "sample_290": {
+        "expected": "'ABIXAAAILY'",
+        "answer": "abxaaaily",
+        "time": 156.444,
+        "tokens": 689,
+        "toks/sec": 4404.131829919972
+    },
+    "sample_552": {
+        "expected": "{2: 0.76, 5: [3, 6, 9, 12]}",
+        "answer": "{2: 0.76, 5: 3}",
+        "time": 236.183,
+        "tokens": 724,
+        "toks/sec": 3065.419611064302
+    },
+    "sample_611": {
+        "expected": "[1, 0, -3, 1, -2, -6]",
+        "answer": "[-2, -1, 1, 3, 0, 6]",
+        "time": 261.651,
+        "tokens": 676,
+        "toks/sec": 2583.594176976201
+    },
+    "sample_42": {
+        "expected": "[]",
+        "answer": "[4, 6, 4, 8, 2, -2, 8, 4]",
+        "time": 317.829,
+        "tokens": 702,
+        "toks/sec": 2208.7348857404454
+    },
+    "sample_79": {
+        "expected": "'1,2,3,4'",
+        "answer": "1,2,3,4",
+        "time": 196.444,
+        "tokens": 706,
+        "toks/sec": 3593.8995337093525
+    },
+    "sample_246": {
+        "expected": "-1",
+        "answer": "10",
+        "time": 120.854,
+        "tokens": 686,
+        "toks/sec": 5676.270541314313
+    },
+    "sample_172": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 105.06,
+        "tokens": 664,
+        "toks/sec": 6320.197982105464
+    },
+    "sample_704": {
+        "expected": "'.'",
+        "answer": "99",
+        "time": 138.621,
+        "tokens": 677,
+        "toks/sec": 4883.819911845968
+    },
+    "sample_462": {
+        "expected": "'oooooooo'",
+        "answer": "123",
+        "time": 146.249,
+        "tokens": 680,
+        "toks/sec": 4649.6044417397725
+    },
+    "sample_82": {
+        "expected": "'BFS'",
+        "answer": "CJU",
+        "time": 128.217,
+        "tokens": 664,
+        "toks/sec": 5178.720450486285
+    },
+    "sample_635": {
+        "expected": "False",
+        "answer": "True",
+        "time": 116.159,
+        "tokens": 709,
+        "toks/sec": 6103.702683390869
+    },
+    "sample_192": {
+        "expected": "'!klcd!ma:ri'",
+        "answer": "!klcd!ma:ri",
+        "time": 166.904,
+        "tokens": 681,
+        "toks/sec": 4080.1898097109715
+    },
+    "sample_411": {
+        "expected": "False",
+        "answer": "Hello World",
+        "time": 141.169,
+        "tokens": 680,
+        "toks/sec": 4816.921562099327
+    },
+    "sample_263": {
+        "expected": "['gloss', 'banana', 'barn', 'lawn']",
+        "answer": "\"banana\"",
+        "time": 127.025,
+        "tokens": 713,
+        "toks/sec": 5613.068293642983
+    },
+    "sample_355": {
+        "expected": "'23x John z'",
+        "answer": "123x",
+        "time": 152.929,
+        "tokens": 656,
+        "toks/sec": 4289.572285178089
+    },
+    "sample_555": {
+        "expected": "'odes  code  well'",
+        "answer": "\"odes code well\"",
+        "time": 145.348,
+        "tokens": 692,
+        "toks/sec": 4760.987423287558
+    },
+    "sample_152": {
+        "expected": "20",
+        "answer": "20",
+        "time": 118.757,
+        "tokens": 671,
+        "toks/sec": 5650.193251766212
+    },
+    "sample_483": {
+        "expected": "' '",
+        "answer": "a",
+        "time": 124.534,
+        "tokens": 655,
+        "toks/sec": 5259.6078179453
+    },
+    "sample_259": {
+        "expected": "'RES'",
+        "answer": "String matching is a big part of RexEx Library",
+        "time": 213.491,
+        "tokens": 726,
+        "toks/sec": 3400.6117353893137
+    },
+    "sample_722": {
+        "expected": "',WpZpPPDL/'",
+        "answer": ",wzPpdl/",
+        "time": 151.852,
+        "tokens": 695,
+        "toks/sec": 4576.824803097753
+    },
+    "sample_787": {
+        "expected": "'Xzd'",
+        "answer": "XZ",
+        "time": 124.486,
+        "tokens": 671,
+        "toks/sec": 5390.164355831178
+    },
+    "sample_757": {
+        "expected": "'an2a8'",
+        "answer": "a8n2",
+        "time": 153.164,
+        "tokens": 661,
+        "toks/sec": 4315.6355279308455
+    },
+    "sample_298": {
+        "expected": "'DST VAVF N DMV DFVM GAMCU DGCVB.'",
+        "answer": "dmv dfvm gamcu dgcvb",
+        "time": 210.026,
+        "tokens": 721,
+        "toks/sec": 3432.9083065906125
+    },
+    "sample_133": {
+        "expected": "[7, 1, 2]",
+        "answer": "[2, 1, 6]",
+        "time": 182.509,
+        "tokens": 695,
+        "toks/sec": 3808.031384753629
+    },
+    "sample_718": {
+        "expected": "'0ThisIsSoAtrocious'",
+        "answer": "13",
+        "time": 129.573,
+        "tokens": 672,
+        "toks/sec": 5186.265657197101
+    },
+    "sample_520": {
+        "expected": "6",
+        "answer": "6",
+        "time": 127.702,
+        "tokens": 672,
+        "toks/sec": 5262.2511785250035
+    },
+    "sample_258": {
+        "expected": "[1, 2, 7, 3, 9]",
+        "answer": "[1, 2, 7, 8]",
+        "time": 234.427,
+        "tokens": 759,
+        "toks/sec": 3237.681666360957
+    },
+    "sample_471": {
+        "expected": "-1",
+        "answer": "0",
+        "time": 125.723,
+        "tokens": 688,
+        "toks/sec": 5472.347939517829
+    },
+    "sample_2": {
+        "expected": "'hbtofdeiequ'",
+        "answer": "hello",
+        "time": 130.435,
+        "tokens": 682,
+        "toks/sec": 5228.6579522367465
+    },
+    "sample_142": {
+        "expected": "'ykdfhp'",
+        "answer": "f",
+        "time": 122.676,
+        "tokens": 658,
+        "toks/sec": 5363.722325475235
+    },
+    "sample_564": {
+        "expected": "[395, 666, 7, 4]",
+        "answer": "[[4223, 111]]",
+        "time": 208.95,
+        "tokens": 693,
+        "toks/sec": 3316.5829145728644
+    },
+    "sample_216": {
+        "expected": "2",
+        "answer": "2",
+        "time": 118.713,
+        "tokens": 666,
+        "toks/sec": 5610.169063202851
+    },
+    "sample_446": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 109.25,
+        "tokens": 669,
+        "toks/sec": 6123.569794050343
+    },
+    "sample_576": {
+        "expected": "['x', -2, -1, -6]",
+        "answer": "[-2, -4, -6]",
+        "time": 189.332,
+        "tokens": 718,
+        "toks/sec": 3792.2802273255447
+    },
+    "sample_643": {
+        "expected": "'damdrodM'",
+        "answer": "dmdm",
+        "time": 138.618,
+        "tokens": 670,
+        "toks/sec": 4833.42711624753
+    },
+    "sample_469": {
+        "expected": "'syduyi'",
+        "answer": "sduyaiy",
+        "time": 172.557,
+        "tokens": 727,
+        "toks/sec": 4213.100598642767
+    },
+    "sample_90": {
+        "expected": "[[1, 2, 3], [], [1, 2, 3]]",
+        "answer": "[[1, 2, 3], [], [1, 2, 3]]",
+        "time": 279.1,
+        "tokens": 698,
+        "toks/sec": 2500.8957362952347
+    },
+    "sample_569": {
+        "expected": "6",
+        "answer": "3",
+        "time": 129.07,
+        "tokens": 696,
+        "toks/sec": 5392.422716355466
+    },
+    "sample_316": {
+        "expected": "'| i am your father |'",
+        "answer": "i am your father |",
+        "time": 160.725,
+        "tokens": 659,
+        "toks/sec": 4100.171099704465
+    },
+    "sample_268": {
+        "expected": "'h / g r a t e f u l   k'",
+        "answer": "h grateful /",
+        "time": 151.772,
+        "tokens": 693,
+        "toks/sec": 4566.059615739398
+    },
+    "sample_694": {
+        "expected": "('c', {'e': 1, 'd': 2})",
+        "answer": "c",
+        "time": 128.492,
+        "tokens": 684,
+        "toks/sec": 5323.28860940759
+    },
+    "sample_444": {
+        "expected": "[5, -2, 2, -5]",
+        "answer": "[-5, 3, -1, -2, -3, 5]",
+        "time": 268.561,
+        "tokens": 716,
+        "toks/sec": 2666.0609693887054
+    },
+    "sample_339": {
+        "expected": "2",
+        "answer": "2",
+        "time": 127.837,
+        "tokens": 693,
+        "toks/sec": 5420.965761086383
+    },
+    "sample_423": {
+        "expected": "[4, 2, 5, 1, 3, 2]",
+        "answer": "[2, 5, 1]",
+        "time": 191.123,
+        "tokens": 710,
+        "toks/sec": 3714.885178654584
+    },
+    "sample_17": {
+        "expected": "9",
+        "answer": "5",
+        "time": 117.678,
+        "tokens": 648,
+        "toks/sec": 5506.55177688268
+    },
+    "sample_197": {
+        "expected": "'1234567890 0'",
+        "answer": "123M",
+        "time": 159.508,
+        "tokens": 690,
+        "toks/sec": 4325.8018406600295
+    },
+    "sample_267": {
+        "expected": "'sowpf'",
+        "answer": "sowpf",
+        "time": 140.06,
+        "tokens": 670,
+        "toks/sec": 4783.664143938312
+    },
+    "sample_249": {
+        "expected": "{'f': 1, 's': 1, 'a': 1}",
+        "answer": "{'F': 1, 'S': 1}",
+        "time": 216.8,
+        "tokens": 728,
+        "toks/sec": 3357.933579335793
+    },
+    "sample_624": {
+        "expected": "'xllomnrpc'",
+        "answer": "xllomnrpc",
+        "time": 175.156,
+        "tokens": 715,
+        "toks/sec": 4082.0754070657013
+    },
+    "sample_418": {
+        "expected": "'qqqqq'",
+        "answer": "\"qqqq#. \"",
+        "time": 156.735,
+        "tokens": 753,
+        "toks/sec": 4804.2874916259925
+    },
+    "sample_749": {
+        "expected": "'l \\nl '",
+        "answer": "l|l",
+        "time": 149.492,
+        "tokens": 702,
+        "toks/sec": 4695.903459716908
+    },
+    "sample_566": {
+        "expected": "'towaru'",
+        "answer": "\"towaru\"",
+        "time": 156.514,
+        "tokens": 706,
+        "toks/sec": 4510.778588496875
+    },
+    "sample_449": {
+        "expected": "True",
+        "answer": "0",
+        "time": 119.721,
+        "tokens": 671,
+        "toks/sec": 5604.697588560069
+    },
+    "sample_614": {
+        "expected": "-1",
+        "answer": "9",
+        "time": 126.209,
+        "tokens": 713,
+        "toks/sec": 5649.359395922636
+    },
+    "sample_654": {
+        "expected": "'aph?d'",
+        "answer": "apiph",
+        "time": 144.04,
+        "tokens": 675,
+        "toks/sec": 4686.19827825604
+    },
+    "sample_338": {
+        "expected": "{1: 'a', 2: 'd', 3: 'c'}",
+        "answer": "{'a': 1, 'b': 2, 'c': 3, 'd': 2}",
+        "time": 327.02,
+        "tokens": 700,
+        "toks/sec": 2140.5418628830043
+    },
+    "sample_795": {
+        "expected": "'Fu,Ux Zfujijabji Pfu.'",
+        "answer": "FU,UX ZFJIJABJI PFU.",
+        "time": 213.648,
+        "tokens": 666,
+        "toks/sec": 3117.277016400809
+    },
+    "sample_143": {
+        "expected": "True",
+        "answer": "True",
+        "time": 106.697,
+        "tokens": 652,
+        "toks/sec": 6110.762251984592
+    },
+    "sample_601": {
+        "expected": "'ccccc sssss hhhhh AAAAA rrrrr ppppp'",
+        "answer": "cph",
+        "time": 138.97,
+        "tokens": 701,
+        "toks/sec": 5044.254155573145
+    },
+    "sample_353": {
+        "expected": "4",
+        "answer": "2",
+        "time": 122.328,
+        "tokens": 718,
+        "toks/sec": 5869.465698777059
+    },
+    "sample_329": {
+        "expected": "True",
+        "answer": "False",
+        "time": 113.213,
+        "tokens": 678,
+        "toks/sec": 5988.7115437273105
+    },
+    "sample_475": {
+        "expected": "1",
+        "answer": "1",
+        "time": 124.599,
+        "tokens": 662,
+        "toks/sec": 5313.044245940979
+    },
+    "sample_50": {
+        "expected": "[1]",
+        "answer": "['a', 'c', 'v']",
+        "time": 181.248,
+        "tokens": 673,
+        "toks/sec": 3713.144420903955
+    },
+    "sample_93": {
+        "expected": "'iq!!!!'",
+        "answer": "i!",
+        "time": 145.377,
+        "tokens": 681,
+        "toks/sec": 4684.372356012299
+    },
+    "sample_676": {
+        "expected": "'a'",
+        "answer": "a '*100",
+        "time": 166.468,
+        "tokens": 661,
+        "toks/sec": 3970.7331138717354
+    },
+    "sample_280": {
+        "expected": "'00000000 00000000 0ii0ii00 0ii00i0i 0ii0iii0'",
+        "answer": "1i1i0i0i1i0i1i0",
+        "time": 264.015,
+        "tokens": 740,
+        "toks/sec": 2802.8710489934288
+    },
+    "sample_186": {
+        "expected": "'pvtso'",
+        "answer": "pvtso",
+        "time": 134.557,
+        "tokens": 653,
+        "toks/sec": 4852.961941779321
+    },
+    "sample_551": {
+        "expected": "['a', 'b', 'c', 'inf']",
+        "answer": "['a', 'b', 'd']",
+        "time": 191.513,
+        "tokens": 705,
+        "toks/sec": 3681.2122414666364
+    },
+    "sample_313": {
+        "expected": "'urecord'",
+        "answer": "urecord",
+        "time": 140.414,
+        "tokens": 658,
+        "toks/sec": 4686.142407452248
+    },
+    "sample_67": {
+        "expected": "'6,8,8'",
+        "answer": "6,8,8",
+        "time": 168.833,
+        "tokens": 688,
+        "toks/sec": 4075.0327246450634
+    },
+    "sample_208": {
+        "expected": "['c', 'a', 't', 'd', ' ', 'd', 'e', 'e']",
+        "answer": "['123', 'cat', 'd']",
+        "time": 202.823,
+        "tokens": 690,
+        "toks/sec": 3401.9810376535206
+    },
+    "sample_87": {
+        "expected": "'-2139-1'",
+        "answer": "139",
+        "time": 144.86,
+        "tokens": 665,
+        "toks/sec": 4590.639237884854
+    },
+    "sample_30": {
+        "expected": "['a', 'b', 'c']",
+        "answer": "[\"a\", \"b\"]",
+        "time": 166.389,
+        "tokens": 694,
+        "toks/sec": 4170.948800701969
+    },
+    "sample_118": {
+        "expected": "'zbzquiuqnmfkx'",
+        "answer": "zmk",
+        "time": 148.894,
+        "tokens": 697,
+        "toks/sec": 4681.182586269427
+    },
+    "sample_458": {
+        "expected": "'pppo4pIp'",
+        "answer": "m34mIm",
+        "time": 168.726,
+        "tokens": 687,
+        "toks/sec": 4071.690195938978
+    },
+    "sample_303": {
+        "expected": "'mJklbn'",
+        "answer": "mJkLbn",
+        "time": 167.85,
+        "tokens": 723,
+        "toks/sec": 4307.4173369079535
+    },
+    "sample_459": {
+        "expected": "{'vzjmc': 'b', 'ae': 'f'}",
+        "answer": "{'b': 'vzjmc', 'f': 'ae', '0': 'b'.}",
+        "time": 281.929,
+        "tokens": 704,
+        "toks/sec": 2497.082598810339
+    },
+    "sample_324": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 110.26,
+        "tokens": 667,
+        "toks/sec": 6049.337928532559
+    },
+    "sample_482": {
+        "expected": "'Because it intrigues them'",
+        "answer": "Because it intrigues them.",
+        "time": 152.276,
+        "tokens": 649,
+        "toks/sec": 4261.997951088812
+    },
+    "sample_73": {
+        "expected": "(3, 6)",
+        "answer": "2, 3",
+        "time": 158.095,
+        "tokens": 660,
+        "toks/sec": 4174.705082387172
+    },
+    "sample_773": {
+        "expected": "4",
+        "answer": "-1",
+        "time": 114.427,
+        "tokens": 664,
+        "toks/sec": 5802.826256040969
+    },
+    "sample_358": {
+        "expected": "'tr'",
+        "answer": "btrburger",
+        "time": 154.546,
+        "tokens": 725,
+        "toks/sec": 4691.159913553247
+    },
+    "sample_31": {
+        "expected": "8",
+        "answer": "4",
+        "time": 117.672,
+        "tokens": 679,
+        "toks/sec": 5770.276701339316
+    },
+    "sample_256": {
+        "expected": "0",
+        "answer": "1",
+        "time": 122.324,
+        "tokens": 711,
+        "toks/sec": 5812.432556162323
+    },
+    "sample_432": {
+        "expected": "False",
+        "answer": "f,c.e.g,b6g5",
+        "time": 222.508,
+        "tokens": 682,
+        "toks/sec": 3065.058334981214
+    },
+    "sample_59": {
+        "expected": "'hi'",
+        "answer": "hi",
+        "time": 132.232,
+        "tokens": 690,
+        "toks/sec": 5218.101518543167
+    },
+    "sample_52": {
+        "expected": "'seiq d'",
+        "answer": "q7229",
+        "time": 166.814,
+        "tokens": 690,
+        "toks/sec": 4136.343472370425
+    },
+    "sample_705": {
+        "expected": "[]",
+        "answer": "['Sydney', 'Hong Kong', 'Melbourne', 'Sao Paolo', 'Istanbul']",
+        "time": 253.872,
+        "tokens": 705,
+        "toks/sec": 2776.9899792021174
+    },
+    "sample_577": {
+        "expected": "[{}]",
+        "answer": "[(1, 'pos')]",
+        "time": 154.549,
+        "tokens": 686,
+        "toks/sec": 4438.721699913943
+    },
+    "sample_545": {
+        "expected": "[8, -1, 8]",
+        "answer": "[8, 4, 2]",
+        "time": 184.364,
+        "tokens": 700,
+        "toks/sec": 3796.8366926297977
+    },
+    "sample_470": {
+        "expected": "['B', 'D']",
+        "answer": "['A']",
+        "time": 132.627,
+        "tokens": 705,
+        "toks/sec": 5315.659707299418
+    },
+    "sample_141": {
+        "expected": "[1, 3, 1, 3, 3, 1, 1, 1, 1, 1, 1]",
+        "answer": "[2, 1, 1, 1, 2, 1, 1, 1, 1, 1]",
+        "time": 375.707,
+        "tokens": 706,
+        "toks/sec": 1879.1238917560759
+    },
+    "sample_389": {
+        "expected": "[1, 2, 3, 'n', 'a', 'm', 'm', 'o']",
+        "answer": "[1, 2, 3, 'nammo']",
+        "time": 216.83,
+        "tokens": 696,
+        "toks/sec": 3209.8879306369045
+    },
+    "sample_610": {
+        "expected": "{}",
+        "answer": "[1, 2]",
+        "time": 156.61,
+        "tokens": 702,
+        "toks/sec": 4482.47238362812
+    },
+    "sample_361": {
+        "expected": "1",
+        "answer": "2",
+        "time": 112.512,
+        "tokens": 648,
+        "toks/sec": 5759.38566552901
+    },
+    "sample_508": {
+        "expected": "'ertubwi'",
+        "answer": "ertubwi",
+        "time": 149.01,
+        "tokens": 723,
+        "toks/sec": 4852.023354137306
+    },
+    "sample_519": {
+        "expected": "{1: False, 2: 0}",
+        "answer": "{}",
+        "time": 109.512,
+        "tokens": 659,
+        "toks/sec": 6017.605376579735
+    },
+    "sample_533": {
+        "expected": "0",
+        "answer": "0",
+        "time": 125.376,
+        "tokens": 713,
+        "toks/sec": 5686.893823379275
+    },
+    "sample_257": {
+        "expected": "[['Hello World', '\"I am String\"']]",
+        "answer": "[['Hello World', '\"I am String\"']",
+        "time": 185.783,
+        "tokens": 675,
+        "toks/sec": 3633.2710743178873
+    },
+    "sample_730": {
+        "expected": "2",
+        "answer": "4",
+        "time": 124.426,
+        "tokens": 702,
+        "toks/sec": 5641.90763988234
+    },
+    "sample_415": {
+        "expected": "{8: 2, 5: 3}",
+        "answer": "8, 5",
+        "time": 156.114,
+        "tokens": 692,
+        "toks/sec": 4432.65818568482
+    },
+    "sample_627": {
+        "expected": "[-5, 7]",
+        "answer": "[-5, 7]",
+        "time": 148.813,
+        "tokens": 664,
+        "toks/sec": 4461.975768246054
+    },
+    "sample_89": {
+        "expected": "'O'",
+        "answer": "O",
+        "time": 129.863,
+        "tokens": 674,
+        "toks/sec": 5190.084935662968
+    },
+    "sample_476": {
+        "expected": "False",
+        "answer": "True",
+        "time": 111.224,
+        "tokens": 700,
+        "toks/sec": 6293.605696612241
+    },
+    "sample_99": {
+        "expected": "'aa++___bb'",
+        "answer": "a+++bb",
+        "time": 141.52,
+        "tokens": 663,
+        "toks/sec": 4684.850197851893
+    },
+    "sample_101": {
+        "expected": "[-4, 4, 1, 0]",
+        "answer": "[ -4, 1, 4]",
+        "time": 188.46,
+        "tokens": 675,
+        "toks/sec": 3581.6618911174783
+    },
+    "sample_4": {
+        "expected": "'           '",
+        "answer": "",
+        "time": 124.259,
+        "tokens": 661,
+        "toks/sec": 5319.534198730072
+    },
+    "sample_138": {
+        "expected": "'tflb omn rtt'",
+        "answer": "tflb omn rt",
+        "time": 178.924,
+        "tokens": 706,
+        "toks/sec": 3945.8093939326195
+    },
+    "sample_673": {
+        "expected": "'cA'",
+        "answer": "cA",
+        "time": 120.931,
+        "tokens": 667,
+        "toks/sec": 5515.54192059935
+    },
+    "sample_352": {
+        "expected": "-5",
+        "answer": "-5",
+        "time": 114.633,
+        "tokens": 655,
+        "toks/sec": 5713.886926103304
+    },
+    "sample_607": {
+        "expected": "True",
+        "answer": "False",
+        "time": 105.006,
+        "tokens": 661,
+        "toks/sec": 6294.878387901644
+    },
+    "sample_184": {
+        "expected": "[1, 2]",
+        "answer": "[1, 2]",
+        "time": 156.112,
+        "tokens": 702,
+        "toks/sec": 4496.771548631752
+    },
+    "sample_631": {
+        "expected": "'*'",
+        "answer": "a",
+        "time": 130.373,
+        "tokens": 676,
+        "toks/sec": 5185.122686445814
+    },
+    "sample_1": {
+        "expected": "{1: None, 2: None}",
+        "answer": "{1: 1, 2: 1}",
+        "time": 205.184,
+        "tokens": 690,
+        "toks/sec": 3362.8353087960077
+    },
+    "sample_382": {
+        "expected": "\"(12, 'Rwrepny') (15, 'Qltuf')\"",
+        "answer": "12345",
+        "time": 161.895,
+        "tokens": 688,
+        "toks/sec": 4249.667994687915
+    },
+    "sample_168": {
+        "expected": "'spaib'",
+        "answer": "spain",
+        "time": 138.829,
+        "tokens": 674,
+        "toks/sec": 4854.893430047036
+    },
+    "sample_199": {
+        "expected": "'mnmnj krupa...##!@#!@#$$@##'",
+        "answer": "mnmnjkrupa...##!@#!@#$$@##",
+        "time": 230.097,
+        "tokens": 691,
+        "toks/sec": 3003.081309186995
+    },
+    "sample_517": {
+        "expected": "'SzHjifnzo'",
+        "answer": "zfg",
+        "time": 135.992,
+        "tokens": 681,
+        "toks/sec": 5007.6475086769815
+    },
+    "sample_500": {
+        "expected": "'d'",
+        "answer": "q wi",
+        "time": 134.733,
+        "tokens": 660,
+        "toks/sec": 4898.577185990069
+    },
+    "sample_450": {
+        "expected": "'K KBz'",
+        "answer": "BK zK",
+        "time": 144.929,
+        "tokens": 686,
+        "toks/sec": 4733.3521931428495
+    },
+    "sample_314": {
+        "expected": "' 105, -90 244'",
+        "answer": "244, 105",
+        "time": 192.88,
+        "tokens": 696,
+        "toks/sec": 3608.4612194110327
+    },
+    "sample_189": {
+        "expected": "'{{{{}}}}'",
+        "answer": "\"{{{{}}}\"",
+        "time": 136.161,
+        "tokens": 702,
+        "toks/sec": 5155.661312710688
+    },
+    "sample_25": {
+        "expected": "{'l': 1, 't': 2}",
+        "answer": "\"xt\"",
+        "time": 125.338,
+        "tokens": 668,
+        "toks/sec": 5329.5887919066845
+    },
+    "sample_334": {
+        "expected": "'nU00 9 rCSAz00w00 lpA5BO00sizL00i7rlVr'",
+        "answer": "nUrCSAzlpA5BOsizL",
+        "time": 208.029,
+        "tokens": 685,
+        "toks/sec": 3292.8101370482
+    },
+    "sample_240": {
+        "expected": "'3.121'",
+        "answer": "3.12",
+        "time": 157.117,
+        "tokens": 700,
+        "toks/sec": 4455.278550379654
+    },
+    "sample_683": {
+        "expected": "{'disface': 9, 'cam': 7, 'mforce': 5}",
+        "answer": "{'disface': 9, 'cam': 7}",
+        "time": 216.317,
+        "tokens": 695,
+        "toks/sec": 3212.8773975230793
+    },
+    "sample_336": {
+        "expected": "'234dsfssdfs333324314'",
+        "answer": "234",
+        "time": 134.259,
+        "tokens": 671,
+        "toks/sec": 4997.802754377733
+    },
+    "sample_468": {
+        "expected": "'unrndqafi'",
+        "answer": "c",
+        "time": 128.811,
+        "tokens": 704,
+        "toks/sec": 5465.371746201799
+    },
+    "sample_371": {
+        "expected": "0",
+        "answer": "33",
+        "time": 129.575,
+        "tokens": 697,
+        "toks/sec": 5379.124059425044
+    },
+    "sample_278": {
+        "expected": "{0: [], 132: [5, 32]}",
+        "answer": "{'0': [5, 991], '132': [32, 997]}",
+        "time": 338.468,
+        "tokens": 727,
+        "toks/sec": 2147.913539832421
+    },
+    "sample_779": {
+        "expected": "'${first}y, ${second}x, ${third}r, ${fourth}p'",
+        "answer": "python, ruby, javascript",
+        "time": 162.138,
+        "tokens": 713,
+        "toks/sec": 4397.488559128643
+    },
+    "sample_159": {
+        "expected": "'mgItr'",
+        "answer": "GMT",
+        "time": 127.34,
+        "tokens": 664,
+        "toks/sec": 5214.3866813255845
+    },
+    "sample_723": {
+        "expected": "['d g a   n q d k', 'u l l   q c h a   k l']",
+        "answer": "nqdkrull qcha kl",
+        "time": 170.357,
+        "tokens": 690,
+        "toks/sec": 4050.317861901771
+    },
+    "sample_260": {
+        "expected": "[1, 2, 3, 4, 6, 5]",
+        "answer": "[4, 5, 6, 1, 2, 3]",
+        "time": 258.873,
+        "tokens": 699,
+        "toks/sec": 2700.165718325202
+    },
+    "sample_356": {
+        "expected": "[2, 1]",
+        "answer": "[2, 1]",
+        "time": 161.5,
+        "tokens": 705,
+        "toks/sec": 4365.3250773993805
+    },
+    "sample_409": {
+        "expected": "'querisT'",
+        "answer": "querist",
+        "time": 139.704,
+        "tokens": 688,
+        "toks/sec": 4924.6979327721465
+    },
+    "sample_538": {
+        "expected": "'zzz0574zz'",
+        "answer": "0574",
+        "time": 151.953,
+        "tokens": 658,
+        "toks/sec": 4330.28633853889
+    },
+    "sample_559": {
+        "expected": "'f.irst_second_third'",
+        "answer": "first_second_third",
+        "time": 161.597,
+        "tokens": 668,
+        "toks/sec": 4133.740106561384
+    },
+    "sample_731": {
+        "expected": "'Chris requires  ride to the irport on Fridy.'",
+        "answer": "Chris requires a ride to the airport on Friday.",
+        "time": 193.203,
+        "tokens": 664,
+        "toks/sec": 3436.799635616424
+    },
+    "sample_656": {
+        "expected": "'yes'",
+        "answer": "yes",
+        "time": 132.973,
+        "tokens": 705,
+        "toks/sec": 5301.828190685326
+    },
+    "sample_325": {
+        "expected": "True",
+        "answer": "True",
+        "time": 109.433,
+        "tokens": 680,
+        "toks/sec": 6213.847742454287
+    },
+    "sample_37": {
+        "expected": "['123', '23', '3']",
+        "answer": "['123']",
+        "time": 148.834,
+        "tokens": 673,
+        "toks/sec": 4521.816251662926
+    },
+    "sample_557": {
+        "expected": "'xxxarmm ar xx'",
+        "answer": "xxxx",
+        "time": 126.366,
+        "tokens": 666,
+        "toks/sec": 5270.405014006932
+    },
+    "sample_146": {
+        "expected": "[1, 2, 3, 4, 6, 7, 8, 9, 10]",
+        "answer": "[1, 2, 3, 4, 5]",
+        "time": 241.482,
+        "tokens": 685,
+        "toks/sec": 2836.6503507507805
+    },
+    "sample_492": {
+        "expected": "'abbkebaniuwurzvr'",
+        "answer": "abkabunwm",
+        "time": 163.383,
+        "tokens": 705,
+        "toks/sec": 4315.014413984319
+    },
+    "sample_528": {
+        "expected": "2",
+        "answer": "6",
+        "time": 123.187,
+        "tokens": 687,
+        "toks/sec": 5576.887171535957
+    },
+    "sample_183": {
+        "expected": "['echo']",
+        "answer": "\"hello!!! nice!\"",
+        "time": 154.791,
+        "tokens": 731,
+        "toks/sec": 4722.496785988849
+    },
+    "sample_69": {
+        "expected": "'Name unknown'",
+        "answer": "56",
+        "time": 132.271,
+        "tokens": 685,
+        "toks/sec": 5178.7617845181485
+    },
+    "sample_373": {
+        "expected": "[1, 2, 3]",
+        "answer": "[1, 2, 3]",
+        "time": 177.414,
+        "tokens": 670,
+        "toks/sec": 3776.4776173244504
+    },
+    "sample_734": {
+        "expected": "[5, 3, 3, 7]",
+        "answer": "[3, 7]",
+        "time": 160.697,
+        "tokens": 694,
+        "toks/sec": 4318.686720971767
+    },
+    "sample_422": {
+        "expected": "[1, 4, 1]",
+        "answer": "[1, 1]",
+        "time": 157.607,
+        "tokens": 678,
+        "toks/sec": 4301.83938530649
+    },
+    "sample_78": {
+        "expected": "'mty'",
+        "answer": "mTYWLMwbLRVOqNEf.oLsYkZORKE[K",
+        "time": 312.56,
+        "tokens": 724,
+        "toks/sec": 2316.3552597901203
+    },
+    "sample_401": {
+        "expected": "'mathematics'",
+        "answer": "mathematics",
+        "time": 130.182,
+        "tokens": 662,
+        "toks/sec": 5085.188428507782
+    },
+    "sample_144": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 111.053,
+        "tokens": 666,
+        "toks/sec": 5997.13650239075
+    },
+    "sample_727": {
+        "expected": "['dxh', 'ix', 'snegi', 'wiubvu']",
+        "answer": "['dxh', 'snegi', 'wiubvu']",
+        "time": 214.415,
+        "tokens": 699,
+        "toks/sec": 3260.0331133549425
+    },
+    "sample_630": {
+        "expected": "{1: -9, 0: -7, 2: 1, 3: 0}",
+        "answer": "{1: -9, 0: -7}",
+        "time": 204.126,
+        "tokens": 696,
+        "toks/sec": 3409.658740189883
+    },
+    "sample_223": {
+        "expected": "1",
+        "answer": "3",
+        "time": 122.376,
+        "tokens": 727,
+        "toks/sec": 5940.707328234294
+    },
+    "sample_207": {
+        "expected": "{'brown': 2, 'blue': 5, 'bright': 4}",
+        "answer": "{'brown': 2, 'blue': 5, 'bright': 4}",
+        "time": 264.92,
+        "tokens": 689,
+        "toks/sec": 2600.7851426845837
+    },
+    "sample_682": {
+        "expected": "'hy'",
+        "answer": "hyp_no_m_i_c_h",
+        "time": 210.216,
+        "tokens": 685,
+        "toks/sec": 3258.553107280131
+    },
+    "sample_513": {
+        "expected": "[]",
+        "answer": "[2]",
+        "time": 126.176,
+        "tokens": 686,
+        "toks/sec": 5436.8501141263
+    },
+    "sample_18": {
+        "expected": "[3, 5, 4, 3, 2, 1, 0]",
+        "answer": "[1, 2, 3, 4, 5]",
+        "time": 236.911,
+        "tokens": 716,
+        "toks/sec": 3022.231977409238
+    },
+    "sample_360": {
+        "expected": "'g'",
+        "answer": "gg",
+        "time": 126.471,
+        "tokens": 694,
+        "toks/sec": 5487.423994433507
+    },
+    "sample_134": {
+        "expected": "'372359'",
+        "answer": "372360",
+        "time": 184.29,
+        "tokens": 729,
+        "toks/sec": 3955.7219599544196
+    },
+    "sample_97": {
+        "expected": "True",
+        "answer": "True",
+        "time": 108.938,
+        "tokens": 667,
+        "toks/sec": 6122.748719455103
+    },
+    "sample_349": {
+        "expected": "{'noeohqhk': 623, 1049: 55}",
+        "answer": "{'noeohqhk': 623}",
+        "time": 193.376,
+        "tokens": 685,
+        "toks/sec": 3542.321694522588
+    },
+    "sample_120": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 110.642,
+        "tokens": 687,
+        "toks/sec": 6209.215307026265
+    },
+    "sample_760": {
+        "expected": "['k', 'j', 'h', 'f']",
+        "answer": "[1, 2, 3, 4]",
+        "time": 205.465,
+        "tokens": 701,
+        "toks/sec": 3411.7732947217287
+    },
+    "sample_126": {
+        "expected": "'-kkxkxxfck'",
+        "answer": "kkxkkfck",
+        "time": 164.75,
+        "tokens": 704,
+        "toks/sec": 4273.141122913506
+    },
+    "sample_212": {
+        "expected": "[1, -9, 7, 2, 6, -3, 3]",
+        "answer": "[2, 7, 3, 6, -9, -3]",
+        "time": 259.983,
+        "tokens": 691,
+        "toks/sec": 2657.8660912444275
+    },
+    "sample_594": {
+        "expected": "33",
+        "answer": "5",
+        "time": 110.653,
+        "tokens": 657,
+        "toks/sec": 5937.480230992382
+    },
+    "sample_667": {
+        "expected": "['< C7 level=0 >']",
+        "answer": "C7",
+        "time": 149.468,
+        "tokens": 741,
+        "toks/sec": 4957.582893997378
+    },
+    "sample_83": {
+        "expected": "'2:0'",
+        "answer": "2:2",
+        "time": 141.852,
+        "tokens": 689,
+        "toks/sec": 4857.175083890252
+    },
+    "sample_182": {
+        "expected": "[('a', 2), ('b', 1)]",
+        "answer": "a, b",
+        "time": 139.247,
+        "tokens": 662,
+        "toks/sec": 4754.141920472254
+    },
+    "sample_454": {
+        "expected": "{}",
+        "answer": "{'a': 2, 'b': [], 'c': {}",
+        "time": 237.38,
+        "tokens": 707,
+        "toks/sec": 2978.3469542505686
+    },
+    "sample_281": {
+        "expected": "{1: 2, 3: 4, 5: 6, 8: 2}",
+        "answer": "{1: 2, 3: 4, 5: 6}",
+        "time": 270.005,
+        "tokens": 727,
+        "toks/sec": 2692.5427306901724
+    },
+    "sample_696": {
+        "expected": "3",
+        "answer": "3",
+        "time": 118.785,
+        "tokens": 673,
+        "toks/sec": 5665.6985309592965
+    },
+    "sample_46": {
+        "expected": "'manylettersasvszhelloman'",
+        "answer": "lettersasvszhello",
+        "time": 162.255,
+        "tokens": 664,
+        "toks/sec": 4092.323811284706
+    },
+    "sample_748": {
+        "expected": "(('a', 123), ('b', 456))",
+        "answer": "789, 'c'",
+        "time": 170.283,
+        "tokens": 680,
+        "toks/sec": 3993.35224303072
+    },
+    "sample_156": {
+        "expected": "'tqzym'",
+        "answer": "qzymc",
+        "time": 146.008,
+        "tokens": 676,
+        "toks/sec": 4629.883294066079
+    },
+    "sample_284": {
+        "expected": "''",
+        "answer": "bestest",
+        "time": 133.158,
+        "tokens": 681,
+        "toks/sec": 5114.225206146082
+    },
+    "sample_486": {
+        "expected": "{1: 1, 2: 4, 3: 9}",
+        "answer": "{1: 1, 2: 4, 3: 9}",
+        "time": 266.136,
+        "tokens": 699,
+        "toks/sec": 2626.4766886103343
+    },
+    "sample_369": {
+        "expected": "'tuple'",
+        "answer": "\"tuple\"",
+        "time": 137.384,
+        "tokens": 721,
+        "toks/sec": 5248.063821114541
+    },
+    "sample_237": {
+        "expected": "'uuzlwaqiaj'",
+        "answer": "uqawajqau",
+        "time": 162.779,
+        "tokens": 701,
+        "toks/sec": 4306.452306501453
+    },
+    "sample_484": {
+        "expected": "[182, 32]",
+        "answer": "['182', '32', '3r', '25', '46', '', '2f', 'q1f', '-4']",
+        "time": 407.937,
+        "tokens": 749,
+        "toks/sec": 1836.0678241983444
+    },
+    "sample_440": {
+        "expected": "'no'",
+        "answer": "abc",
+        "time": 129.874,
+        "tokens": 657,
+        "toks/sec": 5058.749249272372
+    },
+    "sample_689": {
+        "expected": "[-15, -6, 10, 7]",
+        "answer": "[-15, -30, 4, 35]",
+        "time": 238.474,
+        "tokens": 697,
+        "toks/sec": 2922.750488522858
+    },
+    "sample_612": {
+        "expected": "{'a': 42, 'b': 1337, 'c': -1, 'd': 5}",
+        "answer": "{'a': 42, 'b': 1337, 'c': -1, 'd': 5}",
+        "time": 345.182,
+        "tokens": 692,
+        "toks/sec": 2004.7395287123893
+    },
+    "sample_632": {
+        "expected": "[0, 0, 1, 4, 5, 7, 9, 25, 63, 87]",
+        "answer": "[0, 1, 2, 4, 5, 6, 7, 87]",
+        "time": 341.196,
+        "tokens": 765,
+        "toks/sec": 2242.1130376674987
+    },
+    "sample_195": {
+        "expected": "'ilfdoirwirmtoibsac  '",
+        "answer": "irmtoibsac",
+        "time": 153.8,
+        "tokens": 683,
+        "toks/sec": 4440.832249674902
+    },
+    "sample_575": {
+        "expected": "42",
+        "answer": "41",
+        "time": 126.812,
+        "tokens": 677,
+        "toks/sec": 5338.61148787181
+    },
+    "sample_498": {
+        "expected": "[2, 2, 3, 2, 3, 3]",
+        "answer": "[2, 2, 2, 3, 3]",
+        "time": 227.399,
+        "tokens": 683,
+        "toks/sec": 3003.531238044143
+    },
+    "sample_397": {
+        "expected": "{'x': 0, 'u': 0, 'w': 0, 'j': 0, 3: 0, 6: 0}",
+        "answer": "{'x': 0, 'u': 1, 'w': 2, 'j': 3, 3: 1, 6: 2}",
+        "time": 416.881,
+        "tokens": 694,
+        "toks/sec": 1664.743655863424
+    },
+    "sample_157": {
+        "expected": "1",
+        "answer": "2",
+        "time": 120.817,
+        "tokens": 681,
+        "toks/sec": 5636.6239850352185
+    },
+    "sample_778": {
+        "expected": "'mjsmjqwmjsqjwisojqwiso'",
+        "answer": "mjqwmjsqjwisojqwiso",
+        "time": 211.024,
+        "tokens": 679,
+        "toks/sec": 3217.643490787778
+    },
+    "sample_317": {
+        "expected": "' vap a zwwo oihee amawaaw! '",
+        "answer": "vup a zwwo oihee amuwuuw!",
+        "time": 227.16,
+        "tokens": 688,
+        "toks/sec": 3028.7022363092096
+    },
+    "sample_663": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 147.275,
+        "tokens": 686,
+        "toks/sec": 4657.952809370226
+    },
+    "sample_273": {
+        "expected": "'NET'",
+        "answer": ".NET",
+        "time": 145.598,
+        "tokens": 708,
+        "toks/sec": 4862.7041580241485
+    },
+    "sample_474": {
+        "expected": "'#[)[]>[^e>\\n 8'",
+        "answer": "8",
+        "time": 133.533,
+        "tokens": 692,
+        "toks/sec": 5182.239596204684
+    },
+    "sample_688": {
+        "expected": "[3, 1, 9, 0, 2, 8]",
+        "answer": "[0, 1, 2, 3, 8]",
+        "time": 232.313,
+        "tokens": 695,
+        "toks/sec": 2991.6535019564126
+    },
+    "sample_629": {
+        "expected": "'cat'",
+        "answer": "catNG",
+        "time": 140.749,
+        "tokens": 696,
+        "toks/sec": 4944.97296606015
+    },
+    "sample_589": {
+        "expected": "[-70, 20, 9, 1, 1]",
+        "answer": "[-70, 20, 9, 1]",
+        "time": 228.412,
+        "tokens": 669,
+        "toks/sec": 2928.9179202493738
+    },
+    "sample_759": {
+        "expected": "[]",
+        "answer": "[0, 5]",
+        "time": 159.044,
+        "tokens": 703,
+        "toks/sec": 4420.160458740977
+    },
+    "sample_381": {
+        "expected": "'00019'",
+        "answer": "19",
+        "time": 127.886,
+        "tokens": 664,
+        "toks/sec": 5192.124235647374
+    },
+    "sample_600": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 107.248,
+        "tokens": 682,
+        "toks/sec": 6359.092943458153
+    },
+    "sample_441": {
+        "expected": "{37: 'forty-five', '23': 'what?'}",
+        "answer": "45",
+        "time": 133.61,
+        "tokens": 664,
+        "toks/sec": 4969.6878976124535
+    },
+    "sample_32": {
+        "expected": "'*ume;*vo'",
+        "answer": "l",
+        "time": 128.821,
+        "tokens": 666,
+        "toks/sec": 5169.964524417603
+    },
+    "sample_790": {
+        "expected": "(False, True)",
+        "answer": "True",
+        "time": 111.981,
+        "tokens": 691,
+        "toks/sec": 6170.689670569115
+    },
+    "sample_327": {
+        "expected": "[-3, 1, 7, -1]",
+        "answer": "[-1, 7, -3]",
+        "time": 189.37,
+        "tokens": 718,
+        "toks/sec": 3791.519248032951
+    },
+    "sample_700": {
+        "expected": "30",
+        "answer": "3",
+        "time": 128.967,
+        "tokens": 654,
+        "toks/sec": 5071.064690967456
+    },
+    "sample_178": {
+        "expected": "[2, 2, 2]",
+        "answer": "[2, 2, 2]",
+        "time": 182.392,
+        "tokens": 669,
+        "toks/sec": 3667.9240317557787
+    },
+    "sample_100": {
+        "expected": "{'1': 'b'}",
+        "answer": "a",
+        "time": 128.075,
+        "tokens": 692,
+        "toks/sec": 5403.084130392349
+    },
+    "sample_596": {
+        "expected": "['2', '3', '4', '7', '8', '9']",
+        "answer": "9",
+        "time": 134.77,
+        "tokens": 688,
+        "toks/sec": 5104.993692958373
+    },
+    "sample_238": {
+        "expected": "[1, 9, 4]",
+        "answer": "9",
+        "time": 125.685,
+        "tokens": 696,
+        "toks/sec": 5537.65365795441
+    },
+    "sample_224": {
+        "expected": "{}",
+        "answer": "{'23': 123}",
+        "time": 198.992,
+        "tokens": 728,
+        "toks/sec": 3658.438530192169
+    },
+    "sample_185": {
+        "expected": "[11, 14, 7, 12, 9, 16]",
+        "answer": "[12, 11, 9, 7, 14, 16]",
+        "time": 316.063,
+        "tokens": 766,
+        "toks/sec": 2423.567453324179
+    },
+    "sample_341": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 100.507,
+        "tokens": 652,
+        "toks/sec": 6487.110350522848
+    },
+    "sample_796": {
+        "expected": "'fnuiyh'",
+        "answer": "yh",
+        "time": 123.393,
+        "tokens": 666,
+        "toks/sec": 5397.388830808879
+    },
+    "sample_229": {
+        "expected": "['9', 'm', 'm', 'A', '1', '0', 'L', 'k']",
+        "answer": "['9m', '10K', 'mA', 'Lk']",
+        "time": 240.139,
+        "tokens": 726,
+        "toks/sec": 3023.249034933934
+    },
+    "sample_553": {
+        "expected": "'wslh0762m934'",
+        "answer": "439m2670hlsw",
+        "time": 210.612,
+        "tokens": 677,
+        "toks/sec": 3214.441722219057
+    },
+    "sample_44": {
+        "expected": "'*+++n+z+o+h'",
+        "answer": "n*z*o*h",
+        "time": 185.79,
+        "tokens": 701,
+        "toks/sec": 3773.077130093116
+    },
+    "sample_332": {
+        "expected": "[]",
+        "answer": "[-2, 1, 0, 1]",
+        "time": 217.939,
+        "tokens": 721,
+        "toks/sec": 3308.2651567640487
+    },
+    "sample_297": {
+        "expected": "'Not found'",
+        "answer": "Half Life",
+        "time": 134.972,
+        "tokens": 672,
+        "toks/sec": 4978.81041993895
+    },
+    "sample_628": {
+        "expected": "[4, 3, 6, 1]",
+        "answer": "[4, 5, 6]",
+        "time": 189.012,
+        "tokens": 668,
+        "toks/sec": 3534.1671428269105
+    },
+    "sample_710": {
+        "expected": "{'aki': ['1', '5', '2']}",
+        "answer": "{'aki': [2]}",
+        "time": 176.985,
+        "tokens": 697,
+        "toks/sec": 3938.1868519931063
+    },
+    "sample_215": {
+        "expected": "')'",
+        "answer": "(",
+        "time": 135.762,
+        "tokens": 679,
+        "toks/sec": 5001.399507962464
+    },
+    "sample_549": {
+        "expected": "[[1, 1, 1, 1]]",
+        "answer": "[[1]]",
+        "time": 132.808,
+        "tokens": 689,
+        "toks/sec": 5187.940485512921
+    },
+    "sample_428": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 118.461,
+        "tokens": 672,
+        "toks/sec": 5672.753057968445
+    },
+    "sample_581": {
+        "expected": "'akoXoosn'",
+        "answer": "ksxo",
+        "time": 149.614,
+        "tokens": 721,
+        "toks/sec": 4819.067734302939
+    },
+    "sample_252": {
+        "expected": "'\\\\foo'",
+        "answer": "foo",
+        "time": 130.931,
+        "tokens": 669,
+        "toks/sec": 5109.56152477259
+    },
+    "sample_726": {
+        "expected": "(2, 34)",
+        "answer": "4, 23",
+        "time": 157.836,
+        "tokens": 687,
+        "toks/sec": 4352.619174332852
+    },
+    "sample_191": {
+        "expected": "False",
+        "answer": "False",
+        "time": 112.081,
+        "tokens": 652,
+        "toks/sec": 5817.221473755587
+    },
+    "sample_231": {
+        "expected": "2",
+        "answer": "2",
+        "time": 135.865,
+        "tokens": 730,
+        "toks/sec": 5372.98053214588
+    },
+    "sample_556": {
+        "expected": "'\\n\\n        z   d\\ng\\n            e'",
+        "answer": "'\\n\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t\\",
+        "time": 18579.658,
+        "tokens": 2732,
+        "toks/sec": 147.04253436742485
+    },
+    "sample_720": {
+        "expected": "2",
+        "answer": "5",
+        "time": 109.151,
+        "tokens": 687,
+        "toks/sec": 6294.033036802229
+    },
+    "sample_173": {
+        "expected": "[4, 8, 6, 8, 5]",
+        "answer": "[8, 6, 8, 5]",
+        "time": 216.474,
+        "tokens": 706,
+        "toks/sec": 3261.361641582823
+    },
+    "sample_166": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 115.076,
+        "tokens": 685,
+        "toks/sec": 5952.587854982794
+    },
+    "sample_756": {
+        "expected": "'string'",
+        "answer": "string",
+        "time": 124.614,
+        "tokens": 664,
+        "toks/sec": 5328.454266775803
+    },
+    "sample_232": {
+        "expected": "'yesyes'",
+        "answer": "fssnvd",
+        "time": 149.596,
+        "tokens": 709,
+        "toks/sec": 4739.431535602556
+    },
+    "sample_597": {
+        "expected": "'JAAFODSFA SODOFJ AOAFJIS  JAFASIDFSA1'",
+        "answer": "\"JAAFODSFA SOFJFJA OAJFIS JAFASIDFSA1\"",
+        "time": 262.924,
+        "tokens": 674,
+        "toks/sec": 2563.4784196193577
+    },
+    "sample_375": {
+        "expected": "'sieriizzizam'",
+        "answer": "sierizam",
+        "time": 133.032,
+        "tokens": 678,
+        "toks/sec": 5096.5181309760055
+    },
+    "sample_763": {
+        "expected": "'yCxpg2C2Pny'",
+        "answer": "2Pnc2Pny2",
+        "time": 182.714,
+        "tokens": 670,
+        "toks/sec": 3666.933021005506
+    },
+    "sample_241": {
+        "expected": "'CW'",
+        "answer": "ED20",
+        "time": 140.013,
+        "tokens": 650,
+        "toks/sec": 4642.426060437245
+    },
+    "sample_579": {
+        "expected": "''",
+        "answer": "",
+        "time": 120.664,
+        "tokens": 689,
+        "toks/sec": 5710.070940794271
+    },
+    "sample_279": {
+        "expected": "''",
+        "answer": "\"()\"",
+        "time": 132.102,
+        "tokens": 695,
+        "toks/sec": 5261.086130414376
+    },
+    "sample_567": {
+        "expected": "['one', 'two', 'three_four_five']",
+        "answer": "one two three four five",
+        "time": 160.125,
+        "tokens": 698,
+        "toks/sec": 4359.094457455113
+    },
+    "sample_112": {
+        "expected": "'XYZLtRRdnHodLTTBIGGeXET fult'",
+        "answer": "XYZ LittleRedRidingHood LittleBIGGreenXeiT fault",
+        "time": 219.543,
+        "tokens": 697,
+        "toks/sec": 3174.776695225992
+    },
+    "sample_123": {
+        "expected": "[1, 2, 3, 5, 6, 8]",
+        "answer": "[1, 2, 3, 5, 6, 6]",
+        "time": 262.402,
+        "tokens": 707,
+        "toks/sec": 2694.3392199754576
+    },
+    "sample_385": {
+        "expected": "[0, 2, 2]",
+        "answer": "[0, 2, 1, 2]",
+        "time": 215.087,
+        "tokens": 745,
+        "toks/sec": 3463.7146828957584
+    },
+    "sample_335": {
+        "expected": "'sjbrfqmw'",
+        "answer": "jbrlfqmw",
+        "time": 168.382,
+        "tokens": 726,
+        "toks/sec": 4311.624757990759
+    },
+    "sample_489": {
+        "expected": "'cifysu'",
+        "answer": "coscifu",
+        "time": 150.782,
+        "tokens": 657,
+        "toks/sec": 4357.284025944741
+    },
+    "sample_105": {
+        "expected": "'Permission Is Granted'",
+        "answer": "PermissioN is GRANTED",
+        "time": 177.186,
+        "tokens": 668,
+        "toks/sec": 3770.04955244771
+    },
+    "sample_320": {
+        "expected": "'usAr'",
+        "answer": "USA",
+        "time": 131.279,
+        "tokens": 711,
+        "toks/sec": 5415.94619093686
+    },
+    "sample_425": {
+        "expected": "['', ':', 'CL44     ']",
+        "answer": "['/CL44', '4', '']",
+        "time": 197.477,
+        "tokens": 680,
+        "toks/sec": 3443.438982767613
+    },
+    "sample_539": {
+        "expected": "['']",
+        "answer": "[]",
+        "time": 116.103,
+        "tokens": 687,
+        "toks/sec": 5917.15976331361
+    },
+    "sample_331": {
+        "expected": "-1",
+        "answer": "abc",
+        "time": 126.606,
+        "tokens": 693,
+        "toks/sec": 5473.674233448652
+    },
+    "sample_456": {
+        "expected": "'Join us in Hungary'",
+        "answer": "\"Join us in Hungary\"",
+        "time": 149.815,
+        "tokens": 654,
+        "toks/sec": 4365.3839735674
+    },
+    "sample_657": {
+        "expected": "'Djhasghasgdha'",
+        "answer": "\"DJHASGHASDHA\"",
+        "time": 163.617,
+        "tokens": 693,
+        "toks/sec": 4235.501200975449
+    },
+    "sample_510": {
+        "expected": "'Wy'",
+        "answer": "o3Jwus",
+        "time": 172.381,
+        "tokens": 778,
+        "toks/sec": 4513.258421751817
+    },
+    "sample_315": {
+        "expected": "'czywz'",
+        "answer": "czYW",
+        "time": 130.641,
+        "tokens": 650,
+        "toks/sec": 4975.4671198169035
+    },
+    "sample_209": {
+        "expected": "'hymi'",
+        "answer": "hym",
+        "time": 138.895,
+        "tokens": 660,
+        "toks/sec": 4751.7909211994665
+    },
+    "sample_776": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 109.476,
+        "tokens": 681,
+        "toks/sec": 6220.541488545435
+    },
+    "sample_737": {
+        "expected": "1",
+        "answer": "2",
+        "time": 117.662,
+        "tokens": 685,
+        "toks/sec": 5821.760636399177
+    },
+    "sample_293": {
+        "expected": "'no'",
+        "answer": "False",
+        "time": 111.207,
+        "tokens": 676,
+        "toks/sec": 6078.754035267564
+    },
+    "sample_542": {
+        "expected": "['ab cd']",
+        "answer": "['ab', 'cd']",
+        "time": 149.108,
+        "tokens": 677,
+        "toks/sec": 4540.333181318239
+    },
+    "sample_742": {
+        "expected": "False",
+        "answer": "True",
+        "time": 109.176,
+        "tokens": 673,
+        "toks/sec": 6164.358467062358
+    },
+    "sample_712": {
+        "expected": "[['A']]",
+        "answer": "['hiccup']",
+        "time": 134.241,
+        "tokens": 693,
+        "toks/sec": 5162.3572530002
+    },
+    "sample_391": {
+        "expected": "['9', '+', '+', '+']",
+        "answer": "['+r', '9']",
+        "time": 169.866,
+        "tokens": 707,
+        "toks/sec": 4162.10424687695
+    },
+    "sample_797": {
+        "expected": "[('a', 1), ('b', 2), ('c', 3)]",
+        "answer": "[('a', 1), ('b', 2), ('c', 3)]",
+        "time": 271.766,
+        "tokens": 694,
+        "toks/sec": 2553.6674933582567
+    },
+    "sample_24": {
+        "expected": "[45, 3, 61, 39, 27, 47]",
+        "answer": "[35, 45, 3, 61]",
+        "time": 229.127,
+        "tokens": 686,
+        "toks/sec": 2993.9727749239505
+    },
+    "sample_5": {
+        "expected": "(0, 'xxxxxxxxxxxxxxxxxx')",
+        "answer": "3, 'ax'",
+        "time": 161.159,
+        "tokens": 729,
+        "toks/sec": 4523.483019874782
+    },
+    "sample_64": {
+        "expected": "'     7     '",
+        "answer": "\"7 7\"",
+        "time": 141.131,
+        "tokens": 690,
+        "toks/sec": 4889.074689472901
+    },
+    "sample_501": {
+        "expected": "'jqjfj zm'",
+        "answer": "qpfi jzm",
+        "time": 159.116,
+        "tokens": 708,
+        "toks/sec": 4449.583951331104
+    },
+    "sample_283": {
+        "expected": "'Iron Man'",
+        "answer": "Iron Man",
+        "time": 135.523,
+        "tokens": 702,
+        "toks/sec": 5179.932557573254
+    },
+    "sample_429": {
+        "expected": "[(87.29, 3), ('defghi', 2), ('abc', 2), (5, 1)]",
+        "answer": "['defghi', 'abc']",
+        "time": 163.06,
+        "tokens": 696,
+        "toks/sec": 4268.367472096161
+    },
+    "sample_226": {
+        "expected": "[1, 3, 3]",
+        "answer": "[1, 3]",
+        "time": 150.857,
+        "tokens": 678,
+        "toks/sec": 4494.322437805339
+    },
+    "sample_378": {
+        "expected": "'No such key!'",
+        "answer": "0",
+        "time": 124.029,
+        "tokens": 719,
+        "toks/sec": 5797.031339444808
+    },
+    "sample_477": {
+        "expected": "('', 'xduaisf')",
+        "answer": "xduaisfp",
+        "time": 151.796,
+        "tokens": 680,
+        "toks/sec": 4479.696434688662
+    },
+    "sample_511": {
+        "expected": "{'ct': '', 'c': '', 'ca': 'cx'}",
+        "answer": "cx",
+        "time": 123.799,
+        "tokens": 678,
+        "toks/sec": 5476.619358799344
+    },
+    "sample_421": {
+        "expected": "'try.'",
+        "answer": "\"try.\"",
+        "time": 122.614,
+        "tokens": 668,
+        "toks/sec": 5447.991257115827
+    },
+    "sample_304": {
+        "expected": "{87: 7, 18: 6}",
+        "answer": "{16: 6, 17: 3, 18: 6}",
+        "time": 301.689,
+        "tokens": 779,
+        "toks/sec": 2582.129278826871
+    }
+}

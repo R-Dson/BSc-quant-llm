@@ -1,0 +1,5602 @@
+{
+    "sample_244": {
+        "expected": "'        '",
+        "answer": "BC1ty'. Here, the function `f` takes two parameters - a string (`text`",
+        "time": 3440.274,
+        "tokens": 262,
+        "toks/sec": 76.15672472599566
+    },
+    "sample_518": {
+        "expected": "True",
+        "answer": "[ERROR]",
+        "time": 2360.256,
+        "tokens": 217,
+        "toks/sec": 91.9391794788362
+    },
+    "sample_578": {
+        "expected": "{'R': 0, 'T': -3, 'F': -6, 'K': 0}",
+        "answer": "{'R': 0, 'T': -3, 'F': -6, 'K': 0}",
+        "time": 711.312,
+        "tokens": 229,
+        "toks/sec": 321.9403018647232
+    },
+    "sample_285": {
+        "expected": "5",
+        "answer": "5. This function counts the number of occurrences of a given character (' ') within the provided string (\"This be Pirate's Speak for 'help'!\"). In this case, there are five spaces in the sentence",
+        "time": 1288.269,
+        "tokens": 241,
+        "toks/sec": 187.07273092809032
+    },
+    "sample_38": {
+        "expected": "'1Oe-ErrBzz-Bmm'",
+        "answer": "1OeErrBzZBmm",
+        "time": 377.907,
+        "tokens": 183,
+        "toks/sec": 484.24612404639237
+    },
+    "sample_193": {
+        "expected": "'1:1'",
+        "answer": "1:",
+        "time": 919.357,
+        "tokens": 212,
+        "toks/sec": 230.5959491253126
+    },
+    "sample_321": {
+        "expected": "{'desciduous': 2}",
+        "answer": "{'desciduous': 2}",
+        "time": 319.392,
+        "tokens": 221,
+        "toks/sec": 691.9396854022643
+    },
+    "sample_187": {
+        "expected": "39",
+        "answer": "39",
+        "time": 225.525,
+        "tokens": 213,
+        "toks/sec": 944.4629198536747
+    },
+    "sample_554": {
+        "expected": "[-5, 3, 9999, 1, 0, 2]",
+        "answer": "[-5, 3, 9999, 1, 0, 2]",
+        "time": 626.504,
+        "tokens": 202,
+        "toks/sec": 322.42411860099855
+    },
+    "sample_426": {
+        "expected": "[1, 2, 3, 8]",
+        "answer": "[1, 2, 3, 8]",
+        "time": 407.789,
+        "tokens": 193,
+        "toks/sec": 473.2839777433918
+    },
+    "sample_653": {
+        "expected": "1",
+        "answer": "6. This function removes all occurrences of the specified letter from the input text and then splits the remaining string by that same letter to count how many parts are left. In this case, removing 'c' leaves us with a series of commas: \", , ,\" which when split by 'c', results in six empty strings (since there were no characters other than 'c')",
+        "time": 2072.528,
+        "tokens": 280,
+        "toks/sec": 135.10070792770955
+    },
+    "sample_435": {
+        "expected": "''",
+        "answer": "an empty list because the input `num` is 0 which means no insertion operation will be performed as per the given code",
+        "time": 791.397,
+        "tokens": 260,
+        "toks/sec": 328.532961332934
+    },
+    "sample_419": {
+        "expected": "'mmfb'",
+        "answer": "mmfb",
+        "time": 218.773,
+        "tokens": 187,
+        "toks/sec": 854.7672701841635
+    },
+    "sample_220": {
+        "expected": "'bagfedcacbagfedc'",
+        "answer": "cbaefdcb",
+        "time": 295.99,
+        "tokens": 227,
+        "toks/sec": 766.9178012770701
+    },
+    "sample_685": {
+        "expected": "-2",
+        "answer": "4. Here, the count of `1` in the list `[1, 1, 1]` is 3 and adding `-2` to it gives us 4",
+        "time": 1039.077,
+        "tokens": 211,
+        "toks/sec": 203.06483542605602
+    },
+    "sample_247": {
+        "expected": "'yes'",
+        "answer": "yes",
+        "time": 184.928,
+        "tokens": 190,
+        "toks/sec": 1027.4268904654784
+    },
+    "sample_368": {
+        "expected": "'4327 00004327 000004327 4327 0004327 4327'",
+        "answer": "04327 000004327 00000004327 000000000004327 00000000000004327 04327",
+        "time": 1814.006,
+        "tokens": 278,
+        "toks/sec": 153.2519738082454
+    },
+    "sample_94": {
+        "expected": "{'w': 3, 'wi': 10}",
+        "answer": "`{'w': 3, 'wi': 10}`. In Python, the double asterisk (`**`) operator used in this context merges two dictionaries. If there are overlapping keys, the value from the second dictionary will overwrite the one from the first",
+        "time": 1551.801,
+        "tokens": 239,
+        "toks/sec": 154.01459336603082
+    },
+    "sample_590": {
+        "expected": "'5000   $'",
+        "answer": "$.",
+        "time": 218.037,
+        "tokens": 195,
+        "toks/sec": 894.3436205781587
+    },
+    "sample_452": {
+        "expected": "1",
+        "answer": "2, as there are two alphabetic characters ('o' and 'o') in the input string 'l000*'",
+        "time": 845.256,
+        "tokens": 217,
+        "toks/sec": 256.72695609377513
+    },
+    "sample_782": {
+        "expected": "False",
+        "answer": "False because there is an uppercase character 'X' present in the string",
+        "time": 501.658,
+        "tokens": 197,
+        "toks/sec": 392.69781404861476
+    },
+    "sample_504": {
+        "expected": "[1, 1, 1, 1]",
+        "answer": "[1, 1, 1, 1]. Since all the elements in the list are identical and already sorted, sorting them does not change their order",
+        "time": 918.026,
+        "tokens": 204,
+        "toks/sec": 222.21592852490016
+    },
+    "sample_754": {
+        "expected": "['2', '2', '44', '0', '7', '20257']",
+        "answer": "['00001', '00002', '00002', '00044', '00000', '00007', '020257'].",
+        "time": 2657.739,
+        "tokens": 337,
+        "toks/sec": 126.79950890587827
+    },
+    "sample_522": {
+        "expected": "[]",
+        "answer": "; otherwise, an empty list is returned.",
+        "time": 3253.973,
+        "tokens": 316,
+        "toks/sec": 97.11205348046833
+    },
+    "sample_480": {
+        "expected": "''",
+        "answer": "an empty string '' since the input string s is empty and there are no characters to replace or join with the given separators c1 and c2",
+        "time": 892.19,
+        "tokens": 266,
+        "toks/sec": 298.1427722794472
+    },
+    "sample_487": {
+        "expected": "[4]",
+        "answer": "[4]",
+        "time": 196.78,
+        "tokens": 203,
+        "toks/sec": 1031.6089033438357
+    },
+    "sample_41": {
+        "expected": "[58, 92, 21]",
+        "answer": "[58, 21, 92]",
+        "time": 412.381,
+        "tokens": 214,
+        "toks/sec": 518.9375844182928
+    },
+    "sample_180": {
+        "expected": "[-1, -2, -6, 8, 8]",
+        "answer": "[-1, 5, 3, 8, 8]",
+        "time": 507.994,
+        "tokens": 240,
+        "toks/sec": 472.44652495895616
+    },
+    "sample_15": {
+        "expected": "'ZN KGD JW LNT'",
+        "answer": "ZNU KGDU JW LNT",
+        "time": 380.906,
+        "tokens": 203,
+        "toks/sec": 532.9398854310513
+    },
+    "sample_179": {
+        "expected": "[2, 0, 6, 2, 1, 7, 1, 2, 6, 0, 2]",
+        "answer": "[2, 2, 0, 6, 1, 7, 7, 1, 2, 6, 0, 2]. This function takes a list of numbers and returns the original list followed by its reverse. It does this without modifying the input list (by creating a copy) and using an insert operation to prepend each element in reverse order",
+        "time": 2124.412,
+        "tokens": 312,
+        "toks/sec": 146.86416759084398
+    },
+    "sample_565": {
+        "expected": "13",
+        "answer": "[ERROR]",
+        "time": 1702.89,
+        "tokens": 245,
+        "toks/sec": 143.87306285197516
+    },
+    "sample_88": {
+        "expected": "'hello'",
+        "answer": "lo",
+        "time": 197.208,
+        "tokens": 196,
+        "toks/sec": 993.8744878503915
+    },
+    "sample_602": {
+        "expected": "4",
+        "answer": "4",
+        "time": 185.328,
+        "tokens": 183,
+        "toks/sec": 987.4384874384874
+    },
+    "sample_272": {
+        "expected": "[9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 2, 6, 0, 6, 6]",
+        "answer": "[9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 2, 4, 6].",
+        "time": 4235.248,
+        "tokens": 401,
+        "toks/sec": 94.68158653283115
+    },
+    "sample_386": {
+        "expected": "'Done!'",
+        "answer": "Done!'. In this code, the function `f` takes two arguments - a string and a dictionary. It iterates over the keys of the dictionary (which are strings representing integers",
+        "time": 6042.102,
+        "tokens": 458,
+        "toks/sec": 75.80143466628004
+    },
+    "sample_116": {
+        "expected": "{}",
+        "answer": "{}. Since the dictionary `{}` is empty to begin with, it will remain empty after any number of pop operations",
+        "time": 724.844,
+        "tokens": 212,
+        "toks/sec": 292.4767260265657
+    },
+    "sample_264": {
+        "expected": "'pApArA'",
+        "answer": "\"ppAA\". In the given code, firstly all occurrences of 'a' in the input string are replaced with 'A'. Then, all occurrences of 'e' (which do not exist in this case) would be replaced by 'A', but since there was no 'e' to replace initially, it doesn't affect the output",
+        "time": 1900.328,
+        "tokens": 256,
+        "toks/sec": 134.71358628615693
+    },
+    "sample_318": {
+        "expected": "1",
+        "answer": "2. There are two occurrences of the character 'e' (or its lowercase version) in the given string",
+        "time": 752.239,
+        "tokens": 224,
+        "toks/sec": 297.7777009700374
+    },
+    "sample_615": {
+        "expected": "1",
+        "answer": "1",
+        "time": 205.116,
+        "tokens": 199,
+        "toks/sec": 970.1827258721893
+    },
+    "sample_51": {
+        "expected": "20",
+        "answer": "20",
+        "time": 216.085,
+        "tokens": 190,
+        "toks/sec": 879.2836152440012
+    },
+    "sample_265": {
+        "expected": "{1: 2, 2: 4}",
+        "answer": "{1: 2, 2: 4}",
+        "time": 412.9,
+        "tokens": 224,
+        "toks/sec": 542.5042383143618
+    },
+    "sample_516": {
+        "expected": "[]",
+        "answer": "['isa']. This function filters the input list to only include words that start with the given substring. It then sorts these filtered words by their length in ascending order and returns this sorted list. In this case, since none of the strings except for \"isa\" starts with \"d\", it's returned as the output",
+        "time": 1740.058,
+        "tokens": 265,
+        "toks/sec": 152.29377411557545
+    },
+    "sample_393": {
+        "expected": "'a---c---s'",
+        "answer": "----a-l--c---s-----",
+        "time": 402.948,
+        "tokens": 232,
+        "toks/sec": 575.756673317649
+    },
+    "sample_26": {
+        "expected": "'error'",
+        "answer": "error",
+        "time": 195.472,
+        "tokens": 243,
+        "toks/sec": 1243.144798231972
+    },
+    "sample_406": {
+        "expected": "False",
+        "answer": "True",
+        "time": 171.573,
+        "tokens": 198,
+        "toks/sec": 1154.0277316360966
+    },
+    "sample_495": {
+        "expected": "('a1234', '\u00e5r')",
+        "answer": "'a1234', '\u00e5'",
+        "time": 372.13,
+        "tokens": 233,
+        "toks/sec": 626.1252788004192
+    },
+    "sample_161": {
+        "expected": "'j rinpxdif'",
+        "answer": "rinpxdifj",
+        "time": 291.832,
+        "tokens": 188,
+        "toks/sec": 644.2062556539379
+    },
+    "sample_783": {
+        "expected": "0",
+        "answer": "0. Since the second input string (comparison) is empty, it doesn't match any character in the first string (\"managed\"). Therefore, the function returns the length of the comparison string which is 0",
+        "time": 1234.673,
+        "tokens": 260,
+        "toks/sec": 210.5820731481129
+    },
+    "sample_788": {
+        "expected": "'hello.txt'",
+        "answer": "hello.txt/",
+        "time": 259.782,
+        "tokens": 187,
+        "toks/sec": 719.8343226243543
+    },
+    "sample_311": {
+        "expected": "'no'",
+        "answer": "no",
+        "time": 189.045,
+        "tokens": 190,
+        "toks/sec": 1005.051707265466
+    },
+    "sample_312": {
+        "expected": "'True'",
+        "answer": "of the function for the given input will be \"True\"",
+        "time": 1976.059,
+        "tokens": 251,
+        "toks/sec": 127.02049888186536
+    },
+    "sample_784": {
+        "expected": "('read', 'Is')",
+        "answer": "'read', 'Is'",
+        "time": 256.407,
+        "tokens": 183,
+        "toks/sec": 713.7090641051142
+    },
+    "sample_354": {
+        "expected": "'R, R!!!'",
+        "answer": "R, R!!!' because the function replaces '{0}' in the string with the first element of the list (which is 'R'",
+        "time": 1278.764,
+        "tokens": 253,
+        "toks/sec": 197.84729629548534
+    },
+    "sample_388": {
+        "expected": "'2nm_28in'",
+        "answer": "\"_28in\"",
+        "time": 252.915,
+        "tokens": 223,
+        "toks/sec": 881.7191546567029
+    },
+    "sample_617": {
+        "expected": "'ascii'",
+        "answer": "ascii",
+        "time": 215.2,
+        "tokens": 185,
+        "toks/sec": 859.6654275092937
+    },
+    "sample_591": {
+        "expected": "([0, 0, 0, 0, 0, 0, 0, 0, 0], [3, 4, 6, 7, 8, 9])",
+        "answer": "[2, 1, 1, 1, 1, 0, 0, 0, 1], [6, 3, 7, 4, 8, 6]",
+        "time": 3818.22,
+        "tokens": 404,
+        "toks/sec": 105.80846572486656
+    },
+    "sample_113": {
+        "expected": "'987YhnShAShD 93275yRgsgBgssHfBsFB'",
+        "answer": "\"9YHnsHaShD 9sYRGsGBgsSHFBSB\"",
+        "time": 657.283,
+        "tokens": 270,
+        "toks/sec": 410.7819614990803
+    },
+    "sample_613": {
+        "expected": "'e!t!'",
+        "answer": "eaet!",
+        "time": 2084.943,
+        "tokens": 319,
+        "toks/sec": 153.00178470106854
+    },
+    "sample_344": {
+        "expected": "[6, 4, 2, 8, 15]",
+        "answer": "[6, 4, 2, 8, 15].",
+        "time": 3839.995,
+        "tokens": 355,
+        "toks/sec": 92.4480370417149
+    },
+    "sample_80": {
+        "expected": "'ba'",
+        "answer": "b a",
+        "time": 208.652,
+        "tokens": 173,
+        "toks/sec": 829.1317600598126
+    },
+    "sample_128": {
+        "expected": "'Mmohamt'",
+        "answer": "MaTho",
+        "time": 246.659,
+        "tokens": 214,
+        "toks/sec": 867.594533343604
+    },
+    "sample_346": {
+        "expected": "False",
+        "answer": "True",
+        "time": 172.292,
+        "tokens": 194,
+        "toks/sec": 1125.995403152787
+    },
+    "sample_541": {
+        "expected": "True",
+        "answer": "False. In this case, the function checks if all characters in the string are whitespace characters. However, '\\u3000' represents an ideographic space (a type of whitespace), so it should return True instead of False.",
+        "time": 2542.306,
+        "tokens": 273,
+        "toks/sec": 107.38282488417995
+    },
+    "sample_535": {
+        "expected": "False",
+        "answer": "False. This function checks whether all digits of the input number are either '0', '1' or '2', or between '5' and '9'. In this case, the digit '3' in the input number 1341240312 does not meet these conditions, so the output is False",
+        "time": 1811.138,
+        "tokens": 270,
+        "toks/sec": 149.07754130276103
+    },
+    "sample_286": {
+        "expected": "[1, 2, 3, 4, 11, 6, 7, 8, 9, 10]",
+        "answer": "[1, 2, 3, 11, 5, 6, 7, 8, 9, 10].",
+        "time": 2350.361,
+        "tokens": 318,
+        "toks/sec": 135.2983648043854
+    },
+    "sample_234": {
+        "expected": "0",
+        "answer": "0",
+        "time": 200.461,
+        "tokens": 218,
+        "toks/sec": 1087.4933278792382
+    },
+    "sample_322": {
+        "expected": "['lsi', 's', 't', 't', 'd']",
+        "answer": "['d', 't', 't', 's', 'lsi']",
+        "time": 527.558,
+        "tokens": 238,
+        "toks/sec": 451.13523062867023
+    },
+    "sample_758": {
+        "expected": "False",
+        "answer": "False",
+        "time": 167.073,
+        "tokens": 186,
+        "toks/sec": 1113.2858091971773
+    },
+    "sample_111": {
+        "expected": "(89, 4)",
+        "answer": "89, 4",
+        "time": 315.522,
+        "tokens": 254,
+        "toks/sec": 805.0151811918029
+    },
+    "sample_764": {
+        "expected": "'any test string'",
+        "answer": "any tet any strin",
+        "time": 321.84,
+        "tokens": 225,
+        "toks/sec": 699.1051454138703
+    },
+    "sample_571": {
+        "expected": "'a\\\\tb'",
+        "answer": "a   b'. In Python, the expandtabs(",
+        "time": 1683.552,
+        "tokens": 237,
+        "toks/sec": 140.77379255288818
+    },
+    "sample_326": {
+        "expected": "0",
+        "answer": "will be 0",
+        "time": 1366.596,
+        "tokens": 237,
+        "toks/sec": 173.42360141548784
+    },
+    "sample_733": {
+        "expected": "'n'",
+        "answer": "nn",
+        "time": 194.625,
+        "tokens": 201,
+        "toks/sec": 1032.7552986512524
+    },
+    "sample_626": {
+        "expected": "'baba'",
+        "answer": "bbba",
+        "time": 224.199,
+        "tokens": 213,
+        "toks/sec": 950.0488405389854
+    },
+    "sample_301": {
+        "expected": "[0, 6, 2, -1, -2, 6, 6, -2, -2, -2, -2, -2, -2]",
+        "answer": "[-1, -1, 0, 0, 6, 6, 2, 2, -2, -2]",
+        "time": 864.48,
+        "tokens": 240,
+        "toks/sec": 277.623542476402
+    },
+    "sample_299": {
+        "expected": "'staovk'",
+        "answer": "[ERROR]",
+        "time": 3161.755,
+        "tokens": 309,
+        "toks/sec": 97.73053256814649
+    },
+    "sample_39": {
+        "expected": "0",
+        "answer": "0",
+        "time": 186.934,
+        "tokens": 189,
+        "toks/sec": 1011.0520290583843
+    },
+    "sample_310": {
+        "expected": "'__1.00r__j_a6__6'",
+        "answer": "_2.00r1_aj5_6",
+        "time": 467.201,
+        "tokens": 268,
+        "toks/sec": 573.6289091846978
+    },
+    "sample_537": {
+        "expected": "'[4]'",
+        "answer": "\"[4]\" because the function appends the value to the list, converts it back into a string and returns its length inside square brackets",
+        "time": 814.783,
+        "tokens": 246,
+        "toks/sec": 301.9208795470696
+    },
+    "sample_160": {
+        "expected": "{1: 38381, 3: 83607}",
+        "answer": "{}",
+        "time": 184.417,
+        "tokens": 218,
+        "toks/sec": 1182.1036021624905
+    },
+    "sample_210": {
+        "expected": "46",
+        "answer": "46",
+        "time": 230.512,
+        "tokens": 235,
+        "toks/sec": 1019.4697022280835
+    },
+    "sample_724": {
+        "expected": "[3]",
+        "answer": "[2, 3]. This means that the substring '010' appears twice in the given string '010100', with lengths of 2 and 3 characters respectively",
+        "time": 1138.601,
+        "tokens": 270,
+        "toks/sec": 237.13311335577606
+    },
+    "sample_125": {
+        "expected": "'3Leap and the net will appear'",
+        "answer": "`'!123Leap and the net will appear'`",
+        "time": 469.705,
+        "tokens": 232,
+        "toks/sec": 493.9270393119086
+    },
+    "sample_394": {
+        "expected": "1",
+        "answer": "3. This function counts the number of lines before an empty line appears in a text string, or returns -1 if there are no empty lines. In this case, \"2 m2\", \"\", and \"bike\" are three lines with the second one being empty. Hence, it returns 3",
+        "time": 1670.067,
+        "tokens": 270,
+        "toks/sec": 161.67016053846942
+    },
+    "sample_255": {
+        "expected": "'w'",
+        "answer": "j",
+        "time": 203.978,
+        "tokens": 214,
+        "toks/sec": 1049.132749610252
+    },
+    "sample_365": {
+        "expected": "'mRcwVqXsRDRb'",
+        "answer": "mqcwVqXsRDRb'. Here the function checks if the string `s` starts with the substring `n`. If it does, then it splits the string at that point and reassembles it by placing `n` between the two parts. In this case, since 'mRcwVqXsRDRb' doesn't start with 'xqc",
+        "time": 2462.712,
+        "tokens": 307,
+        "toks/sec": 124.65931866982416
+    },
+    "sample_509": {
+        "expected": "'5'",
+        "answer": "05",
+        "time": 223.385,
+        "tokens": 207,
+        "toks/sec": 926.6512970879871
+    },
+    "sample_343": {
+        "expected": "[[1, 2, 3], [1, 2], 1, [1, 2, 3], 3, [2, 1]]",
+        "answer": "`[[1, 2, 3], [1, 2], 1, [1, 2, 3], 3, [2, 1]]`.",
+        "time": 3365.211,
+        "tokens": 331,
+        "toks/sec": 98.3593599331513
+    },
+    "sample_791": {
+        "expected": "'08999'",
+        "answer": "008999",
+        "time": 323.454,
+        "tokens": 214,
+        "toks/sec": 661.6087604419794
+    },
+    "sample_698": {
+        "expected": "'(((((((((((d.((((('",
+        "answer": "' (empty string",
+        "time": 410.467,
+        "tokens": 194,
+        "toks/sec": 472.6323918853404
+    },
+    "sample_767": {
+        "expected": "'-'",
+        "answer": "\"-\"",
+        "time": 178.33,
+        "tokens": 216,
+        "toks/sec": 1211.2375932260416
+    },
+    "sample_592": {
+        "expected": "[3, 11]",
+        "answer": "[3, 11]. This function reverses the order of a list by iterating through it from both ends towards the center and appending each element to a new list",
+        "time": 1029.201,
+        "tokens": 235,
+        "toks/sec": 228.33246372671616
+    },
+    "sample_741": {
+        "expected": "1",
+        "answer": "3",
+        "time": 205.569,
+        "tokens": 223,
+        "toks/sec": 1084.7939134791725
+    },
+    "sample_634": {
+        "expected": "'biec'",
+        "answer": "bucu",
+        "time": 248.987,
+        "tokens": 219,
+        "toks/sec": 879.563993300855
+    },
+    "sample_153": {
+        "expected": "False",
+        "answer": "False",
+        "time": 169.507,
+        "tokens": 192,
+        "toks/sec": 1132.6965848018076
+    },
+    "sample_527": {
+        "expected": "'!?'",
+        "answer": "!??",
+        "time": 210.04,
+        "tokens": 175,
+        "toks/sec": 833.1746334031614
+    },
+    "sample_443": {
+        "expected": "'lorem ipsum'",
+        "answer": "\"loremipsum\"",
+        "time": 271.004,
+        "tokens": 204,
+        "toks/sec": 752.7564168794556
+    },
+    "sample_431": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 169.071,
+        "tokens": 190,
+        "toks/sec": 1123.7882309798842
+    },
+    "sample_132": {
+        "expected": "'abc'",
+        "answer": "abcd",
+        "time": 216.737,
+        "tokens": 194,
+        "toks/sec": 895.094054083982
+    },
+    "sample_717": {
+        "expected": "'t'",
+        "answer": "table",
+        "time": 216.472,
+        "tokens": 254,
+        "toks/sec": 1173.36191285709
+    },
+    "sample_200": {
+        "expected": "'tm oajhouse'",
+        "answer": "thousejam",
+        "time": 272.841,
+        "tokens": 214,
+        "toks/sec": 784.3395970546949
+    },
+    "sample_560": {
+        "expected": "0",
+        "answer": "0, because the input string does not contain any lowercase letters",
+        "time": 498.624,
+        "tokens": 220,
+        "toks/sec": 441.2142215376717
+    },
+    "sample_96": {
+        "expected": "True",
+        "answer": "False, because the character 'B' in \"Lunabotics\" is uppercase",
+        "time": 601.543,
+        "tokens": 192,
+        "toks/sec": 319.1791775484047
+    },
+    "sample_266": {
+        "expected": "[2, 3, 3, 4, 6, -2]",
+        "answer": "[2, 3, 3, 4, 6, -2]",
+        "time": 571.551,
+        "tokens": 239,
+        "toks/sec": 418.1604091323434
+    },
+    "sample_619": {
+        "expected": "'   rock   paper   scissors  '",
+        "answer": "rock paper scissors",
+        "time": 281.314,
+        "tokens": 176,
+        "toks/sec": 625.6354109642606
+    },
+    "sample_580": {
+        "expected": "[0, 1]",
+        "answer": "[0, 2]. This function finds all the indices of occurrences of `char` in `text`. It first checks if `char` exists in `text`, then it appends the index to list `a` and replaces the first occurrence of `char` with an empty string. This process repeats until there are no more occurrences of `char` left in `new_text`",
+        "time": 2171.286,
+        "tokens": 297,
+        "toks/sec": 136.7852968240941
+    },
+    "sample_658": {
+        "expected": "['swims like a bull', None, None, None, None]",
+        "answer": "['swims like a bull', None, None, None, None]",
+        "time": 512.793,
+        "tokens": 224,
+        "toks/sec": 436.8234355773187
+    },
+    "sample_461": {
+        "expected": "True",
+        "answer": "True because the string \"123\" starts with the substring \"123\"",
+        "time": 559.473,
+        "tokens": 194,
+        "toks/sec": 346.7548925506683
+    },
+    "sample_665": {
+        "expected": "'aCbCed'",
+        "answer": "\"ACBCED\"",
+        "time": 248.408,
+        "tokens": 209,
+        "toks/sec": 841.3577662555151
+    },
+    "sample_68": {
+        "expected": "'dq'",
+        "answer": "wpr.dqomeunh",
+        "time": 378.822,
+        "tokens": 231,
+        "toks/sec": 609.7850705608439
+    },
+    "sample_54": {
+        "expected": "1",
+        "answer": "2. In the given string 'happy', the substring from index 0 to 3 (exclusive) is 'hap'. Among these characters, 'p' has the smallest ASCII value and its first occurrence in this substring is at index 2. Therefore, the function returns 2",
+        "time": 1666.421,
+        "tokens": 261,
+        "toks/sec": 156.6230862429122
+    },
+    "sample_473": {
+        "expected": "'scedvtvtkwqfqn'",
+        "answer": "scedvtvtwkfqn",
+        "time": 407.218,
+        "tokens": 250,
+        "toks/sec": 613.9217814536685
+    },
+    "sample_715": {
+        "expected": "False",
+        "answer": "False",
+        "time": 166.765,
+        "tokens": 177,
+        "toks/sec": 1061.373789464216
+    },
+    "sample_436": {
+        "expected": "['7', '6', '1', '7', ' ']",
+        "answer": "['7', ' ', 's', 's', '1']",
+        "time": 464.355,
+        "tokens": 207,
+        "toks/sec": 445.77962980909
+    },
+    "sample_217": {
+        "expected": "'more than ASCII'",
+        "answer": "more than ASCII'. This string contains non-ASCII characters such as \u00e6, which are not part of the standard ASCII character set. Therefore, it does not meet the criteria for being alphanumeric in this context (which typically implies only ASCII letters and digits",
+        "time": 1470.01,
+        "tokens": 256,
+        "toks/sec": 174.14847518044095
+    },
+    "sample_587": {
+        "expected": "{0: 'abcca', 1: 'abcca', 2: 'abcca'}",
+        "answer": ": {0: 'abcca', 1: 'abcca', 2: 'abcca}",
+        "time": 2102.419,
+        "tokens": 267,
+        "toks/sec": 126.99656919006155
+    },
+    "sample_413": {
+        "expected": "'cwcuc'",
+        "answer": "ucbjcc",
+        "time": 263.54,
+        "tokens": 186,
+        "toks/sec": 705.7752143887076
+    },
+    "sample_174": {
+        "expected": "[1, 3, 2]",
+        "answer": "[1, 3, 2]",
+        "time": 335.288,
+        "tokens": 190,
+        "toks/sec": 566.6770060366014
+    },
+    "sample_359": {
+        "expected": "['dZwbSR', 'wijHeq', 'qluVok', 'dxjxbF']",
+        "answer": "[' dZwbSR ', ' wijHeq ', ' qluVok ', ' dxjxbF ']. Each string in the list has been centered according to the length of the longest string",
+        "time": 1204.798,
+        "tokens": 252,
+        "toks/sec": 209.16369383083304
+    },
+    "sample_738": {
+        "expected": "'r;r;r;r;r;r;r;r;'",
+        "answer": "'. This function removes every character in the `text` that matches with any character from the `characters` string, starting at index 0 and then moving to index 1 of `characters`, and so on until all characters have been checked. In this case, it will remove all instances of ';' and '.",
+        "time": 2266.166,
+        "tokens": 298,
+        "toks/sec": 131.49963418390357
+    },
+    "sample_374": {
+        "expected": "['zzzz']",
+        "answer": "['zz', 'zz']",
+        "time": 275.826,
+        "tokens": 225,
+        "toks/sec": 815.7316569141415
+    },
+    "sample_213": {
+        "expected": "'[ac]'",
+        "answer": "\"[ac]\"",
+        "time": 211.529,
+        "tokens": 175,
+        "toks/sec": 827.3097305806768
+    },
+    "sample_793": {
+        "expected": "3",
+        "answer": "5. This function counts the number of distinct elements in a sublist from index 'start' to 'end'. In this case, it checks for unique numbers between indices 0 and 3 (inclusive) which are [1,2,4]. There are 5 distinct pairs: (1,2), (1,4), (2,4), (2,1), and (4,2)",
+        "time": 2275.143,
+        "tokens": 313,
+        "toks/sec": 137.57377008829775
+    },
+    "sample_753": {
+        "expected": "{0: 5}",
+        "answer": "{0: 5}",
+        "time": 1633.182,
+        "tokens": 290,
+        "toks/sec": 177.56747257807152
+    },
+    "sample_85": {
+        "expected": "[3, 4.5]",
+        "answer": "['-', 3]",
+        "time": 281.571,
+        "tokens": 224,
+        "toks/sec": 795.5364721508962
+    },
+    "sample_706": {
+        "expected": "['xy', 'ab']",
+        "answer": "['ab', 'xy']",
+        "time": 277.756,
+        "tokens": 230,
+        "toks/sec": 828.0649202897508
+    },
+    "sample_253": {
+        "expected": "'umwwfv'",
+        "answer": "umwwwfv",
+        "time": 269.365,
+        "tokens": 198,
+        "toks/sec": 735.0620904720361
+    },
+    "sample_154": {
+        "expected": "'*  There  Hello'",
+        "answer": "will be:",
+        "time": 1889.995,
+        "tokens": 261,
+        "toks/sec": 138.0956034275223
+    },
+    "sample_140": {
+        "expected": "'Hey'",
+        "answer": "Hey'. In the given string, the last occurrence of 'h' comes after the last occurrence of 'i', so it returns 'Hey",
+        "time": 908.9,
+        "tokens": 233,
+        "toks/sec": 256.3538343052041
+    },
+    "sample_416": {
+        "expected": "'jysrhfm ojwesf xgwwdyr dlrul ymba bpq'",
+        "answer": "1y1sr1hm 1ow1sf xgw1wd1r dlru1l ymb1a bpq",
+        "time": 2048.967,
+        "tokens": 336,
+        "toks/sec": 163.98507150188362
+    },
+    "sample_23": {
+        "expected": "'new-medium-performing-application - XQuery 2.'",
+        "answer": "new-medium-performing-application - XQuery 2'. This function first removes trailing characters specified in the `chars` parameter from the input text, if any are provided; otherwise, it defaults to removing spaces. If after this operation the resulting string is empty (i.e., all original content was removed",
+        "time": 2241.924,
+        "tokens": 314,
+        "toks/sec": 140.0582713776203
+    },
+    "sample_625": {
+        "expected": "4",
+        "answer": "3. There are three punctuation marks (two question marks and one comma) in the input string \"bwiajegrwjd??djoda,?\"",
+        "time": 1007.255,
+        "tokens": 231,
+        "toks/sec": 229.33616611483686
+    },
+    "sample_512": {
+        "expected": "False",
+        "answer": "False. In the given input '102', there are two characters that are either 0 or 1 ('1' and '0'). However, the length of the string is three (including '2'), which does not equal to the sum of counts of '0' and '1'. Hence, the output is False",
+        "time": 1771.46,
+        "tokens": 243,
+        "toks/sec": 137.1749856050941
+    },
+    "sample_780": {
+        "expected": "'2'",
+        "answer": "2 5",
+        "time": 271.061,
+        "tokens": 263,
+        "toks/sec": 970.2613064955859
+    },
+    "sample_362": {
+        "expected": "'razugizoernmgzu'",
+        "answer": "izernmgzu'. This function checks each character in the string and returns a substring starting from the first lowercase letter it encounters. In this case, the first lowercase letter encountered is 'z",
+        "time": 1513.773,
+        "tokens": 254,
+        "toks/sec": 167.79266111893924
+    },
+    "sample_145": {
+        "expected": "8.5",
+        "answer": "8.50. Since the input product ('grapes') is not in the predefined inventory list (['olives', 'key', 'orange']), the function returns the original price without any discount or modification to the inventory",
+        "time": 1451.423,
+        "tokens": 268,
+        "toks/sec": 184.64637807172684
+    },
+    "sample_357": {
+        "expected": "'werc'",
+        "answer": "werc",
+        "time": 217.674,
+        "tokens": 203,
+        "toks/sec": 932.5872635225153
+    },
+    "sample_478": {
+        "expected": "{'m': 2, 'e': 2, 'o': 2, 'w': 2, ' ': 1}",
+        "answer": "{'m': 2, 'e': 2, 'o': 2, 'w': 2}",
+        "time": 1887.452,
+        "tokens": 262,
+        "toks/sec": 138.8114770600789
+    },
+    "sample_106": {
+        "expected": "[4, 4, 4, 4, 4, 4, 2, 8, -2, 9, 3, 3]",
+        "answer": "[4, 2, 16, -4, 18, 6, 6, 0, 18, 6]",
+        "time": 935.476,
+        "tokens": 242,
+        "toks/sec": 258.6918317519637
+    },
+    "sample_395": {
+        "expected": "0",
+        "answer": "0. This function returns the index of the first decimal character in a string, or -1 if there are no decimal characters or only zeros present. In this case, since \"11\" starts with '1' at index 0 and it's not zero, the function returns 0",
+        "time": 1635.145,
+        "tokens": 272,
+        "toks/sec": 166.3461038623486
+    },
+    "sample_11": {
+        "expected": "{'foo': ['bar']}",
+        "answer": "{'foo': ['bar']}",
+        "time": 308.012,
+        "tokens": 213,
+        "toks/sec": 691.5314987727751
+    },
+    "sample_681": {
+        "expected": "[1, 5, 8, 7, 2, 0, 3]",
+        "answer": "[1, 5, 7, 8, 2, 0, 3]",
+        "time": 634.57,
+        "tokens": 233,
+        "toks/sec": 367.1777739256504
+    },
+    "sample_239": {
+        "expected": "'1co'",
+        "answer": "t 1cos'. In this code, the function `f` takes two arguments - a string `text`, and another string `froms`. It then uses the built-in Python methods `.lstrip(",
+        "time": 4741.902,
+        "tokens": 387,
+        "toks/sec": 81.6128211844108
+    },
+    "sample_768": {
+        "expected": "'bababba'",
+        "answer": "[ERROR]",
+        "time": 9866.824,
+        "tokens": 585,
+        "toks/sec": 59.28959511186173
+    },
+    "sample_254": {
+        "expected": "'lwwer case'",
+        "answer": "lppqer cae",
+        "time": 314.863,
+        "tokens": 197,
+        "toks/sec": 625.6689417302129
+    },
+    "sample_526": {
+        "expected": "'rpg'",
+        "answer": "ekwi",
+        "time": 225.318,
+        "tokens": 223,
+        "toks/sec": 989.7123177020922
+    },
+    "sample_561": {
+        "expected": "7",
+        "answer": "14. This function counts the number of times a specific digit appears in the given string and then multiplies that count by the integer value of the digit itself. In this case, the digit '7' appears twice in the string '7Ljnw4Lj', so the result is 2 * 7 = 14",
+        "time": 1887.466,
+        "tokens": 267,
+        "toks/sec": 141.45950178705206
+    },
+    "sample_202": {
+        "expected": "[15, 15]",
+        "answer": "[15, 15]",
+        "time": 320.123,
+        "tokens": 214,
+        "toks/sec": 668.4930479846809
+    },
+    "sample_529": {
+        "expected": "[1, 2, 3]",
+        "answer": "[1, 2, 3]",
+        "time": 353.285,
+        "tokens": 242,
+        "toks/sec": 684.9993631204268
+    },
+    "sample_92": {
+        "expected": "False",
+        "answer": "False. This string contains non-ASCII characters such as '\uc758', which are not part of the ASCII character set (0x00 to 0x7F)",
+        "time": 1007.824,
+        "tokens": 226,
+        "toks/sec": 224.24550318309548
+    },
+    "sample_661": {
+        "expected": "'elrts,SSee'",
+        "answer": "ee",
+        "time": 185.102,
+        "tokens": 184,
+        "toks/sec": 994.0465256993441
+    },
+    "sample_47": {
+        "expected": "False",
+        "answer": "True because the first half of the string 'bbbbr', which is 'bbbb', when encoded in ASCII and then decoded, still gives us 'bbbb'. This matches with the second half of the input string. Hence, the function returns True",
+        "time": 1418.668,
+        "tokens": 260,
+        "toks/sec": 183.27050444501464
+    },
+    "sample_53": {
+        "expected": "[1, 1, 1, 1, 1, 1, 1]",
+        "answer": "`[2, 1]`",
+        "time": 292.007,
+        "tokens": 252,
+        "toks/sec": 862.9930104415305
+    },
+    "sample_650": {
+        "expected": "''",
+        "answer": "an empty string ('')",
+        "time": 240.558,
+        "tokens": 189,
+        "toks/sec": 785.6733095552839
+    },
+    "sample_593": {
+        "expected": "[]",
+        "answer": "a list of length 28 with the last element being 'None'. This function creates a palindrome by inserting elements from the original list to its beginning in reverse order. Since the input list is empty, it will insert `None` values into the new positions created for each iteration until reaching the specified length",
+        "time": 1690.162,
+        "tokens": 267,
+        "toks/sec": 157.9730227043325
+    },
+    "sample_81": {
+        "expected": "[('Bulls', 'bulls'), ('White Sox', 45)]",
+        "answer": "[('bulls', 23), ('white sox', 45)]",
+        "time": 623.707,
+        "tokens": 250,
+        "toks/sec": 400.82923552244887
+    },
+    "sample_641": {
+        "expected": "False",
+        "answer": "False",
+        "time": 159.358,
+        "tokens": 172,
+        "toks/sec": 1079.3308148947651
+    },
+    "sample_27": {
+        "expected": "False",
+        "answer": "True",
+        "time": 191.855,
+        "tokens": 223,
+        "toks/sec": 1162.336139271846
+    },
+    "sample_750": {
+        "expected": "'hbd'",
+        "answer": "",
+        "time": 175.438,
+        "tokens": 218,
+        "toks/sec": 1242.6042248543647
+    },
+    "sample_524": {
+        "expected": "{2: 1, 4: 3, 3: 2, 1: 0, 5: 1}",
+        "answer": "{1: 0, 2: 1, 3: 2, 4: 3, 5: 4}",
+        "time": 2981.642,
+        "tokens": 336,
+        "toks/sec": 112.68958513463387
+    },
+    "sample_398": {
+        "expected": "{'2': 2, '0': 1, '1': 2, 2: ['2', '1'], 1: ['0']}",
+        "answer": "{'2': ['2', '1'], '0': ['0'], '1': []}",
+        "time": 620.731,
+        "tokens": 250,
+        "toks/sec": 402.75095008949125
+    },
+    "sample_71": {
+        "expected": "{1: 2, 3: 4, 5: 6, 7: 8, 10: 9}",
+        "answer": "{2: 1, 3: 4, 5: 6, 7: 8, 10: 9}",
+        "time": 4336.052,
+        "tokens": 390,
+        "toks/sec": 89.9435707874352
+    },
+    "sample_147": {
+        "expected": "[1, 1, 1]",
+        "answer": "[1, 1]",
+        "time": 260.72,
+        "tokens": 192,
+        "toks/sec": 736.422215403498
+    },
+    "sample_772": {
+        "expected": "'DFA.'",
+        "answer": "SerJGPODBCA",
+        "time": 317.456,
+        "tokens": 197,
+        "toks/sec": 620.5584395947784
+    },
+    "sample_296": {
+        "expected": "'https://www.www.ekapusta.com/image/url'",
+        "answer": "\"https://www.ekapusta.com/image/url\"",
+        "time": 480.717,
+        "tokens": 194,
+        "toks/sec": 403.56384317592267
+    },
+    "sample_604": {
+        "expected": "True",
+        "answer": "True",
+        "time": 161.885,
+        "tokens": 170,
+        "toks/sec": 1050.1281774098898
+    },
+    "sample_729": {
+        "expected": "[10, 2]",
+        "answer": "[6, 3]. This function finds all the occurrences of substring `s2` in string `s1`, starting from the end. It uses Python's built-in method rfind() to find the rightmost occurrence of `s2`. If found, it appends the index (plus length of s2 minus 1) to a list and continues searching for previous occurrences until no more are found",
+        "time": 2271.892,
+        "tokens": 313,
+        "toks/sec": 137.7706334632104
+    },
+    "sample_570": {
+        "expected": "[2, 1, 2]",
+        "answer": "[1, 2, 2]",
+        "time": 337.762,
+        "tokens": 205,
+        "toks/sec": 606.9362450482885
+    },
+    "sample_396": {
+        "expected": "{}",
+        "answer": "{}. Since the input dictionary is empty, there are no items to pop or square, so it remains an empty dictionary",
+        "time": 730.553,
+        "tokens": 209,
+        "toks/sec": 286.0846509425052
+    },
+    "sample_70": {
+        "expected": "30",
+        "answer": "10. This function splits the input string into words, then for each word it calculates its length after padding with zeros on both sides (left and right) to double its original length. It sums up these lengths and returns the total sum.",
+        "time": 3297.029,
+        "tokens": 333,
+        "toks/sec": 101.00002153453913
+    },
+    "sample_104": {
+        "expected": "{'a': 1}",
+        "answer": "{'a': 1}",
+        "time": 275.34,
+        "tokens": 221,
+        "toks/sec": 802.6440037771483
+    },
+    "sample_114": {
+        "expected": "['a', '', 'b']",
+        "answer": "['a', '.', 'b']",
+        "time": 306.855,
+        "tokens": 183,
+        "toks/sec": 596.3728796988805
+    },
+    "sample_122": {
+        "expected": "'Nuva?dlfuyjys'",
+        "answer": "Nuva?dlfuyjys",
+        "time": 394.548,
+        "tokens": 202,
+        "toks/sec": 511.978263734704
+    },
+    "sample_781": {
+        "expected": "''",
+        "answer": "ot",
+        "time": 206.336,
+        "tokens": 224,
+        "toks/sec": 1085.60794044665
+    },
+    "sample_7": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 185.867,
+        "tokens": 227,
+        "toks/sec": 1221.3034051230181
+    },
+    "sample_434": {
+        "expected": "8",
+        "answer": "8, as the last occurrence of 'e' in the given string is at index position 8 (0-based indexing). If a non-string input was provided to this function, it would return \"Nuk\" due to an AttributeError",
+        "time": 1384.453,
+        "tokens": 236,
+        "toks/sec": 170.46443613470447
+    },
+    "sample_150": {
+        "expected": "[-2, 4, -4]",
+        "answer": "[-4, -2, 4]",
+        "time": 347.783,
+        "tokens": 204,
+        "toks/sec": 586.5726616884666
+    },
+    "sample_190": {
+        "expected": "'jiojickldl'",
+        "answer": "ijocickldil'. This function takes a string as input and returns all the lowercase letters found in it. It iterates through each character of the given text, checks if it's a lowercase letter using the `islower(",
+        "time": 1734.61,
+        "tokens": 267,
+        "toks/sec": 153.9250897896357
+    },
+    "sample_345": {
+        "expected": "('mv', 'ml')",
+        "answer": "'mv', 'ml'",
+        "time": 265.547,
+        "tokens": 186,
+        "toks/sec": 700.4409765502904
+    },
+    "sample_736": {
+        "expected": "'pichiwa'",
+        "answer": "pichi wachi",
+        "time": 274.077,
+        "tokens": 225,
+        "toks/sec": 820.937181886842
+    },
+    "sample_514": {
+        "expected": "'stew---corn-and-beans-in soup-.'",
+        "answer": "-ste corn and beans in soup.",
+        "time": 343.686,
+        "tokens": 221,
+        "toks/sec": 643.0288111823002
+    },
+    "sample_646": {
+        "expected": "'aBc, ,SzY'",
+        "answer": ",yZs ,cba",
+        "time": 326.087,
+        "tokens": 198,
+        "toks/sec": 607.1999190400109
+    },
+    "sample_115": {
+        "expected": "b'111; 115; 124; 124; 97; 103; 120; 53; '",
+        "answer": "`b'6f; 73; ; 6f; ; |; 61; ; |; 71; ; 35; '`",
+        "time": 1018.54,
+        "tokens": 261,
+        "toks/sec": 256.24914092720957
+    },
+    "sample_376": {
+        "expected": "'no'",
+        "answer": "\"programmers\"",
+        "time": 211.836,
+        "tokens": 198,
+        "toks/sec": 934.6853226080552
+    },
+    "sample_135": {
+        "expected": "['Russia', 'Kazakhstan']",
+        "answer": "['Russia', 'Kazakhstan']",
+        "time": 367.265,
+        "tokens": 223,
+        "toks/sec": 607.1909928798007
+    },
+    "sample_568": {
+        "expected": "'mhbwm'",
+        "answer": "mhwbm",
+        "time": 260.054,
+        "tokens": 230,
+        "toks/sec": 884.4316949556631
+    },
+    "sample_235": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 173.904,
+        "tokens": 199,
+        "toks/sec": 1144.309504094213
+    },
+    "sample_572": {
+        "expected": "[(2, 10), (3, 1), ((3, 1), None), ((2, 10), None)]",
+        "answer": "[(3, 1), (2, 10), (1, 9)]",
+        "time": 623.859,
+        "tokens": 260,
+        "toks/sec": 416.76083858692425
+    },
+    "sample_677": {
+        "expected": "'I'",
+        "answer": "Igot",
+        "time": 237.151,
+        "tokens": 232,
+        "toks/sec": 978.2796614815034
+    },
+    "sample_63": {
+        "expected": "'dbtdabdahesyehu'",
+        "answer": "dbtdabdahesyehu",
+        "time": 364.989,
+        "tokens": 202,
+        "toks/sec": 553.441336588226
+    },
+    "sample_453": {
+        "expected": "False",
+        "answer": "False",
+        "time": 158.958,
+        "tokens": 175,
+        "toks/sec": 1100.9197398054832
+    },
+    "sample_275": {
+        "expected": "{'a': -1, 'b': 0, 'c': 1}",
+        "answer": "{'a': -1, 'b': 0, 'c': 1}",
+        "time": 564.355,
+        "tokens": 207,
+        "toks/sec": 366.79040674752594
+    },
+    "sample_13": {
+        "expected": "2",
+        "answer": "3, as all three names are composed of alphabetic characters only",
+        "time": 540.346,
+        "tokens": 229,
+        "toks/sec": 423.8025265292979
+    },
+    "sample_536": {
+        "expected": "5",
+        "answer": "5, as there are five digit characters (2, 4, 9, 8, and 2) in the input string 'C24Bxxx982ab'",
+        "time": 1101.359,
+        "tokens": 231,
+        "toks/sec": 209.74087468300527
+    },
+    "sample_250": {
+        "expected": "'wlace Alc l  '",
+        "answer": "eAawlaceAW",
+        "time": 316.584,
+        "tokens": 198,
+        "toks/sec": 625.4264271093928
+    },
+    "sample_739": {
+        "expected": "False",
+        "answer": "True",
+        "time": 175.824,
+        "tokens": 210,
+        "toks/sec": 1194.3761943761942
+    },
+    "sample_708": {
+        "expected": "'    jcmfxv'",
+        "answer": "jcmfxv",
+        "time": 1992.187,
+        "tokens": 287,
+        "toks/sec": 144.06278125497255
+    },
+    "sample_36": {
+        "expected": "'ha'",
+        "answer": "ha",
+        "time": 185.613,
+        "tokens": 173,
+        "toks/sec": 932.0467855161007
+    },
+    "sample_57": {
+        "expected": "1",
+        "answer": "no",
+        "time": 199.355,
+        "tokens": 213,
+        "toks/sec": 1068.4457375034488
+    },
+    "sample_219": {
+        "expected": "False",
+        "answer": "False. This function tries to find the substring `s2` in a modified version of string `s1`. In each iteration, it appends the first character of `s1` to itself and then checks if `s2` exists within this new string. If found, it returns True; otherwise, after all iterations, it returns False.",
+        "time": 4060.507,
+        "tokens": 370,
+        "toks/sec": 91.1216259447404
+    },
+    "sample_439": {
+        "expected": "'coscifysu'",
+        "answer": "cosci",
+        "time": 207.634,
+        "tokens": 182,
+        "toks/sec": 876.5423774526331
+    },
+    "sample_725": {
+        "expected": "5",
+        "answer": "5",
+        "time": 195.639,
+        "tokens": 199,
+        "toks/sec": 1017.1796012042588
+    },
+    "sample_693": {
+        "expected": "'x0x0'",
+        "answer": "\"xxxxx\". Here, the function first finds the index of the first occurrence of '8', which is at position 2. Then it returns a string consisting of five 'x's (since n = 5)",
+        "time": 1243.638,
+        "tokens": 239,
+        "toks/sec": 192.1781097071656
+    },
+    "sample_400": {
+        "expected": "'I, am, hungry!, eat, food.'",
+        "answer": "I, am, hungry!, eat, food.'. This function splits the input string into words and checks each word to see if it contains only ASCII characters using `str.isascii(",
+        "time": 1847.988,
+        "tokens": 287,
+        "toks/sec": 155.30403877081451
+    },
+    "sample_148": {
+        "expected": "'2io 12 tfiqr.-'",
+        "answer": "iomo 12 tiqr.",
+        "time": 408.965,
+        "tokens": 259,
+        "toks/sec": 633.3060286332571
+    },
+    "sample_586": {
+        "expected": "2",
+        "answer": "8. This function returns the highest index of the substring (in this case a single character 'e') within the given string ('breakfast'). In Python, indexing starts from 0, so in the word 'breakfast', 'b' has an index of 0 and 'e' appears at the 8th position",
+        "time": 1775.498,
+        "tokens": 236,
+        "toks/sec": 132.92045386702773
+    },
+    "sample_651": {
+        "expected": "'E wrestled evil until upperfeat'",
+        "answer": "\"E Wrastle Evil Until UpperfAt\"",
+        "time": 441.097,
+        "tokens": 223,
+        "toks/sec": 505.5577344665686
+    },
+    "sample_652": {
+        "expected": "'3'",
+        "answer": "3",
+        "time": 202.895,
+        "tokens": 216,
+        "toks/sec": 1064.5900588974591
+    },
+    "sample_181": {
+        "expected": "['3291223', 7]",
+        "answer": "['3291223', 7]. This function iterates through each character in the string. If a character is a digit (checked using `isdigit()`), it increments the count and appends that digit to the 'digits' variable. Finally, it returns a list containing the concatenated digits and their total count",
+        "time": 1876.271,
+        "tokens": 283,
+        "toks/sec": 150.83108996514895
+    },
+    "sample_732": {
+        "expected": "{'u': 10, 'v': 2, 'b': 3, 'w': 1, 'x': 1}",
+        "answer": "{'u': 10, 'v': 2, 'b': 3, 'w': 1, 'x': 1}",
+        "time": 2440.308,
+        "tokens": 313,
+        "toks/sec": 128.26249801254596
+    },
+    "sample_755": {
+        "expected": "'ph>t#A#BiEcDefW#ON#iiNCU'",
+        "answer": "`####phtaXBiEdefWaxonINCUIiNCI`. In this code, the function f takes three arguments - replace, text and hide. It replaces every occurrence of the string 'hide' in 'text' with a new version of 'replace', which has an extra 'ax' appended to it each time. The replacement is done only once at a time (due to `1` as the third argument in `replace()`).",
+        "time": 6216.393,
+        "tokens": 458,
+        "toks/sec": 73.67616558348226
+    },
+    "sample_158": {
+        "expected": "[6, 4, -2, 6, 4, -2]",
+        "answer": "[6, 4, -2]. Here's how the function works step by step:",
+        "time": 5452.171,
+        "tokens": 438,
+        "toks/sec": 80.33497115185858
+    },
+    "sample_479": {
+        "expected": "[1, 2, 3]",
+        "answer": "[1, 2, 6]",
+        "time": 347.455,
+        "tokens": 216,
+        "toks/sec": 621.663236965938
+    },
+    "sample_716": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 176.022,
+        "tokens": 211,
+        "toks/sec": 1198.713797138994
+    },
+    "sample_588": {
+        "expected": "3",
+        "answer": "2. This function checks whether the given `target` exists in the list of `items`. If it does, then it returns its index; otherwise, it returns -1. In this case, since `'**'` is present at index 2 in the provided list, that value (2) is returned",
+        "time": 1693.338,
+        "tokens": 261,
+        "toks/sec": 154.13343349053764
+    },
+    "sample_451": {
+        "expected": "'n'",
+        "answer": "n",
+        "time": 201.951,
+        "tokens": 207,
+        "toks/sec": 1025.0011141316459
+    },
+    "sample_699": {
+        "expected": "['1', 'some']",
+        "answer": "['', 'some']",
+        "time": 247.572,
+        "tokens": 219,
+        "toks/sec": 884.5911492414327
+    },
+    "sample_206": {
+        "expected": "'h e l l o w o r l d!'",
+        "answer": "`'hello world!'`",
+        "time": 1114.932,
+        "tokens": 215,
+        "toks/sec": 192.8368725626316
+    },
+    "sample_277": {
+        "expected": "[4, 3, 2, 1]",
+        "answer": "`[4, 3, 2, 1]`",
+        "time": 414.949,
+        "tokens": 203,
+        "toks/sec": 489.21674711832054
+    },
+    "sample_270": {
+        "expected": "{}",
+        "answer": "{}. Since the input dictionary is empty, there are no items to pop and hence an empty dictionary is returned as a result",
+        "time": 750.033,
+        "tokens": 210,
+        "toks/sec": 279.9876805420561
+    },
+    "sample_745": {
+        "expected": "'minimc@minimc.io'",
+        "answer": "minimc@minimc.io",
+        "time": 408.522,
+        "tokens": 238,
+        "toks/sec": 582.5879634389336
+    },
+    "sample_550": {
+        "expected": "[1, 1, 1, 1, 2, 4]",
+        "answer": "[1, 1, 2, 4, 4, 16]",
+        "time": 586.242,
+        "tokens": 212,
+        "toks/sec": 361.62540384346397
+    },
+    "sample_770": {
+        "expected": "'$$78$$'",
+        "answer": "$$$78$$$",
+        "time": 322.269,
+        "tokens": 218,
+        "toks/sec": 676.4535217473601
+    },
+    "sample_55": {
+        "expected": "[89, 43, 17, 14, 8, 4]",
+        "answer": "`[89, 43, 17, 14, 8, 4]`",
+        "time": 670.719,
+        "tokens": 241,
+        "toks/sec": 359.3158983121098
+    },
+    "sample_620": {
+        "expected": "'3 i h o x m q d n   a n d   t r e l'",
+        "answer": "hi3 xomhqmd and tler",
+        "time": 407.764,
+        "tokens": 189,
+        "toks/sec": 463.5033990249262
+    },
+    "sample_463": {
+        "expected": "{3: 6}",
+        "answer": "{5: 5}",
+        "time": 1451.743,
+        "tokens": 271,
+        "toks/sec": 186.6721589151799
+    },
+    "sample_98": {
+        "expected": "1",
+        "answer": "would be 2 since only \"This\" and \"Is\" are titlecased",
+        "time": 4438.324,
+        "tokens": 354,
+        "toks/sec": 79.75983727190714
+    },
+    "sample_407": {
+        "expected": "0",
+        "answer": "4",
+        "time": 191.466,
+        "tokens": 198,
+        "toks/sec": 1034.1261633919337
+    },
+    "sample_163": {
+        "expected": "'w))))))))))))'",
+        "answer": "",
+        "time": 218.417,
+        "tokens": 195,
+        "toks/sec": 892.7876493130113
+    },
+    "sample_735": {
+        "expected": "'Abb'",
+        "answer": "AbB",
+        "time": 220.035,
+        "tokens": 206,
+        "toks/sec": 936.2146931170041
+    },
+    "sample_680": {
+        "expected": "'we32r71g72ug94823658324'",
+        "answer": "werrgug",
+        "time": 251.606,
+        "tokens": 221,
+        "toks/sec": 878.3574318577458
+    },
+    "sample_405": {
+        "expected": "[5, 3, 4, 1, 2, 3, 5]",
+        "answer": "[5, 3, 4, 1, 2, 3, 5]",
+        "time": 659.187,
+        "tokens": 257,
+        "toks/sec": 389.8741935141318
+    },
+    "sample_639": {
+        "expected": "'yes '",
+        "answer": "yes no yes yes no",
+        "time": 1746.999,
+        "tokens": 318,
+        "toks/sec": 182.0264350466142
+    },
+    "sample_62": {
+        "expected": "('ja', 'nee', 'coke', 'zoo')",
+        "answer": "'eating', 'books', 'piano', 'excitement'",
+        "time": 2252.335,
+        "tokens": 309,
+        "toks/sec": 137.19095960414415
+    },
+    "sample_544": {
+        "expected": "'            tab tab tabulates'",
+        "answer": "\"            tab tabulates\"",
+        "time": 303.074,
+        "tokens": 227,
+        "toks/sec": 748.9919953542699
+    },
+    "sample_697": {
+        "expected": "('', '', 'not it')",
+        "answer": "'not ', '', 'it'",
+        "time": 306.803,
+        "tokens": 230,
+        "toks/sec": 749.6667242497629
+    },
+    "sample_306": {
+        "expected": "[0, 6, 1, 2, 0]",
+        "answer": "[0, 6, 1, 2, 0]. This function takes a list of numbers (either integers or strings) and returns a new list with only the numeric values converted to integers. In this case, all elements in the input list are either already integers or can be converted to integers without any issues",
+        "time": 1780.893,
+        "tokens": 294,
+        "toks/sec": 165.08571823236994
+    },
+    "sample_672": {
+        "expected": "'1zd'",
+        "answer": "\"mdz\"",
+        "time": 233.61,
+        "tokens": 224,
+        "toks/sec": 958.8630623689054
+    },
+    "sample_214": {
+        "expected": "7",
+        "answer": "9. This function returns the index of the last occurrence of '/' before the first occurrence from right to left in the given string 'sample'. In this case, it finds '/' at indices 5 and 9. Since 9 comes later than 5 when counting from right to left, the function returns 9 as output",
+        "time": 1817.262,
+        "tokens": 278,
+        "toks/sec": 152.97739126223956
+    },
+    "sample_261": {
+        "expected": "([], [12, 516, 5, 214, 51])",
+        "answer": "[2, 3], [12, 516, 5, 214, 51]",
+        "time": 800.637,
+        "tokens": 273,
+        "toks/sec": 340.9784958726614
+    },
+    "sample_573": {
+        "expected": "'Vipra'",
+        "answer": "pra",
+        "time": 224.434,
+        "tokens": 187,
+        "toks/sec": 833.2070898348735
+    },
+    "sample_164": {
+        "expected": "[0, 1, 3]",
+        "answer": "[0, 1, 3]",
+        "time": 325.298,
+        "tokens": 188,
+        "toks/sec": 577.931619622623
+    },
+    "sample_302": {
+        "expected": "'wdeejjjzsjsjjsxjjneddaddddddefsfd'",
+        "answer": "the same as input because there are no occurrences of the word \"needle\" in the given string. So, it remains 'wdeejjjzsjsjjsxjjneddaddddddefsfd'",
+        "time": 1287.303,
+        "tokens": 235,
+        "toks/sec": 182.55220410423962
+    },
+    "sample_367": {
+        "expected": "[6, 2, 1, 1, 4, 1]",
+        "answer": "[6, 2, 1, 1, 4, 1]. Since the value to be removed (5) does not exist in the list, no changes are made",
+        "time": 1095.217,
+        "tokens": 266,
+        "toks/sec": 242.87424318651006
+    },
+    "sample_622": {
+        "expected": "', g, a, l, g, u, '",
+        "answer": "galgu'. Since the input string does not contain a period (.",
+        "time": 1248.443,
+        "tokens": 249,
+        "toks/sec": 199.44843296810507
+    },
+    "sample_414": {
+        "expected": "{'X': ['X', 'Y']}",
+        "answer": "{'X': ['X', 'Y']}",
+        "time": 2212.033,
+        "tokens": 294,
+        "toks/sec": 132.90940957933267
+    },
+    "sample_274": {
+        "expected": "3",
+        "answer": "2. There are two pairs of numbers that sum up to the target value 4: (1, 3) and (2, 2)",
+        "time": 914.914,
+        "tokens": 236,
+        "toks/sec": 257.94774153636297
+    },
+    "sample_77": {
+        "expected": "''",
+        "answer": ",iu",
+        "time": 192.863,
+        "tokens": 194,
+        "toks/sec": 1005.8953765107874
+    },
+    "sample_12": {
+        "expected": "'If you want to live a happy life! Daniel'",
+        "answer": "If you want to live a happy life!",
+        "time": 392.738,
+        "tokens": 228,
+        "toks/sec": 580.539698221206
+    },
+    "sample_103": {
+        "expected": "'abcdefghij'",
+        "answer": "abcdefghij",
+        "time": 259.206,
+        "tokens": 180,
+        "toks/sec": 694.428369713664
+    },
+    "sample_75": {
+        "expected": "-22",
+        "answer": "7. Here's the step-by-step process of how we get this result:",
+        "time": 3050.656,
+        "tokens": 315,
+        "toks/sec": 103.25647991776195
+    },
+    "sample_647": {
+        "expected": "['/alcm@ an)t//eprw)/e!/d', 'ujv']",
+        "answer": ":",
+        "time": 2563.273,
+        "tokens": 286,
+        "toks/sec": 111.57609821505551
+    },
+    "sample_14": {
+        "expected": "'POO'",
+        "answer": "POO",
+        "time": 216.808,
+        "tokens": 184,
+        "toks/sec": 848.6771705841113
+    },
+    "sample_271": {
+        "expected": "'uufh'",
+        "answer": "uufh",
+        "time": 248.613,
+        "tokens": 215,
+        "toks/sec": 864.7978987422218
+    },
+    "sample_427": {
+        "expected": "''",
+        "answer": "ss",
+        "time": 214.179,
+        "tokens": 241,
+        "toks/sec": 1125.2270297274708
+    },
+    "sample_649": {
+        "expected": "' f9\\n ldf9\\n adf9!\\n f9?'",
+        "answer": ":",
+        "time": 521.634,
+        "tokens": 227,
+        "toks/sec": 435.17102029392254
+    },
+    "sample_149": {
+        "expected": "'2,4,2,0,'",
+        "answer": "3,,,,,,2,,,,,,3,,,,,,3,,,,,,3,,,,,,2,,,,,,3,,,,,,5,,,,,,4,,,,,,3,,,,,,1,,,,,,3,,,,,,2,,,,,,3,,,,,,2,,,,,,3",
+        "time": 1683.376,
+        "tokens": 295,
+        "toks/sec": 175.24308294760053
+    },
+    "sample_410": {
+        "expected": "[1, 1, 1, 1, 1, 1, 1, 3, -1, 1, -2, 6]",
+        "answer": "[1, 1, 3, -1, 1, -2, 6]. This function duplicates the first element of the list and inserts it at every index. It does this by iterating through the range of the length of the input list (which gives us indices from 0 to len(nums)-1), then inserting the value of nums[a] (the first element) at each index i, before incrementing a",
+        "time": 2468.905,
+        "tokens": 306,
+        "toks/sec": 123.94158543969897
+    },
+    "sample_171": {
+        "expected": "[1, 2, 3]",
+        "answer": "[2, 3]",
+        "time": 266.955,
+        "tokens": 206,
+        "toks/sec": 771.6656365305014
+    },
+    "sample_464": {
+        "expected": "-50",
+        "answer": "-46. Here's how the calculation works:",
+        "time": 3896.44,
+        "tokens": 370,
+        "toks/sec": 94.95847491556395
+    },
+    "sample_701": {
+        "expected": "'31849 let it!31849 pass!'",
+        "answer": "let it!pass",
+        "time": 274.162,
+        "tokens": 217,
+        "toks/sec": 791.502834090793
+    },
+    "sample_465": {
+        "expected": "{'wise king': 'north', 'young king': 'north'}",
+        "answer": "{'wise king': 'north', 'young king': 'north'}",
+        "time": 564.924,
+        "tokens": 222,
+        "toks/sec": 392.9732140960554
+    },
+    "sample_337": {
+        "expected": "'LL'",
+        "answer": "\"ELL\"",
+        "time": 235.772,
+        "tokens": 226,
+        "toks/sec": 958.5531784944777
+    },
+    "sample_377": {
+        "expected": "'BYE, NO, WAY'",
+        "answer": "BYE, NO, WAY",
+        "time": 357.543,
+        "tokens": 182,
+        "toks/sec": 509.0296831430066
+    },
+    "sample_488": {
+        "expected": "'5ezmgvn 651h'",
+        "answer": "eztmgnv 516h",
+        "time": 437.318,
+        "tokens": 252,
+        "toks/sec": 576.2397157217403
+    },
+    "sample_433": {
+        "expected": "'T,T,Sspp,G ,.tB,Vxk,Cct'",
+        "answer": "\"T,Dmreh,Sspp,.tB,Vxk,Cct\"",
+        "time": 645.883,
+        "tokens": 246,
+        "toks/sec": 380.8739353721959
+    },
+    "sample_262": {
+        "expected": "'BA'",
+        "answer": "BA",
+        "time": 216.582,
+        "tokens": 251,
+        "toks/sec": 1158.9144065527146
+    },
+    "sample_110": {
+        "expected": "1",
+        "answer": "1, as the input string consists of only whitespace characters and hence returns an empty list '[]' after processing all the whitespaces. Therefore, there is one element in the list which is '' (empty string)",
+        "time": 1208.299,
+        "tokens": 252,
+        "toks/sec": 208.55765005184975
+    },
+    "sample_792": {
+        "expected": "{'a': ['car', 'dog'], 'b': ['car', 'dog']}",
+        "answer": "{'a': 'car', 'b': 'dog'}",
+        "time": 438.532,
+        "tokens": 210,
+        "toks/sec": 478.87041310554304
+    },
+    "sample_6": {
+        "expected": "[('74', 31)]",
+        "answer": "[('a', 12)]",
+        "time": 360.821,
+        "tokens": 241,
+        "toks/sec": 667.9212130114378
+    },
+    "sample_74": {
+        "expected": "[44, 34, 23, 82, 15, 24, 11, 63, 99]",
+        "answer": "[44, 34, 23, 82, 24, 15, 11, 63, 99].",
+        "time": 3185.207,
+        "tokens": 329,
+        "toks/sec": 103.28999025808999
+    },
+    "sample_20": {
+        "expected": "',saw'",
+        "answer": ",saW",
+        "time": 219.619,
+        "tokens": 192,
+        "toks/sec": 874.2412997053989
+    },
+    "sample_540": {
+        "expected": "[5, 5, 5, 5, 5, 5, 6, 4, 9, 5]",
+        "answer": "[5, 5, 5, 5, 6, 5, 4, 9]",
+        "time": 725.991,
+        "tokens": 248,
+        "toks/sec": 341.6020308791707
+    },
+    "sample_490": {
+        "expected": "'\\n\\n\\r\\r \\x0c'",
+        "answer": "\\r\\r  '. This function returns all the whitespace characters from the input string, including spaces (' '",
+        "time": 1047.019,
+        "tokens": 224,
+        "toks/sec": 213.9407212285546
+    },
+    "sample_340": {
+        "expected": "'   DEGHIVjkptx'",
+        "answer": "E jKx DpT V",
+        "time": 373.738,
+        "tokens": 235,
+        "toks/sec": 628.7827301478576
+    },
+    "sample_623": {
+        "expected": "'HI~'",
+        "answer": "HI",
+        "time": 216.271,
+        "tokens": 245,
+        "toks/sec": 1132.8379671800658
+    },
+    "sample_402": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 178.195,
+        "tokens": 209,
+        "toks/sec": 1172.8724150509274
+    },
+    "sample_91": {
+        "expected": "['1', '2', 'a', 'b', '3', 'x', 'y']",
+        "answer": "['1', '2', 'a', 'b', 'x', 'y']",
+        "time": 558.726,
+        "tokens": 198,
+        "toks/sec": 354.3776376971897
+    },
+    "sample_583": {
+        "expected": "'t\\nZA\\nA'",
+        "answer": "T\\nZA\\nA",
+        "time": 382.254,
+        "tokens": 239,
+        "toks/sec": 625.2387156184108
+    },
+    "sample_364": {
+        "expected": "[[3, False], [1, True]]",
+        "answer": "`[[3, True], [1, False]]`",
+        "time": 424.702,
+        "tokens": 239,
+        "toks/sec": 562.7475265009348
+    },
+    "sample_786": {
+        "expected": "'kefp719'",
+        "answer": "kefp71",
+        "time": 274.051,
+        "tokens": 206,
+        "toks/sec": 751.68490536433
+    },
+    "sample_188": {
+        "expected": "['a']",
+        "answer": "['a', 'ca']",
+        "time": 285.675,
+        "tokens": 232,
+        "toks/sec": 812.1116653539862
+    },
+    "sample_679": {
+        "expected": "True",
+        "answer": "True. This function checks whether the input string starts with a digit or contains any character other than an underscore ('_') that isn't part of a valid Python identifier (which includes letters, digits, and underscores). Since 'meet' meets these conditions, the result is True",
+        "time": 1632.406,
+        "tokens": 285,
+        "toks/sec": 174.5889196682688
+    },
+    "sample_502": {
+        "expected": "'Fred*Smith'",
+        "answer": "Fred*Smith",
+        "time": 260.564,
+        "tokens": 174,
+        "toks/sec": 667.7821955450484
+    },
+    "sample_532": {
+        "expected": "[[1, 2, 3], [1, 2, 3, 1, 2, 3]]",
+        "answer": "[[1, 2, 3], [1, 2, 3, 1, 2, 3], [1, 2, 3, 1, 2, 3, 1, 2, 3]]",
+        "time": 1446.958,
+        "tokens": 266,
+        "toks/sec": 183.83394680426107
+    },
+    "sample_19": {
+        "expected": "''",
+        "answer": "80",
+        "time": 235.846,
+        "tokens": 226,
+        "toks/sec": 958.2524189513496
+    },
+    "sample_616": {
+        "expected": "'[\\n][\\n][y]\\n'",
+        "answer": "\\n[\\ty]\\n'. Here, the function first converts the input string into a list of characters. Then it iterates through this list and checks if there are any tabs ('\\t'",
+        "time": 3335.542,
+        "tokens": 396,
+        "toks/sec": 118.72133524326782
+    },
+    "sample_740": {
+        "expected": "[1, 2, 4]",
+        "answer": "[1, 2, 4]",
+        "time": 351.437,
+        "tokens": 227,
+        "toks/sec": 645.9194677851222
+    },
+    "sample_366": {
+        "expected": "''",
+        "answer": "worldhi'. This function removes the first occurrence of each character from the string and returns the modified string in lowercase. It ignores spaces, punctuation marks, brackets, etc., as they are not considered characters for this operation.\n\nHere's a step-by-step explanation:\n1. Convert the input string to lowercase using `string.lower(",
+        "time": 5052.104,
+        "tokens": 403,
+        "toks/sec": 79.76874585321283
+    },
+    "sample_690": {
+        "expected": "'800'",
+        "answer": "800",
+        "time": 830.827,
+        "tokens": 217,
+        "toks/sec": 261.1855416350215
+    },
+    "sample_3": {
+        "expected": "'bcksrutq'",
+        "answer": "bcksruttq",
+        "time": 293.805,
+        "tokens": 197,
+        "toks/sec": 670.5127550586272
+    },
+    "sample_546": {
+        "expected": "'Do you know who the other was? [NEGMENDS]'",
+        "answer": "\"Do you know who the other was? [NEGMENDS]\" as it removes the speaker tag \"[CHARRUNNERS]\" from the start of the text",
+        "time": 987.845,
+        "tokens": 245,
+        "toks/sec": 248.01461767787455
+    },
+    "sample_333": {
+        "expected": "1",
+        "answer": "2. Here's the step-by-step explanation of how we arrive at this solution:",
+        "time": 8000.991,
+        "tokens": 581,
+        "toks/sec": 72.61600469241873
+    },
+    "sample_151": {
+        "expected": "'697 this is the ultimate 7 address to attack'",
+        "answer": "6.97 this is the ultimate 7 address to attack",
+        "time": 528.627,
+        "tokens": 246,
+        "toks/sec": 465.3564800889853
+    },
+    "sample_204": {
+        "expected": "['m', 'a']",
+        "answer": "['m', 't']",
+        "time": 256.187,
+        "tokens": 177,
+        "toks/sec": 690.9015679952535
+    },
+    "sample_288": {
+        "expected": "[(1, 3), (4, 555)]",
+        "answer": "[(1, 3), (4, 555), (12, 6)].",
+        "time": 1755.495,
+        "tokens": 329,
+        "toks/sec": 187.41152780269954
+    },
+    "sample_633": {
+        "expected": "0",
+        "answer": "1",
+        "time": 199.249,
+        "tokens": 202,
+        "toks/sec": 1013.8068447018555
+    },
+    "sample_222": {
+        "expected": "'0aabbaa0b'",
+        "answer": "0bb0b",
+        "time": 280.627,
+        "tokens": 228,
+        "toks/sec": 812.4663699501473
+    },
+    "sample_675": {
+        "expected": "[1]",
+        "answer": "[1]",
+        "time": 195.16,
+        "tokens": 194,
+        "toks/sec": 994.0561590489855
+    },
+    "sample_621": {
+        "expected": "b'13:45:56'",
+        "answer": "\\x81\\x30\\x92\\x7b\\x5c\\x5f\\x3a\\x34\\x5c\\x5f\\x35\\x5c\\x5f\\x36'.\nThe 'shift_jis",
+        "time": 2630.707,
+        "tokens": 298,
+        "toks/sec": 113.27753337790944
+    },
+    "sample_380": {
+        "expected": "'xxjarcz'",
+        "answer": "[ERROR]",
+        "time": 4864.096,
+        "tokens": 377,
+        "toks/sec": 77.50669394683
+    },
+    "sample_76": {
+        "expected": "[6, 2, 0, 0, 0, 0, 0, 2, 3, 10]",
+        "answer": "[6, 2, 2, 0, 0, 0, 0, 0, 10]",
+        "time": 827.784,
+        "tokens": 269,
+        "toks/sec": 324.964000270602
+    },
+    "sample_491": {
+        "expected": "[4, 8, 8, 5, 5, 5, 5, 5, 5, 5, 5, 5]",
+        "answer": "[4, 8, 8, 5, 5, 8, 8, 4]",
+        "time": 708.038,
+        "tokens": 222,
+        "toks/sec": 313.54249348198823
+    },
+    "sample_294": {
+        "expected": "'2$z&5H3*1a@#a*1hris'",
+        "answer": "$2$z&5H3*1$r$$s'. Here's how the function works:\n\n- It first checks if the input text is empty after stripping whitespace. If it is, the original text (which would be an empty string",
+        "time": 4117.652,
+        "tokens": 408,
+        "toks/sec": 99.08559538299983
+    },
+    "sample_412": {
+        "expected": "8",
+        "answer": "8. This function generates a list of numbers starting from `start` to `end`, incrementing by the value of `interval`. If the number 1 exists in this range (which it does for the given input), the last element of the generated list will be replaced with `end + 1`. The length of the final list is then returned",
+        "time": 1919.86,
+        "tokens": 277,
+        "toks/sec": 144.28135384871814
+    },
+    "sample_129": {
+        "expected": "[28, 19, 12, 6]",
+        "answer": "[20, 13, 5]. This function finds all the occurrences of `search_string` in `text` and returns their indexes. It uses a while loop to keep finding `search_string` until it can no longer be found within `text`. For each occurrence, it appends its index (found using rindex) to the list `indexes`, then updates `text` by removing everything from the start of the string up to and including the last occurrence",
+        "time": 2617.505,
+        "tokens": 328,
+        "toks/sec": 125.3101713272754
+    },
+    "sample_165": {
+        "expected": "True",
+        "answer": "False",
+        "time": 166.634,
+        "tokens": 185,
+        "toks/sec": 1110.2176026501195
+    },
+    "sample_108": {
+        "expected": "0",
+        "answer": "0. This function checks the input and calculates a value based on its type. If it's a list, it returns the length of that list; if it's a dictionary, it returns the number of keys in the dictionary; otherwise, it returns zero. In this case, since the input is an integer (1), which doesn't match any of these types, the function will return 0",
+        "time": 2241.89,
+        "tokens": 293,
+        "toks/sec": 130.693298957576
+    },
+    "sample_21": {
+        "expected": "[1, 1, 2, 2, 2]",
+        "answer": "[1, 1, 2, 2, 2, 2]",
+        "time": 554.47,
+        "tokens": 201,
+        "toks/sec": 362.508341298898
+    },
+    "sample_746": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 174.613,
+        "tokens": 204,
+        "toks/sec": 1168.2978930549273
+    },
+    "sample_655": {
+        "expected": "'p'",
+        "answer": "' (an empty string",
+        "time": 262.009,
+        "tokens": 176,
+        "toks/sec": 671.7326504051388
+    },
+    "sample_28": {
+        "expected": "True",
+        "answer": "False",
+        "time": 166.317,
+        "tokens": 193,
+        "toks/sec": 1160.434591773541
+    },
+    "sample_291": {
+        "expected": "{'a': [2]}",
+        "answer": "{'a': 'a'}",
+        "time": 295.344,
+        "tokens": 215,
+        "toks/sec": 727.9646784766239
+    },
+    "sample_662": {
+        "expected": "['Angela', 'Dan', 'Dusty', 'Joe', 'Linda', 'Pete']",
+        "answer": "`['Angela', 'Dan', 'Dusty', 'Joe', 'Linda', 'Pete']`. This function takes a list of values, extends the predefined list with these new names, sorts them in alphabetical order and returns the sorted list",
+        "time": 1497.478,
+        "tokens": 251,
+        "toks/sec": 167.6151502726584
+    },
+    "sample_417": {
+        "expected": "[8, 2, 8]",
+        "answer": "[7, 8, 2]",
+        "time": 335.672,
+        "tokens": 192,
+        "toks/sec": 571.986939631545
+    },
+    "sample_45": {
+        "expected": "2",
+        "answer": "2. There are two occurrences of the digit '7' in the given text string",
+        "time": 626.481,
+        "tokens": 246,
+        "toks/sec": 392.66953028104604
+    },
+    "sample_674": {
+        "expected": "'qq'",
+        "answer": "an empty string, '' because both characters are removed as they are not within the specified range of lowercase letters in reverse order (from z to a)",
+        "time": 892.323,
+        "tokens": 266,
+        "toks/sec": 298.09833434754006
+    },
+    "sample_245": {
+        "expected": "[]",
+        "answer": "['v']",
+        "time": 210.33,
+        "tokens": 226,
+        "toks/sec": 1074.5019730899062
+    },
+    "sample_300": {
+        "expected": "[1, 2, 3]",
+        "answer": "[1, 3, 3]",
+        "time": 348.193,
+        "tokens": 228,
+        "toks/sec": 654.8092580838788
+    },
+    "sample_201": {
+        "expected": "'641524'",
+        "answer": "644152",
+        "time": 319.877,
+        "tokens": 215,
+        "toks/sec": 672.1333512568893
+    },
+    "sample_642": {
+        "expected": "'space'",
+        "answer": "space",
+        "time": 199.584,
+        "tokens": 204,
+        "toks/sec": 1022.1260221260221
+    },
+    "sample_523": {
+        "expected": "'&nbsp;&nbsp;&nbsp;'",
+        "answer": "&&nbsp;&nbsp;&nbsp;",
+        "time": 344.117,
+        "tokens": 219,
+        "toks/sec": 636.4114530813647
+    },
+    "sample_66": {
+        "expected": "''",
+        "answer": "ppy",
+        "time": 206.377,
+        "tokens": 225,
+        "toks/sec": 1090.2377687436099
+    },
+    "sample_390": {
+        "expected": "0",
+        "answer": "0",
+        "time": 192.628,
+        "tokens": 177,
+        "toks/sec": 918.8695309093175
+    },
+    "sample_481": {
+        "expected": "[1, 1]",
+        "answer": "[1, 1]. In the given code, we are checking for two conditions - whether the last element of `values` list equals to `item2`, and if not then check if it equals to `item1`. If either condition satisfies, we append the first item in the list. However, since both items (2 and 3) do not match with the last element of the input list [1, 1], no action is taken and hence the output remains as [1, 1]",
+        "time": 2704.97,
+        "tokens": 341,
+        "toks/sec": 126.06424470511689
+    },
+    "sample_437": {
+        "expected": "{'d': None, 'o': None, 'e': None}",
+        "answer": "{'j': None, 'o': None, 'n': None, 'd': None, 'e': None, 't': None, 'h': None}",
+        "time": 4709.899,
+        "tokens": 393,
+        "toks/sec": 83.44127973869503
+    },
+    "sample_534": {
+        "expected": "'hosu'",
+        "answer": "hoosuo",
+        "time": 259.578,
+        "tokens": 237,
+        "toks/sec": 913.0203638212793
+    },
+    "sample_771": {
+        "expected": "[2, 4, 6, 8]",
+        "answer": "2, 4, 6, 8",
+        "time": 2361.377,
+        "tokens": 338,
+        "toks/sec": 143.13682228631853
+    },
+    "sample_645": {
+        "expected": "1",
+        "answer": "1",
+        "time": 202.544,
+        "tokens": 217,
+        "toks/sec": 1071.3721462990757
+    },
+    "sample_137": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 194.6,
+        "tokens": 245,
+        "toks/sec": 1258.9928057553957
+    },
+    "sample_130": {
+        "expected": "'h=l'",
+        "answer": "h=6 l=4 o=9",
+        "time": 867.044,
+        "tokens": 292,
+        "toks/sec": 336.77644963808063
+    },
+    "sample_121": {
+        "expected": "'1001'",
+        "answer": "1",
+        "time": 206.228,
+        "tokens": 221,
+        "toks/sec": 1071.6294586574083
+    },
+    "sample_438": {
+        "expected": "'1                             3'",
+        "answer": "1      3'. Here, the function `f` checks if the count of tab characters in the input string lies between 0 and 20 (exclusive",
+        "time": 3454.775,
+        "tokens": 355,
+        "toks/sec": 102.75633000701927
+    },
+    "sample_307": {
+        "expected": "'px|||||cznyf'",
+        "answer": "p|x|c|z|n|y|f",
+        "time": 499.19,
+        "tokens": 222,
+        "toks/sec": 444.72044712434143
+    },
+    "sample_743": {
+        "expected": "-6",
+        "answer": "-7",
+        "time": 190.045,
+        "tokens": 190,
+        "toks/sec": 999.7632139756374
+    },
+    "sample_668": {
+        "expected": "'rhellomyfriendea'",
+        "answer": "ehellomyfriend",
+        "time": 256.129,
+        "tokens": 175,
+        "toks/sec": 683.2494563286468
+    },
+    "sample_671": {
+        "expected": "'gwrioad gmf rwdo sggoa'",
+        "answer": "digory did not say",
+        "time": 320.821,
+        "tokens": 269,
+        "toks/sec": 838.4737906807845
+    },
+    "sample_505": {
+        "expected": "''",
+        "answer": "",
+        "time": 172.221,
+        "tokens": 193,
+        "toks/sec": 1120.6531143124241
+    },
+    "sample_691": {
+        "expected": "'rpytt'",
+        "answer": "rpy",
+        "time": 224.488,
+        "tokens": 206,
+        "toks/sec": 917.6437047860019
+    },
+    "sample_139": {
+        "expected": "'no'",
+        "answer": "[1, 2, 1, 1, 2]",
+        "time": 495.721,
+        "tokens": 250,
+        "toks/sec": 504.31593577839146
+    },
+    "sample_466": {
+        "expected": "'-----'",
+        "answer": "th",
+        "time": 210.439,
+        "tokens": 210,
+        "toks/sec": 997.913884783714
+    },
+    "sample_347": {
+        "expected": "'hhhhhzcw'",
+        "answer": "hzhzwczwwchzzcwwwzccwhzz",
+        "time": 491.711,
+        "tokens": 224,
+        "toks/sec": 455.5521434338463
+    },
+    "sample_714": {
+        "expected": "[]",
+        "answer": "['x', 'x', 'x']",
+        "time": 340.841,
+        "tokens": 202,
+        "toks/sec": 592.6517056340053
+    },
+    "sample_295": {
+        "expected": "['pear', 'banana', 'pear']",
+        "answer": "['banana']",
+        "time": 241.509,
+        "tokens": 241,
+        "toks/sec": 997.8924180879388
+    },
+    "sample_308": {
+        "expected": "{'La': 3, 'Q': 1, '9': 1}",
+        "answer": "{'La': 3, 'Q': 1, '9': 1}",
+        "time": 1107.851,
+        "tokens": 245,
+        "toks/sec": 221.14887290799933
+    },
+    "sample_659": {
+        "expected": "4",
+        "answer": "3. This function filters out usernames that are not in uppercase and then only keeps the first two characters and last three characters of each username, adding them to a new list called `clean`. It finally returns the length of this cleaned list.",
+        "time": 7261.042,
+        "tokens": 530,
+        "toks/sec": 72.99227851870296
+    },
+    "sample_761": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 167.028,
+        "tokens": 186,
+        "toks/sec": 1113.58574610245
+    },
+    "sample_547": {
+        "expected": "'h,e,l,l,o,wo,r,ld'",
+        "answer": "hello..world",
+        "time": 241.718,
+        "tokens": 204,
+        "toks/sec": 843.958662573743
+    },
+    "sample_348": {
+        "expected": "{563: 555, 133: None}",
+        "answer": "{563: 555, 133: None}",
+        "time": 2492.368,
+        "tokens": 270,
+        "toks/sec": 108.33071199758623
+    },
+    "sample_442": {
+        "expected": "[1, 2, 3, 4]",
+        "answer": "[1, 2, 3, 4]",
+        "time": 421.412,
+        "tokens": 221,
+        "toks/sec": 524.4274012130646
+    },
+    "sample_29": {
+        "expected": "'123314'",
+        "answer": "123314",
+        "time": 316.391,
+        "tokens": 206,
+        "toks/sec": 651.093109475301
+    },
+    "sample_548": {
+        "expected": "'spider'",
+        "answer": "s",
+        "time": 198.825,
+        "tokens": 200,
+        "toks/sec": 1005.9097196026657
+    },
+    "sample_330": {
+        "expected": "' 4 2 '",
+        "answer": "4 2",
+        "time": 269.887,
+        "tokens": 210,
+        "toks/sec": 778.103428471916
+    },
+    "sample_167": {
+        "expected": "'aaQwQwQwbbQwQwQwccQwQwQwde'",
+        "answer": "aQWAQWbQWcQWdQWe",
+        "time": 533.51,
+        "tokens": 262,
+        "toks/sec": 491.0873273228243
+    },
+    "sample_485": {
+        "expected": "'avdropj gsd  '",
+        "answer": "gsd   avdropj",
+        "time": 332.42,
+        "tokens": 230,
+        "toks/sec": 691.8957944768666
+    },
+    "sample_774": {
+        "expected": "'quiz leader = Cornareti, count = 23'",
+        "answer": "quiz leader = Cornareti, count = 23",
+        "time": 484.662,
+        "tokens": 204,
+        "toks/sec": 420.9118932369363
+    },
+    "sample_695": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 188.502,
+        "tokens": 233,
+        "toks/sec": 1236.0611558498053
+    },
+    "sample_0": {
+        "expected": "[(4, 1), (4, 1), (4, 1), (4, 1), (2, 3), (2, 3)]",
+        "answer": "[(4, 1), (2, 3)]",
+        "time": 451.664,
+        "tokens": 223,
+        "toks/sec": 493.72985227957065
+    },
+    "sample_785": {
+        "expected": "'1 '",
+        "answer": "1'. In this case, the input number `1` is converted to a string and then each character (digit",
+        "time": 1785.043,
+        "tokens": 256,
+        "toks/sec": 143.4139121578584
+    },
+    "sample_194": {
+        "expected": "[[], [5, 6, 2, 3], [1, 9, 5, 6]]",
+        "answer": "[[[], [5, 6, 2, 3], [1, 9, 5, 6]]]",
+        "time": 805.107,
+        "tokens": 226,
+        "toks/sec": 280.70803011276763
+    },
+    "sample_721": {
+        "expected": "[-8, -7, -6, -5, 2]",
+        "answer": "[-8, -7, -6, -5, 2]",
+        "time": 490.974,
+        "tokens": 212,
+        "toks/sec": 431.7947589892744
+    },
+    "sample_48": {
+        "expected": "''",
+        "answer": "an empty string \"\"",
+        "time": 249.37,
+        "tokens": 215,
+        "toks/sec": 862.1726751413562
+    },
+    "sample_399": {
+        "expected": "'a--cado'",
+        "answer": "--c-d---o",
+        "time": 336.645,
+        "tokens": 237,
+        "toks/sec": 704.0057033373436
+    },
+    "sample_319": {
+        "expected": "4",
+        "answer": "3",
+        "time": 199.028,
+        "tokens": 209,
+        "toks/sec": 1050.1035030247
+    },
+    "sample_648": {
+        "expected": "6",
+        "answer": "6",
+        "time": 212.342,
+        "tokens": 235,
+        "toks/sec": 1106.7052208230118
+    },
+    "sample_692": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 171.777,
+        "tokens": 205,
+        "toks/sec": 1193.407732117804
+    },
+    "sample_606": {
+        "expected": "'ruamNHIB'",
+        "answer": "ruamanhib",
+        "time": 236.942,
+        "tokens": 185,
+        "toks/sec": 780.7817947008128
+    },
+    "sample_515": {
+        "expected": "[10, 8, 6, 4, 2]",
+        "answer": "[10, 8, 6, 4, 2]",
+        "time": 516.31,
+        "tokens": 214,
+        "toks/sec": 414.47967306463175
+    },
+    "sample_574": {
+        "expected": "'Costanza'",
+        "answer": "George",
+        "time": 225.898,
+        "tokens": 201,
+        "toks/sec": 889.7821140514745
+    },
+    "sample_383": {
+        "expected": "'ellod!p.nkyp.exa.bi.y.hain'",
+        "answer": "ello!pkpexabihain",
+        "time": 375.462,
+        "tokens": 242,
+        "toks/sec": 644.5392609638259
+    },
+    "sample_251": {
+        "expected": "'Marie;Nelson;Oscar;+;3;5;3'",
+        "answer": "Marie+353;Nelson+353;Oscar+353",
+        "time": 676.933,
+        "tokens": 237,
+        "toks/sec": 350.10850409124686
+    },
+    "sample_506": {
+        "expected": "'snts'",
+        "answer": "sn",
+        "time": 205.01,
+        "tokens": 230,
+        "toks/sec": 1121.8964928540072
+    },
+    "sample_769": {
+        "expected": "'AKa?RIU'",
+        "answer": "AKa?RIU",
+        "time": 295.463,
+        "tokens": 214,
+        "toks/sec": 724.2869665575723
+    },
+    "sample_282": {
+        "expected": "2",
+        "answer": "3. This function counts the number of non-overlapping occurrences of substring `s2` in string `s1`. It starts searching from the first character and moves one position forward after each find to avoid overlapping matches. In this case, it finds 'xx' at positions 6, 7, and 9 (0-indexed)",
+        "time": 1998.79,
+        "tokens": 290,
+        "toks/sec": 145.08777810575398
+    },
+    "sample_243": {
+        "expected": "True",
+        "answer": "False",
+        "time": 159.052,
+        "tokens": 173,
+        "toks/sec": 1087.6945904484069
+    },
+    "sample_43": {
+        "expected": "-1",
+        "answer": "-1. This function checks whether all characters of the input string are digits or not. If there's a non-digit character, it sets `n` to -1 and breaks out of the loop. In this case, '**' is not a digit, so the result is -1",
+        "time": 1637.685,
+        "tokens": 248,
+        "toks/sec": 151.43327318745668
+    },
+    "sample_494": {
+        "expected": "'001'",
+        "answer": "\"001\"",
+        "time": 245.257,
+        "tokens": 194,
+        "toks/sec": 791.0069845101261
+    },
+    "sample_666": {
+        "expected": "4",
+        "answer": "4",
+        "time": 218.9,
+        "tokens": 256,
+        "toks/sec": 1169.4837825491093
+    },
+    "sample_598": {
+        "expected": "''",
+        "answer": "bca",
+        "time": 210.713,
+        "tokens": 181,
+        "toks/sec": 858.988292131952
+    },
+    "sample_269": {
+        "expected": "['0', 2]",
+        "answer": "[0, 0].",
+        "time": 4957.599,
+        "tokens": 438,
+        "toks/sec": 88.34921904736547
+    },
+    "sample_211": {
+        "expected": "10",
+        "answer": "4. This function counts the number of characters that appear more than once in a string, but only considering their first and last occurrence. In this case, 'a' appears twice (at index 0 and at index 12), 'b' appears twice (indexes 1 and 5), 'c' appears twice (indexes 2 and 7) and 'e' appears twice (indexes 8 and 9)",
+        "time": 2380.816,
+        "tokens": 288,
+        "toks/sec": 120.9669289856923
+    },
+    "sample_287": {
+        "expected": "'pinneaple'",
+        "answer": "pineapple",
+        "time": 218.495,
+        "tokens": 192,
+        "toks/sec": 878.7386439048948
+    },
+    "sample_328": {
+        "expected": "[1, 2, 3, 1, 2, 3]",
+        "answer": "[1, 2, 3, None]",
+        "time": 398.179,
+        "tokens": 215,
+        "toks/sec": 539.9581595212204
+    },
+    "sample_109": {
+        "expected": "[9, 1, 0, 1, 1]",
+        "answer": "[9, 1, 0, 1, 1]",
+        "time": 483.316,
+        "tokens": 202,
+        "toks/sec": 417.9460228918555
+    },
+    "sample_117": {
+        "expected": "-1",
+        "answer": "-1, as there's only one '3' present in the string \"23157\"",
+        "time": 681.678,
+        "tokens": 212,
+        "toks/sec": 310.9972743729444
+    },
+    "sample_387": {
+        "expected": "[3, 1, 0, 2]",
+        "answer": "[3, 1, 0, 2]",
+        "time": 414.81,
+        "tokens": 196,
+        "toks/sec": 472.50548443865864
+    },
+    "sample_563": {
+        "expected": "2",
+        "answer": "3",
+        "time": 200.259,
+        "tokens": 210,
+        "toks/sec": 1048.6420085988645
+    },
+    "sample_713": {
+        "expected": "True",
+        "answer": "False because the input string contains only one segment when split by space, and thus does not meet the condition of having more than one segment",
+        "time": 817.429,
+        "tokens": 233,
+        "toks/sec": 285.0400462914822
+    },
+    "sample_236": {
+        "expected": "'ac8qk6qk6'",
+        "answer": "aqc8kg6w9",
+        "time": 384.318,
+        "tokens": 255,
+        "toks/sec": 663.513028273461
+    },
+    "sample_95": {
+        "expected": "{'fr': 'AAA'}",
+        "answer": "{'fr': 'AAA'}",
+        "time": 1511.834,
+        "tokens": 232,
+        "toks/sec": 153.45600112181629
+    },
+    "sample_752": {
+        "expected": "'zzzzzabc'",
+        "answer": "zzzzabcz",
+        "time": 261.837,
+        "tokens": 178,
+        "toks/sec": 679.8122496056708
+    },
+    "sample_84": {
+        "expected": "'nwvday mefday ofmeday bdrylday'",
+        "answer": "\"nwvy mefofme bdrylday\"",
+        "time": 470.794,
+        "tokens": 241,
+        "toks/sec": 511.90117121288716
+    },
+    "sample_221": {
+        "expected": "'.bpxa24fc5'",
+        "answer": ".bpxa24fc5",
+        "time": 342.781,
+        "tokens": 195,
+        "toks/sec": 568.8763379533872
+    },
+    "sample_203": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 170.834,
+        "tokens": 180,
+        "toks/sec": 1053.6544247632205
+    },
+    "sample_599": {
+        "expected": "['a', ' b c', 'b c', '', 'c', '']",
+        "answer": "['ab', ' a', 'bc', ' b', 'ac']",
+        "time": 494.357,
+        "tokens": 246,
+        "toks/sec": 497.6160952510028
+    },
+    "sample_424": {
+        "expected": "'akers of a Statement'",
+        "answer": "Statement",
+        "time": 214.386,
+        "tokens": 247,
+        "toks/sec": 1152.1274710102339
+    },
+    "sample_595": {
+        "expected": "'Qdhstudentamxupuihbuztn'",
+        "answer": "StudentAmXUPIHBUZTN",
+        "time": 424.334,
+        "tokens": 215,
+        "toks/sec": 506.67634457762045
+    },
+    "sample_155": {
+        "expected": "'dskj\\ns hj\\ncdjn\\nxhji\\ncnn'",
+        "answer": "dskj\\ns hjdc\\ndjnxh\\nji cn",
+        "time": 622.421,
+        "tokens": 240,
+        "toks/sec": 385.5911031279471
+    },
+    "sample_789": {
+        "expected": "'bR'",
+        "answer": "",
+        "time": 190.507,
+        "tokens": 240,
+        "toks/sec": 1259.7962279601275
+    },
+    "sample_242": {
+        "expected": "'udhv zcvi nhtnfyd :erwuyawa pun'",
+        "answer": "\"udhv zcvi nhtnfyd erwuyawa pun\". In the input string, there's no colon (:) separating two words. Therefore, the function simply returns the original book title without any changes",
+        "time": 1346.242,
+        "tokens": 287,
+        "toks/sec": 213.18603935993679
+    },
+    "sample_777": {
+        "expected": "['avc  a .d e']",
+        "answer": "['avc  a .d ']",
+        "time": 347.702,
+        "tokens": 220,
+        "toks/sec": 632.7257249023589
+    },
+    "sample_496": {
+        "expected": "0",
+        "answer": "0",
+        "time": 201.837,
+        "tokens": 205,
+        "toks/sec": 1015.6710613019417
+    },
+    "sample_65": {
+        "expected": "9",
+        "answer": "16. Here's the step-by-step process of how this function works with the given input:",
+        "time": 4229.331,
+        "tokens": 359,
+        "toks/sec": 84.88340118094327
+    },
+    "sample_638": {
+        "expected": "'ababa'",
+        "answer": "' (empty string",
+        "time": 242.522,
+        "tokens": 202,
+        "toks/sec": 832.9141273781348
+    },
+    "sample_798": {
+        "expected": "'@!'",
+        "answer": "!",
+        "time": 190.845,
+        "tokens": 190,
+        "toks/sec": 995.5723230894181
+    },
+    "sample_198": {
+        "expected": "'tcmfsm'",
+        "answer": "mfs",
+        "time": 213.66,
+        "tokens": 189,
+        "toks/sec": 884.5829823083403
+    },
+    "sample_289": {
+        "expected": "\"148: b'148'\"",
+        "answer": "148: b'148''. In this case, the function takes a string as input and returns another string that contains the original input followed by its encoded version in bytes. The encode(",
+        "time": 3251.935,
+        "tokens": 297,
+        "toks/sec": 91.33023876553499
+    },
+    "sample_603": {
+        "expected": "'not oscillating'",
+        "answer": "not oscillating",
+        "time": 244.594,
+        "tokens": 202,
+        "toks/sec": 825.858361202646
+    },
+    "sample_292": {
+        "expected": "'5*83*23***'",
+        "answer": "5***23**",
+        "time": 293.156,
+        "tokens": 201,
+        "toks/sec": 685.6417743453997
+    },
+    "sample_9": {
+        "expected": "False",
+        "answer": "[ERROR]",
+        "time": 3631.35,
+        "tokens": 328,
+        "toks/sec": 90.32453495256586
+    },
+    "sample_493": {
+        "expected": "['-4 => 4', '1 => 2', '- => -3']",
+        "answer": "['-4 => 4', '1 => 2', '- => -3']",
+        "time": 559.188,
+        "tokens": 218,
+        "toks/sec": 389.8509982331524
+    },
+    "sample_404": {
+        "expected": "6",
+        "answer": "6",
+        "time": 195.992,
+        "tokens": 198,
+        "toks/sec": 1010.2453161353525
+    },
+    "sample_169": {
+        "expected": "'++++taole++++'",
+        "answer": "++++t++a++o++l++e",
+        "time": 455.148,
+        "tokens": 248,
+        "toks/sec": 544.8777101074814
+    },
+    "sample_22": {
+        "expected": "[0]",
+        "answer": "0",
+        "time": 205.84,
+        "tokens": 224,
+        "toks/sec": 1088.2238631947143
+    },
+    "sample_136": {
+        "expected": "'  a  \\n  bc \\n     \\n  d  \\n  ef '",
+        "answer": "a \\n b c \\n   \\n d \\n e f",
+        "time": 545.467,
+        "tokens": 214,
+        "toks/sec": 392.32437526009824
+    },
+    "sample_637": {
+        "expected": "'no'",
+        "answer": "no'. This function splits the input string into a list of words and checks each word to see if it contains only numeric characters. If any non-numeric character is found, the function returns 'no'. In this case, the last word in the input string ('d'",
+        "time": 1862.747,
+        "tokens": 271,
+        "toks/sec": 145.48406197943146
+    },
+    "sample_61": {
+        "expected": "'nada'",
+        "answer": "nada'. Since the input string is empty, there are no words to process. Therefore, according to the function definition, it returns 'nada",
+        "time": 911.797,
+        "tokens": 255,
+        "toks/sec": 279.6675137119337
+    },
+    "sample_728": {
+        "expected": "''",
+        "answer": "Ru",
+        "time": 228.217,
+        "tokens": 224,
+        "toks/sec": 981.5219725086212
+    },
+    "sample_196": {
+        "expected": "'correct'",
+        "answer": "\"mixed\"",
+        "time": 222.787,
+        "tokens": 213,
+        "toks/sec": 956.0701477195707
+    },
+    "sample_747": {
+        "expected": "False",
+        "answer": "False.",
+        "time": 4396.898,
+        "tokens": 402,
+        "toks/sec": 91.42809316932073
+    },
+    "sample_531": {
+        "expected": "'djgblw asdl '",
+        "answer": "asdl",
+        "time": 221.299,
+        "tokens": 205,
+        "toks/sec": 926.3485149051735
+    },
+    "sample_372": {
+        "expected": "['']",
+        "answer": "['v,']",
+        "time": 221.223,
+        "tokens": 201,
+        "toks/sec": 908.5854544961419
+    },
+    "sample_370": {
+        "expected": "False",
+        "answer": "False because there exists a non-whitespace character 'i'",
+        "time": 453.433,
+        "tokens": 191,
+        "toks/sec": 421.23092055496625
+    },
+    "sample_605": {
+        "expected": "'quack'",
+        "answer": "'. After calling the function with the input list [2, 5, 1, 7, 9, 3], the original list will be cleared and an empty string \"quack\" will be returned. However, it",
+        "time": 1957.868,
+        "tokens": 257,
+        "toks/sec": 131.26523340695084
+    },
+    "sample_205": {
+        "expected": "'fiu##nk#he###wumun'",
+        "answer": "fun",
+        "time": 212.471,
+        "tokens": 245,
+        "toks/sec": 1153.0985405067045
+    },
+    "sample_766": {
+        "expected": "{'0': 117, '3': 117, '03': 351}",
+        "answer": "{'0': 117, '3': 117, '03': 351}",
+        "time": 2706.834,
+        "tokens": 312,
+        "toks/sec": 115.26381004524106
+    },
+    "sample_709": {
+        "expected": "'loved a'",
+        "answer": "\"loved a\"",
+        "time": 242.05,
+        "tokens": 191,
+        "toks/sec": 789.0931625697169
+    },
+    "sample_379": {
+        "expected": "False",
+        "answer": "[]",
+        "time": 178.148,
+        "tokens": 217,
+        "toks/sec": 1218.0883310505872
+    },
+    "sample_309": {
+        "expected": "'faqo osax '",
+        "answer": "faqo osax",
+        "time": 287.085,
+        "tokens": 202,
+        "toks/sec": 703.6243621227163
+    },
+    "sample_35": {
+        "expected": "[]",
+        "answer": "[1, -1, 0, 2, -1]",
+        "time": 509.241,
+        "tokens": 236,
+        "toks/sec": 463.43479806221416
+    },
+    "sample_16": {
+        "expected": "'zejrohaj'",
+        "answer": "zejroha",
+        "time": 242.264,
+        "tokens": 194,
+        "toks/sec": 800.7793151272991
+    },
+    "sample_162": {
+        "expected": "'\u0421BISHOPSWIFT'",
+        "answer": "SBISH",
+        "time": 243.728,
+        "tokens": 194,
+        "toks/sec": 795.9692772270728
+    },
+    "sample_447": {
+        "expected": "'||a'",
+        "answer": "|a'. In this code, we are replacing all tab characters with spaces of the specified size (in this case, 2",
+        "time": 2274.089,
+        "tokens": 314,
+        "toks/sec": 138.0772696231326
+    },
+    "sample_107": {
+        "expected": "'UA6HAJQ'",
+        "answer": "\"UA6HAJQ\"",
+        "time": 332.602,
+        "tokens": 242,
+        "toks/sec": 727.5963463839664
+    },
+    "sample_305": {
+        "expected": "'o hoseto'",
+        "answer": "oheseto",
+        "time": 267.271,
+        "tokens": 250,
+        "toks/sec": 935.3801946339108
+    },
+    "sample_233": {
+        "expected": "[1, 2, 3]",
+        "answer": "[3, 1, 2]",
+        "time": 341.93,
+        "tokens": 204,
+        "toks/sec": 596.6133419120872
+    },
+    "sample_765": {
+        "expected": "3",
+        "answer": "3, as there are three digits (4, 5 and 6) present in the string 'so456'",
+        "time": 768.917,
+        "tokens": 198,
+        "toks/sec": 257.50503630430853
+    },
+    "sample_34": {
+        "expected": "[2, 7, 7, 6, 8, 4, 2, 5, 21]",
+        "answer": "[2, 6, 8, 4, 5, 21].",
+        "time": 2226.061,
+        "tokens": 340,
+        "toks/sec": 152.73615592744312
+    },
+    "sample_227": {
+        "expected": "'Manolo'",
+        "answer": "MANolO",
+        "time": 236.367,
+        "tokens": 189,
+        "toks/sec": 799.6040056353045
+    },
+    "sample_276": {
+        "expected": "[0]",
+        "answer": "[]. Since the input list `a` has length less than 2, it doesn't satisfy the condition to reverse and thus appends 0 at the end of the list",
+        "time": 1052.631,
+        "tokens": 237,
+        "toks/sec": 225.15012383256808
+    },
+    "sample_218": {
+        "expected": "'bacfbacfcbaacbacfbacfcbaac'",
+        "answer": "[ERROR]",
+        "time": 5830.554,
+        "tokens": 421,
+        "toks/sec": 72.20583155562919
+    },
+    "sample_10": {
+        "expected": "''",
+        "answer": "an empty string ('')",
+        "time": 244.599,
+        "tokens": 207,
+        "toks/sec": 846.2831000944403
+    },
+    "sample_8": {
+        "expected": "'UppEr'",
+        "answer": "UPPER",
+        "time": 214.413,
+        "tokens": 191,
+        "toks/sec": 890.8041956411224
+    },
+    "sample_499": {
+        "expected": "'.........magazine........'",
+        "answer": "......magazine........",
+        "time": 285.042,
+        "tokens": 191,
+        "toks/sec": 670.0766904526351
+    },
+    "sample_664": {
+        "expected": "'3 4 '",
+        "answer": "3 4",
+        "time": 243.539,
+        "tokens": 187,
+        "toks/sec": 767.8441645896551
+    },
+    "sample_384": {
+        "expected": "'sfdellos'",
+        "answer": "fellos",
+        "time": 265.368,
+        "tokens": 248,
+        "toks/sec": 934.5512646588888
+    },
+    "sample_408": {
+        "expected": "[-1, 2, -7, 4, 0, 6, -4]",
+        "answer": "[-1, 2, -7, 4, 0, 6, -4]",
+        "time": 627.789,
+        "tokens": 201,
+        "toks/sec": 320.17126773485995
+    },
+    "sample_72": {
+        "expected": "True",
+        "answer": "[ERROR]",
+        "time": 2445.515,
+        "tokens": 275,
+        "toks/sec": 112.45075168216103
+    },
+    "sample_678": {
+        "expected": "{'h': 1, 'i': 1}",
+        "answer": "{'h': 1, 'i': 1}",
+        "time": 415.782,
+        "tokens": 217,
+        "toks/sec": 521.9081153104271
+    },
+    "sample_119": {
+        "expected": "'VsNlYgLtAw'",
+        "answer": "\"VsNlYgTaW\"",
+        "time": 399.232,
+        "tokens": 222,
+        "toks/sec": 556.0676498877845
+    },
+    "sample_497": {
+        "expected": "['4', '4']",
+        "answer": "['4', '+', '4']",
+        "time": 334.907,
+        "tokens": 194,
+        "toks/sec": 579.2652885726485
+    },
+    "sample_49": {
+        "expected": "'816'",
+        "answer": "816",
+        "time": 249.227,
+        "tokens": 198,
+        "toks/sec": 794.4564593723794
+    },
+    "sample_430": {
+        "expected": "[5, 1, 3, 7, 8, '', 0, -1, []]",
+        "answer": "[5, 1, 3, 7, 8, '', 0, -1, []]",
+        "time": 712.25,
+        "tokens": 230,
+        "toks/sec": 322.9203229203229
+    },
+    "sample_558": {
+        "expected": "False",
+        "answer": "True. After removing all instances of '1' from the list and sorting it, we get [2, 3, 4]. Since this sorted list does not have any elements that are greater than their subsequent element, the function returns True",
+        "time": 1381.14,
+        "tokens": 304,
+        "toks/sec": 220.10802670257902
+    },
+    "sample_457": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 177.652,
+        "tokens": 223,
+        "toks/sec": 1255.2630986422896
+    },
+    "sample_584": {
+        "expected": "'5123807309875480094949830'",
+        "answer": "0000000000000000000000",
+        "time": 710.579,
+        "tokens": 215,
+        "toks/sec": 302.5701575757235
+    },
+    "sample_507": {
+        "expected": "0",
+        "answer": "0. This means that the substring \"car\" was found at index 0 in the given string \"car hat\"",
+        "time": 724.195,
+        "tokens": 202,
+        "toks/sec": 278.9303985804928
+    },
+    "sample_707": {
+        "expected": "'udbs l'",
+        "answer": "unds l",
+        "time": 263.396,
+        "tokens": 233,
+        "toks/sec": 884.5996142690093
+    },
+    "sample_644": {
+        "expected": "[6, 1]",
+        "answer": "[1, 6]",
+        "time": 271.415,
+        "tokens": 207,
+        "toks/sec": 762.66971243299
+    },
+    "sample_131": {
+        "expected": "1",
+        "answer": "0. This function counts the number of spaces that follow 'a' in each line of a multiline string, but since there are no spaces after 'a' in any line, it returns 0",
+        "time": 1220.335,
+        "tokens": 287,
+        "toks/sec": 235.1813231612631
+    },
+    "sample_102": {
+        "expected": "[]",
+        "answer": "[3, 5]. This function returns the indices of names in the first list that are also present in the second list. In this case, 'x' and 'r' are found at index positions 3 and 5 respectively in the first list",
+        "time": 1439.635,
+        "tokens": 280,
+        "toks/sec": 194.49374320574313
+    },
+    "sample_711": {
+        "expected": "'apples\\t\\t\\tpears\\t\\t\\tbananas'",
+        "answer": "apples\\t\\tpears\\t\\tbananas",
+        "time": 483.064,
+        "tokens": 196,
+        "toks/sec": 405.7433383568223
+    },
+    "sample_660": {
+        "expected": "4",
+        "answer": "20. This function calculates the nth Fibonacci number and then sums all numbers up to that one (inclusive). For input `3`, it computes the first three Fibonacci numbers `[1, 1, 2]` and returns their sum which equals `4`",
+        "time": 1698.824,
+        "tokens": 279,
+        "toks/sec": 164.23125644563532
+    },
+    "sample_175": {
+        "expected": "' '",
+        "answer": "an empty string. This function pads each line of the input text with spaces to a specified width, but since there's only one newline character as input and no actual lines of text before or after it, nothing gets returned except for that single newline character which doesn't count towards padding",
+        "time": 1630.273,
+        "tokens": 324,
+        "toks/sec": 198.73972027997766
+    },
+    "sample_58": {
+        "expected": "[-1, 0, 0, 1, 1, -1, 0, -1, 0, -1]",
+        "answer": "[-1, 0, 0, 1, 1, -1]",
+        "time": 568.881,
+        "tokens": 227,
+        "toks/sec": 399.02897090955753
+    },
+    "sample_472": {
+        "expected": "[1, 1, 1, 1, 1]",
+        "answer": "['c', 'a', 'b', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']",
+        "time": 1983.661,
+        "tokens": 307,
+        "toks/sec": 154.76434733555783
+    },
+    "sample_392": {
+        "expected": "'Hello Is It MyClass'",
+        "answer": "Hello Is It MyClass",
+        "time": 259.369,
+        "tokens": 184,
+        "toks/sec": 709.4140009021895
+    },
+    "sample_467": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 173.099,
+        "tokens": 195,
+        "toks/sec": 1126.5229724030758
+    },
+    "sample_176": {
+        "expected": "'some text'",
+        "answer": "some text",
+        "time": 224.254,
+        "tokens": 220,
+        "toks/sec": 981.0304386989753
+    },
+    "sample_323": {
+        "expected": "1",
+        "answer": "1",
+        "time": 185.184,
+        "tokens": 180,
+        "toks/sec": 972.0062208398134
+    },
+    "sample_56": {
+        "expected": "True",
+        "answer": "True. All characters in the input string '1z1z1' are ASCII characters, so the function returns True",
+        "time": 740.64,
+        "tokens": 216,
+        "toks/sec": 291.6396629941672
+    },
+    "sample_225": {
+        "expected": "False",
+        "answer": "False",
+        "time": 166.208,
+        "tokens": 174,
+        "toks/sec": 1046.8810165575665
+    },
+    "sample_799": {
+        "expected": "'neqe-;ew22'",
+        "answer": "nnnnnnneqe-'. Here's how the function works step by step:\n\n1. Since the input string does not start with a tilde ('~'",
+        "time": 21677.806,
+        "tokens": 1079,
+        "toks/sec": 49.774409827267576
+    },
+    "sample_124": {
+        "expected": "'i like you'",
+        "answer": "an empty string '' because the `sep_count` value of `-1` does not satisfy the condition in the while loop (`sep_count > 0`). Therefore, the function returns the original input text without any modifications",
+        "time": 1273.879,
+        "tokens": 283,
+        "toks/sec": 222.15610744819566
+    },
+    "sample_684": {
+        "expected": "'Transform quotations9\\nnot into numbers.'",
+        "answer": "\"9Transform 8otatitions\\\\nnot into nubmers.\"",
+        "time": 511.225,
+        "tokens": 206,
+        "toks/sec": 402.95368966697635
+    },
+    "sample_351": {
+        "expected": "'a_A_b_B3 '",
+        "answer": "a_A_b_B3 '. There are no occurrences of the string 'nnet lloP' in the input, so the function doesn",
+        "time": 1134.06,
+        "tokens": 247,
+        "toks/sec": 217.80152725605348
+    },
+    "sample_420": {
+        "expected": "True",
+        "answer": "True",
+        "time": 159.954,
+        "tokens": 174,
+        "toks/sec": 1087.8127461645222
+    },
+    "sample_543": {
+        "expected": "'.,,,,, , \u0645\u0646\u0628\u062a'",
+        "answer": "M. ,,,,,. \u0645\u0646\u0628\u062a",
+        "time": 440.745,
+        "tokens": 223,
+        "toks/sec": 505.9614970107432
+    },
+    "sample_719": {
+        "expected": "'i f (x) {y = 1;} else {z = 1;}'",
+        "answer": ":",
+        "time": 714.767,
+        "tokens": 271,
+        "toks/sec": 379.14453241405937
+    },
+    "sample_636": {
+        "expected": "{3: 'A3', 1: 'A1', 2: 'A2'}",
+        "answer": "{3: 'A3', 1: 'A1', 2: 'A2'}",
+        "time": 1654.289,
+        "tokens": 277,
+        "toks/sec": 167.4435361656881
+    },
+    "sample_703": {
+        "expected": "'zzv2sg'",
+        "answer": "2sg",
+        "time": 213.909,
+        "tokens": 184,
+        "toks/sec": 860.1788611044884
+    },
+    "sample_669": {
+        "expected": "'fubarbaz'",
+        "answer": "\"fubar\"",
+        "time": 246.599,
+        "tokens": 207,
+        "toks/sec": 839.4194623660275
+    },
+    "sample_751": {
+        "expected": "'wwwwhhhtttpp'",
+        "answer": "\"WWWWhHHTTTPp\"",
+        "time": 386.507,
+        "tokens": 210,
+        "toks/sec": 543.3278051885218
+    },
+    "sample_670": {
+        "expected": "[2, 2]",
+        "answer": "['b', 'a']",
+        "time": 279.065,
+        "tokens": 211,
+        "toks/sec": 756.0962499776037
+    },
+    "sample_585": {
+        "expected": "',,,?'",
+        "answer": ",?",
+        "time": 198.512,
+        "tokens": 204,
+        "toks/sec": 1027.6456838881277
+    },
+    "sample_762": {
+        "expected": "'this and cpanel'",
+        "answer": "This and cpanel",
+        "time": 259.037,
+        "tokens": 193,
+        "toks/sec": 745.0673069870328
+    },
+    "sample_521": {
+        "expected": "[77, 9, 0, 2, 5, 77, 4, 0, 43]",
+        "answer": "[9, 0, 2, 5, 77, 77, 4, 0, 43].",
+        "time": 5435.506,
+        "tokens": 425,
+        "toks/sec": 78.18959265245958
+    },
+    "sample_86": {
+        "expected": "['sdfs', 'drcr', '2e']",
+        "answer": "drcr",
+        "time": 262.7,
+        "tokens": 246,
+        "toks/sec": 936.4293871336125
+    },
+    "sample_350": {
+        "expected": "[1, 2, 3]",
+        "answer": "[1, 2, 3]",
+        "time": 354.4,
+        "tokens": 231,
+        "toks/sec": 651.8058690744922
+    },
+    "sample_40": {
+        "expected": "'the cow goes moo#'",
+        "answer": "the cow goes moo#",
+        "time": 312.555,
+        "tokens": 182,
+        "toks/sec": 582.2975156372478
+    },
+    "sample_177": {
+        "expected": "'HEy Dude tHIs $Nd^ &*&tHiS@#'",
+        "answer": "hEy dUe tHiS $nD ^aNd*&tHiS@#'. In this function, we first convert the input string into a list of characters. Then for every odd-indexed character (starting from 0",
+        "time": 2176.478,
+        "tokens": 304,
+        "toks/sec": 139.6752000249945
+    },
+    "sample_503": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 176.45,
+        "tokens": 215,
+        "toks/sec": 1218.4754888070277
+    },
+    "sample_460": {
+        "expected": "'GENERAL NAGOOR'",
+        "answer": "`' |GENERAL NAGOOR|`",
+        "time": 375.919,
+        "tokens": 237,
+        "toks/sec": 630.4549650323607
+    },
+    "sample_794": {
+        "expected": "'normalcharsqwet42'",
+        "answer": "\"normalcharsqwet42\". This function removes all non-alphanumeric characters from the input string",
+        "time": 739.203,
+        "tokens": 228,
+        "toks/sec": 308.4403066545996
+    },
+    "sample_530": {
+        "expected": "'ff'",
+        "answer": "\"ff\"",
+        "time": 204.413,
+        "tokens": 218,
+        "toks/sec": 1066.468375299027
+    },
+    "sample_640": {
+        "expected": "18",
+        "answer": "20. This function counts the number of characters that appear more than once consecutively in the given string. In this case, 'e' appears 6 times consecutively, 'p' appears 5 times consecutively, and so on. Adding up all these occurrences gives us a total count of 20",
+        "time": 1864.304,
+        "tokens": 303,
+        "toks/sec": 162.52714149623665
+    },
+    "sample_445": {
+        "expected": "'Carrot,  Banana,  and Strawberry'",
+        "answer": "\"Carrot, Banana, and Strawberry\"",
+        "time": 418.445,
+        "tokens": 227,
+        "toks/sec": 542.4846754053699
+    },
+    "sample_608": {
+        "expected": "{1: 1, 2: 2, 3: 3}",
+        "answer": "{1:1, 2:2, 3:3}",
+        "time": 1619.966,
+        "tokens": 254,
+        "toks/sec": 156.7934141827668
+    },
+    "sample_525": {
+        "expected": "('TEXT', 'CODE')",
+        "answer": "7, 3",
+        "time": 296.429,
+        "tokens": 261,
+        "toks/sec": 880.4806547267643
+    },
+    "sample_170": {
+        "expected": "2",
+        "answer": "2",
+        "time": 188.457,
+        "tokens": 186,
+        "toks/sec": 986.9625431796113
+    },
+    "sample_775": {
+        "expected": "[1, 3, 1, 6, 2]",
+        "answer": "[1, 3, 1, 6, 2]. This function reverses the list in place. It iterates over half of the list and swaps each element with its corresponding element from the other end of the list. For example, it first swaps the first (index 0) and last (index 4) elements, then the second (index 1) and fourth (index 3) elements, leaving out the middle one since it's already in place after these operations",
+        "time": 2721.904,
+        "tokens": 329,
+        "toks/sec": 120.87127246221762
+    },
+    "sample_363": {
+        "expected": "[1]",
+        "answer": "[1]. Since the input list has only one element, it remains unchanged after sorting and rearranging according to the given algorithm",
+        "time": 859.479,
+        "tokens": 306,
+        "toks/sec": 356.0296412128743
+    },
+    "sample_686": {
+        "expected": "{'lorem ipsum': 12, 'dolor': 23}",
+        "answer": "{'lorem ipsum': 12, 'dolor': 23}",
+        "time": 575.954,
+        "tokens": 253,
+        "toks/sec": 439.2711917965671
+    },
+    "sample_228": {
+        "expected": "'llthh#saflapkphtswp'",
+        "answer": "llthh#saflapkphtswp'. This function first converts the input text to lowercase and then splits it into a list of words. After that, it joins these words using the provided splitter character ('#'",
+        "time": 1369.222,
+        "tokens": 235,
+        "toks/sec": 171.63031268851947
+    },
+    "sample_230": {
+        "expected": "'qozx'",
+        "answer": "xozo",
+        "time": 250.708,
+        "tokens": 216,
+        "toks/sec": 861.5600619046859
+    },
+    "sample_33": {
+        "expected": "'{5:[5,5],2:[5,2,2],7:[5,2,7]}'",
+        "answer": "5:[],2:[0,1],7:[2],3:[4],",
+        "time": 604.184,
+        "tokens": 257,
+        "toks/sec": 425.36710670921445
+    },
+    "sample_403": {
+        "expected": "2",
+        "answer": "2, as the substring \"hr\" appears twice in the given string",
+        "time": 528.965,
+        "tokens": 251,
+        "toks/sec": 474.5115461325418
+    },
+    "sample_448": {
+        "expected": "False",
+        "answer": "True",
+        "time": 169.729,
+        "tokens": 190,
+        "toks/sec": 1119.43156443507
+    },
+    "sample_744": {
+        "expected": "'jrowdlp'",
+        "answer": "jrowdplp",
+        "time": 288.966,
+        "tokens": 195,
+        "toks/sec": 674.8198750025955
+    },
+    "sample_455": {
+        "expected": "'?XyZ'",
+        "answer": "?XYZ",
+        "time": 246.748,
+        "tokens": 205,
+        "toks/sec": 830.8071392675929
+    },
+    "sample_248": {
+        "expected": "[666]",
+        "answer": "[666]",
+        "time": 234.909,
+        "tokens": 184,
+        "toks/sec": 783.2820368738533
+    },
+    "sample_618": {
+        "expected": "'89'",
+        "answer": "89",
+        "time": 209.36,
+        "tokens": 174,
+        "toks/sec": 831.1043179212838
+    },
+    "sample_687": {
+        "expected": "'R:j:u:g: :z:u:f:E:rjug nzufe'",
+        "answer": "rju gnufe:e",
+        "time": 347.319,
+        "tokens": 213,
+        "toks/sec": 613.2690696449085
+    },
+    "sample_127": {
+        "expected": "3",
+        "answer": "3, as the input string contains two newline characters which split it into three lines",
+        "time": 554.984,
+        "tokens": 198,
+        "toks/sec": 356.76704193274037
+    },
+    "sample_562": {
+        "expected": "True",
+        "answer": "False. In this case, the function checks if converting a string to uppercase results in an identical string when converted back to a string (which would be true for strings that are already all uppercase). However, 'VTBAEPJSLGAHINS' is not equal to its numeric representation as a string, hence False",
+        "time": 1799.194,
+        "tokens": 242,
+        "toks/sec": 134.50467264786343
+    },
+    "sample_609": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 179.993,
+        "tokens": 211,
+        "toks/sec": 1172.2678104148495
+    },
+    "sample_702": {
+        "expected": "[-4, -5, 0]",
+        "answer": "[-4, -5, 0]. This function rotates the list to the right by one position. It does this by removing elements from the front of the list and inserting them at the end until all elements have been moved once",
+        "time": 1300.604,
+        "tokens": 259,
+        "toks/sec": 199.13824653776246
+    },
+    "sample_582": {
+        "expected": "[5, 5, 5, 5, 5, 5, 5]",
+        "answer": "[5, 5, 5, 5, 5, 5, 5]",
+        "time": 632.327,
+        "tokens": 202,
+        "toks/sec": 319.454965547889
+    },
+    "sample_60": {
+        "expected": "'R'",
+        "answer": "R",
+        "time": 186.93,
+        "tokens": 186,
+        "toks/sec": 995.0248756218905
+    },
+    "sample_342": {
+        "expected": "False",
+        "answer": "False",
+        "time": 163.217,
+        "tokens": 173,
+        "toks/sec": 1059.9386093360372
+    },
+    "sample_290": {
+        "expected": "'ABIXAAAILY'",
+        "answer": "IAAY",
+        "time": 247.737,
+        "tokens": 212,
+        "toks/sec": 855.7462147357884
+    },
+    "sample_552": {
+        "expected": "{2: 0.76, 5: [3, 6, 9, 12]}",
+        "answer": "{2: 0.76, '3': 5, '6': 5, '9': 5, '12': 5}",
+        "time": 7163.584,
+        "tokens": 516,
+        "toks/sec": 72.03098337368557
+    },
+    "sample_611": {
+        "expected": "[1, 0, -3, 1, -2, -6]",
+        "answer": "would be `[1, 0, -3, 1, -2, -6]`",
+        "time": 1584.535,
+        "tokens": 247,
+        "toks/sec": 155.88169399855477
+    },
+    "sample_42": {
+        "expected": "[]",
+        "answer": "[8, 6, 4, 2, 4, -2, 8, 4]",
+        "time": 709.555,
+        "tokens": 229,
+        "toks/sec": 322.73749039891203
+    },
+    "sample_79": {
+        "expected": "'1,2,3,4'",
+        "answer": "1,2,3,4",
+        "time": 354.165,
+        "tokens": 228,
+        "toks/sec": 643.7677353775782
+    },
+    "sample_246": {
+        "expected": "-1",
+        "answer": "0 because the substring '345' starts at index 0 in the string '345gerghjehg'",
+        "time": 811.146,
+        "tokens": 240,
+        "toks/sec": 295.8776841653661
+    },
+    "sample_172": {
+        "expected": "[]",
+        "answer": "will be the same as the input - an empty list:",
+        "time": 1707.125,
+        "tokens": 249,
+        "toks/sec": 145.85926631031705
+    },
+    "sample_704": {
+        "expected": "'.'",
+        "answer": ".'. Since `n` (the number of times to repeat the character",
+        "time": 1325.686,
+        "tokens": 244,
+        "toks/sec": 184.05565118738525
+    },
+    "sample_462": {
+        "expected": "'oooooooo'",
+        "answer": "oooooo",
+        "time": 244.271,
+        "tokens": 204,
+        "toks/sec": 835.1380229335451
+    },
+    "sample_82": {
+        "expected": "'BFS'",
+        "answer": "BFS'. In Python, the `and` operator returns the first falsey value if there are any, otherwise it returns the last evaluated value. Similarly, the `or` operator returns the first truthy value if there are any, otherwise it returns the last evaluated value.\n\nIn this case:\n- 'CJU' and 'BFS' evaluates to 'BFS', because both values are truthy (non-empty strings",
+        "time": 3191.558,
+        "tokens": 311,
+        "toks/sec": 97.44457095876058
+    },
+    "sample_635": {
+        "expected": "False",
+        "answer": "False because the input string contains a character ('^') that does not belong to either alphanumeric characters or valid_chars list",
+        "time": 830.856,
+        "tokens": 270,
+        "toks/sec": 324.96605910049396
+    },
+    "sample_192": {
+        "expected": "'!klcd!ma:ri'",
+        "answer": "klcd!mari",
+        "time": 296.566,
+        "tokens": 208,
+        "toks/sec": 701.3615856166924
+    },
+    "sample_411": {
+        "expected": "False",
+        "answer": "False",
+        "time": 170.278,
+        "tokens": 207,
+        "toks/sec": 1215.6590986504423
+    },
+    "sample_263": {
+        "expected": "['gloss', 'banana', 'barn', 'lawn']",
+        "answer": "[\"gloss\", \"banana\", \"barn\", \"lawn\"]. Since the input for `delta` is an empty list, there are no replacements to be made in the base list. Therefore, the function returns the original base list unchanged",
+        "time": 1465.216,
+        "tokens": 289,
+        "toks/sec": 197.24054337380974
+    },
+    "sample_355": {
+        "expected": "'23x John z'",
+        "answer": "John",
+        "time": 215.079,
+        "tokens": 176,
+        "toks/sec": 818.3039720288824
+    },
+    "sample_555": {
+        "expected": "'odes  code  well'",
+        "answer": "\"odes code well\"",
+        "time": 249.817,
+        "tokens": 215,
+        "toks/sec": 860.629981146199
+    },
+    "sample_152": {
+        "expected": "20",
+        "answer": "20. In the given input, ''.join(['A'] * 20), we are joining a list of uppercase 'A's twenty times to form a string with all characters being uppercase letters. Since every character in this string is an uppercase letter, the function will count each one and return the total number which is 20",
+        "time": 1965.469,
+        "tokens": 266,
+        "toks/sec": 135.33665501719946
+    },
+    "sample_483": {
+        "expected": "' '",
+        "answer": "`'a'` because the `split` function splits the string at every occurrence of the character 'a'. However, since we specify a limit to the number of splits equal to the length of the text (which in this case is 1), it only performs one split. This results in two strings: an empty string and the original string itself. The `join` function then concatenates these with a space between them, but as there's no character before or after 'a', we end up with just `'a'` as output",
+        "time": 2833.134,
+        "tokens": 285,
+        "toks/sec": 100.59531247021849
+    },
+    "sample_259": {
+        "expected": "'RES'",
+        "answer": "-R--S---M-----I-------A----B------P--------T----------E------------L--------O------------V----------------Y-----------------",
+        "time": 850.149,
+        "tokens": 266,
+        "toks/sec": 312.88632933756315
+    },
+    "sample_722": {
+        "expected": "',WpZpPPDL/'",
+        "answer": ",WpZpPPDl/",
+        "time": 376.406,
+        "tokens": 221,
+        "toks/sec": 587.1319798302897
+    },
+    "sample_787": {
+        "expected": "'Xzd'",
+        "answer": "Xzd",
+        "time": 211.424,
+        "tokens": 194,
+        "toks/sec": 917.5874072952928
+    },
+    "sample_757": {
+        "expected": "'an2a8'",
+        "answer": "an2a8",
+        "time": 260.455,
+        "tokens": 183,
+        "toks/sec": 702.6165748401836
+    },
+    "sample_298": {
+        "expected": "'DST VAVF N DMV DFVM GAMCU DGCVB.'",
+        "answer": "DST VAVF N DMV DFMV GAMCU DGCVB.",
+        "time": 652.73,
+        "tokens": 254,
+        "toks/sec": 389.1348643390069
+    },
+    "sample_133": {
+        "expected": "[7, 1, 2]",
+        "answer": "[7, 1]",
+        "time": 280.46,
+        "tokens": 217,
+        "toks/sec": 773.7288739927263
+    },
+    "sample_718": {
+        "expected": "'0ThisIsSoAtrocious'",
+        "answer": "15ThisIsSoAtrocious",
+        "time": 362.211,
+        "tokens": 201,
+        "toks/sec": 554.9251679269818
+    },
+    "sample_520": {
+        "expected": "6",
+        "answer": "[6]. Since the length of the list 'album_sales' is already equal to 1, there are no changes made in this case",
+        "time": 881.145,
+        "tokens": 228,
+        "toks/sec": 258.754234547095
+    },
+    "sample_258": {
+        "expected": "[1, 2, 7, 3, 9]",
+        "answer": "[1, 2, 7, 9, 3]",
+        "time": 539.927,
+        "tokens": 286,
+        "toks/sec": 529.7012373894989
+    },
+    "sample_471": {
+        "expected": "-1",
+        "answer": "2. This function returns the index of the first occurrence of a character in a string, or -1 if the character does not exist in the string. In this case, it finds that 'o' occurs at index 2 in the string 'fnmart'",
+        "time": 1459.865,
+        "tokens": 263,
+        "toks/sec": 180.1536443438263
+    },
+    "sample_2": {
+        "expected": "'hbtofdeiequ'",
+        "answer": "hbtofdeieq",
+        "time": 346.466,
+        "tokens": 215,
+        "toks/sec": 620.5515115480307
+    },
+    "sample_142": {
+        "expected": "'ykdfhp'",
+        "answer": "phfdpk",
+        "time": 259.427,
+        "tokens": 185,
+        "toks/sec": 713.1100463714262
+    },
+    "sample_564": {
+        "expected": "[395, 666, 7, 4]",
+        "answer": "[395, 666, 7, 4]. In the given code, we are modifying a list of lists. Here's what happens step by step:",
+        "time": 4704.138,
+        "tokens": 389,
+        "toks/sec": 82.69315228422296
+    },
+    "sample_216": {
+        "expected": "2",
+        "answer": "for this input will be:",
+        "time": 4406.513,
+        "tokens": 363,
+        "toks/sec": 82.37806174632867
+    },
+    "sample_446": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 170.65,
+        "tokens": 191,
+        "toks/sec": 1119.2499267506591
+    },
+    "sample_576": {
+        "expected": "['x', -2, -1, -6]",
+        "answer": "[-2, -1, -6]",
+        "time": 354.971,
+        "tokens": 239,
+        "toks/sec": 673.2944381371999
+    },
+    "sample_643": {
+        "expected": "'damdrodM'",
+        "answer": "damdroDM",
+        "time": 243.148,
+        "tokens": 199,
+        "toks/sec": 818.4315725401813
+    },
+    "sample_469": {
+        "expected": "'syduyi'",
+        "answer": "suaydyi",
+        "time": 296.124,
+        "tokens": 249,
+        "toks/sec": 840.8639623941322
+    },
+    "sample_90": {
+        "expected": "[[1, 2, 3], [], [1, 2, 3]]",
+        "answer": "`[[1, 2, 3], [], [1, 2, 3]]`. This function creates a new list of lists where each sublist is a copy of the original ones. So even if we modify one of them in the future, it won't affect others because they are independent copies and not references to the same object",
+        "time": 1888.599,
+        "tokens": 272,
+        "toks/sec": 144.02210315689038
+    },
+    "sample_569": {
+        "expected": "6",
+        "answer": "6, as there are six characters in the input string \"11 1 1\"",
+        "time": 614.398,
+        "tokens": 238,
+        "toks/sec": 387.3710526401453
+    },
+    "sample_316": {
+        "expected": "'| i am your father |'",
+        "answer": "`| i am your father |`",
+        "time": 289.966,
+        "tokens": 183,
+        "toks/sec": 631.1084747866992
+    },
+    "sample_268": {
+        "expected": "'h / g r a t e f u l   k'",
+        "answer": "`'h/ grateful k'`",
+        "time": 298.597,
+        "tokens": 218,
+        "toks/sec": 730.0810122003905
+    },
+    "sample_694": {
+        "expected": "('c', {'e': 1, 'd': 2})",
+        "answer": "'c', {'e': 1, 'd': 2}",
+        "time": 487.231,
+        "tokens": 218,
+        "toks/sec": 447.42637475858476
+    },
+    "sample_444": {
+        "expected": "[5, -2, 2, -5]",
+        "answer": "[-8, -6, -4, -7, -9, -1]. Here's how the function works step by step:",
+        "time": 9538.218,
+        "tokens": 607,
+        "toks/sec": 63.6387216144567
+    },
+    "sample_339": {
+        "expected": "2",
+        "answer": "2. There are two occurrences of the element '2' in the array [-1, 2, 1, -8, -8, 2]",
+        "time": 988.168,
+        "tokens": 247,
+        "toks/sec": 249.9574971057553
+    },
+    "sample_423": {
+        "expected": "[4, 2, 5, 1, 3, 2]",
+        "answer": "[4, 2, 5, 1, 3]",
+        "time": 498.071,
+        "tokens": 245,
+        "toks/sec": 491.8977414866555
+    },
+    "sample_17": {
+        "expected": "9",
+        "answer": "5 because the first comma appears at index position 5 (0-based indexing)",
+        "time": 559.205,
+        "tokens": 188,
+        "toks/sec": 336.1915576577462
+    },
+    "sample_197": {
+        "expected": "'1234567890 0'",
+        "answer": "1234567890 seconds",
+        "time": 439.974,
+        "tokens": 221,
+        "toks/sec": 502.30240877870057
+    },
+    "sample_267": {
+        "expected": "'sowpf'",
+        "answer": "sowpf",
+        "time": 782.823,
+        "tokens": 215,
+        "toks/sec": 274.64701471469283
+    },
+    "sample_249": {
+        "expected": "{'f': 1, 's': 1, 'a': 1}",
+        "answer": "{'f': 1, 's': 1, 'a': 1}",
+        "time": 1842.763,
+        "tokens": 310,
+        "toks/sec": 168.22564811644256
+    },
+    "sample_624": {
+        "expected": "'xllomnrpc'",
+        "answer": "xlloMrpc",
+        "time": 281.546,
+        "tokens": 237,
+        "toks/sec": 841.7807392042508
+    },
+    "sample_418": {
+        "expected": "'qqqqq'",
+        "answer": "qqqq#",
+        "time": 289.04,
+        "tokens": 278,
+        "toks/sec": 961.8045945197896
+    },
+    "sample_749": {
+        "expected": "'l \\nl '",
+        "answer": "l \\nl",
+        "time": 255.874,
+        "tokens": 225,
+        "toks/sec": 879.3390496885186
+    },
+    "sample_566": {
+        "expected": "'towaru'",
+        "answer": "towaru",
+        "time": 260.358,
+        "tokens": 230,
+        "toks/sec": 883.3990121294526
+    },
+    "sample_449": {
+        "expected": "True",
+        "answer": "True",
+        "time": 176.56,
+        "tokens": 194,
+        "toks/sec": 1098.7766198459447
+    },
+    "sample_614": {
+        "expected": "-1",
+        "answer": "4. This function searches for the second occurrence of substring 'j' in string 'zjegiymjc'. It starts from the right (hence rfind) and counts occurrences until it finds the second one, which happens at index 4. If there were fewer than two occurrences or none at all, it would return -1",
+        "time": 1959.17,
+        "tokens": 308,
+        "toks/sec": 157.20943052415052
+    },
+    "sample_654": {
+        "expected": "'aph?d'",
+        "answer": "ap?dh",
+        "time": 240.571,
+        "tokens": 199,
+        "toks/sec": 827.1986232754572
+    },
+    "sample_338": {
+        "expected": "{1: 'a', 2: 'd', 3: 'c'}",
+        "answer": "{1: 'a', 2: 'd', 3: 'c'}",
+        "time": 2205.532,
+        "tokens": 283,
+        "toks/sec": 128.31371297265238
+    },
+    "sample_795": {
+        "expected": "'Fu,Ux Zfujijabji Pfu.'",
+        "answer": "Fu,Ux Zfujijabji Pfu.",
+        "time": 509.88,
+        "tokens": 194,
+        "toks/sec": 380.48168196438377
+    },
+    "sample_143": {
+        "expected": "True",
+        "answer": "True",
+        "time": 161.161,
+        "tokens": 177,
+        "toks/sec": 1098.2806013861914
+    },
+    "sample_601": {
+        "expected": "'ccccc sssss hhhhh AAAAA rrrrr ppppp'",
+        "answer": "CCCSHHHHHAAAAAARRRRRPPP",
+        "time": 521.554,
+        "tokens": 237,
+        "toks/sec": 454.4112402550839
+    },
+    "sample_353": {
+        "expected": "4",
+        "answer": "4",
+        "time": 218.295,
+        "tokens": 242,
+        "toks/sec": 1108.591584782061
+    },
+    "sample_329": {
+        "expected": "True",
+        "answer": "True",
+        "time": 176.713,
+        "tokens": 203,
+        "toks/sec": 1148.7553264332562
+    },
+    "sample_475": {
+        "expected": "1",
+        "answer": "1",
+        "time": 183.309,
+        "tokens": 184,
+        "toks/sec": 1003.7695912366551
+    },
+    "sample_50": {
+        "expected": "[1]",
+        "answer": "`[1, 1]`",
+        "time": 257.685,
+        "tokens": 191,
+        "toks/sec": 741.2150493819973
+    },
+    "sample_93": {
+        "expected": "'iq!!!!'",
+        "answer": "qi!!",
+        "time": 222.212,
+        "tokens": 205,
+        "toks/sec": 922.5424369520998
+    },
+    "sample_676": {
+        "expected": "'a'",
+        "answer": "`'a'` as there are no tabs in the input string to replace with spaces of size `100`",
+        "time": 677.237,
+        "tokens": 199,
+        "toks/sec": 293.8410039616855
+    },
+    "sample_280": {
+        "expected": "'00000000 00000000 0ii0ii00 0ii00i0i 0ii0iii0'",
+        "answer": "iiine",
+        "time": 243.067,
+        "tokens": 251,
+        "toks/sec": 1032.6370918306475
+    },
+    "sample_186": {
+        "expected": "'pvtso'",
+        "answer": "pvtso",
+        "time": 236.32,
+        "tokens": 177,
+        "toks/sec": 748.9844278943805
+    },
+    "sample_551": {
+        "expected": "['a', 'b', 'c', 'inf']",
+        "answer": "['a', 'b', 'c', 'd']",
+        "time": 419.44,
+        "tokens": 230,
+        "toks/sec": 548.350181193973
+    },
+    "sample_313": {
+        "expected": "'urecord'",
+        "answer": "record==",
+        "time": 210.883,
+        "tokens": 181,
+        "toks/sec": 858.2958322861491
+    },
+    "sample_67": {
+        "expected": "'6,8,8'",
+        "answer": "6,8,8",
+        "time": 303.711,
+        "tokens": 215,
+        "toks/sec": 707.9098221664674
+    },
+    "sample_208": {
+        "expected": "['c', 'a', 't', 'd', ' ', 'd', 'e', 'e']",
+        "answer": "['c', 'a', 't', 'd', ' ', 'd', 'e', 'e']. This function iterates through each item in the list, and then for each character in that item, it checks if the character is not a digit. If so, it appends the non-digit character to the result list",
+        "time": 1808.282,
+        "tokens": 271,
+        "toks/sec": 149.86600541287257
+    },
+    "sample_87": {
+        "expected": "'-2139-1'",
+        "answer": "-2139-1",
+        "time": 310.643,
+        "tokens": 194,
+        "toks/sec": 624.5110947293196
+    },
+    "sample_30": {
+        "expected": "['a', 'b', 'c']",
+        "answer": "[\"a\", \"b\", \"c\"]",
+        "time": 345.134,
+        "tokens": 222,
+        "toks/sec": 643.2284272195726
+    },
+    "sample_118": {
+        "expected": "'zbzquiuqnmfkx'",
+        "answer": "zbuuiuqnfx",
+        "time": 358.604,
+        "tokens": 230,
+        "toks/sec": 641.3760024985778
+    },
+    "sample_458": {
+        "expected": "'pppo4pIp'",
+        "answer": ",pOm",
+        "time": 226.571,
+        "tokens": 212,
+        "toks/sec": 935.6890334597102
+    },
+    "sample_303": {
+        "expected": "'mJklbn'",
+        "answer": "MjklBn",
+        "time": 308.665,
+        "tokens": 248,
+        "toks/sec": 803.4600618793837
+    },
+    "sample_459": {
+        "expected": "{'vzjmc': 'b', 'ae': 'f'}",
+        "answer": "{'vzjmc': 'b', 'ae': 'f'}",
+        "time": 2259.697,
+        "tokens": 296,
+        "toks/sec": 130.99101339692888
+    },
+    "sample_324": {
+        "expected": "[]",
+        "answer": "for the given input `[]` would be:",
+        "time": 2099.763,
+        "tokens": 271,
+        "toks/sec": 129.06218463702808
+    },
+    "sample_482": {
+        "expected": "'Because it intrigues them'",
+        "answer": "remains unchanged and equals:",
+        "time": 1597.433,
+        "tokens": 231,
+        "toks/sec": 144.6070038618208
+    },
+    "sample_73": {
+        "expected": "(3, 6)",
+        "answer": "`(4, 5)`",
+        "time": 261.395,
+        "tokens": 182,
+        "toks/sec": 696.2642743740317
+    },
+    "sample_773": {
+        "expected": "4",
+        "answer": "4",
+        "time": 186.584,
+        "tokens": 188,
+        "toks/sec": 1007.5890751618574
+    },
+    "sample_358": {
+        "expected": "'tr'",
+        "answer": "tuerger'. This function finds all the indexes of a given character in a string, but only if they are not consecutive. If there is an odd number of occurrences, it returns the original text; otherwise, it removes the first and last occurrence from the returned substring. In this case, we have three 'b' characters ('btrburger'",
+        "time": 2499.604,
+        "tokens": 341,
+        "toks/sec": 136.42160918289457
+    },
+    "sample_31": {
+        "expected": "8",
+        "answer": "4. Here's how the function works:",
+        "time": 4883.6,
+        "tokens": 394,
+        "toks/sec": 80.67818822180358
+    },
+    "sample_256": {
+        "expected": "0",
+        "answer": "0, because the substring '2' does not exist in the given string",
+        "time": 549.919,
+        "tokens": 250,
+        "toks/sec": 454.61240655441986
+    },
+    "sample_432": {
+        "expected": "False",
+        "answer": "False because the length of the input string ('G5ogb6f,c7e.EMm') does not match the specified length (-5)",
+        "time": 904.721,
+        "tokens": 224,
+        "toks/sec": 247.59014104900848
+    },
+    "sample_59": {
+        "expected": "'hi'",
+        "answer": "hi",
+        "time": 202.261,
+        "tokens": 216,
+        "toks/sec": 1067.9270843118545
+    },
+    "sample_52": {
+        "expected": "'seiq d'",
+        "answer": "\"seiq d\"",
+        "time": 275.193,
+        "tokens": 214,
+        "toks/sec": 777.6360590567348
+    },
+    "sample_705": {
+        "expected": "[]",
+        "answer": "['Somewheresydney', 'Somewherengoinghongkong', 'Somewheremelbourne', 'Somewheresaopallo', 'Somewheresistanbul', 'Somewheresboston']",
+        "time": 1280.257,
+        "tokens": 269,
+        "toks/sec": 210.1140630357811
+    },
+    "sample_577": {
+        "expected": "[{}]",
+        "answer": "[{}]",
+        "time": 197.736,
+        "tokens": 205,
+        "toks/sec": 1036.735849819962
+    },
+    "sample_545": {
+        "expected": "[8, -1, 8]",
+        "answer": "[-1, 2, -9]",
+        "time": 351.296,
+        "tokens": 222,
+        "toks/sec": 631.9457096010202
+    },
+    "sample_470": {
+        "expected": "['B', 'D']",
+        "answer": "['B', 'D']",
+        "time": 276.582,
+        "tokens": 228,
+        "toks/sec": 824.3486560947567
+    },
+    "sample_141": {
+        "expected": "[1, 3, 1, 3, 3, 1, 1, 1, 1, 1, 1]",
+        "answer": "`[1, 3, 1, 3, 3, 1, 1, 1, 1, 1, 1]`.",
+        "time": 3882.458,
+        "tokens": 350,
+        "toks/sec": 90.1490756628919
+    },
+    "sample_389": {
+        "expected": "[1, 2, 3, 'n', 'a', 'm', 'm', 'o']",
+        "answer": "[1, 2, 3, 'n', 'a', 'm', 'm', 'o']",
+        "time": 709.109,
+        "tokens": 229,
+        "toks/sec": 322.94047882624534
+    },
+    "sample_610": {
+        "expected": "{}",
+        "answer": "{1: 3}",
+        "time": 280.51,
+        "tokens": 223,
+        "toks/sec": 794.9805711026345
+    },
+    "sample_361": {
+        "expected": "1",
+        "answer": "2",
+        "time": 180.876,
+        "tokens": 172,
+        "toks/sec": 950.9277073796412
+    },
+    "sample_508": {
+        "expected": "'ertubwi'",
+        "answer": "tubwerpi",
+        "time": 282.542,
+        "tokens": 245,
+        "toks/sec": 867.1277190647763
+    },
+    "sample_519": {
+        "expected": "{1: False, 2: 0}",
+        "answer": "`{1: False, 2: 0}`. This function first adds a key-value pair to the input dictionary `d`, then clears all its contents and finally returns a new dictionary with keys 1 and 2",
+        "time": 1289.876,
+        "tokens": 228,
+        "toks/sec": 176.76117704337472
+    },
+    "sample_533": {
+        "expected": "0",
+        "answer": "0",
+        "time": 212.26,
+        "tokens": 235,
+        "toks/sec": 1107.13276170734
+    },
+    "sample_257": {
+        "expected": "[['Hello World', '\"I am String\"']]",
+        "answer": "way to use splitlines is on string objects, but in this case, we are trying to apply it on list elements. Here's how you can fix it:",
+        "time": 3588.569,
+        "tokens": 329,
+        "toks/sec": 91.67999835031736
+    },
+    "sample_730": {
+        "expected": "2",
+        "answer": "2. There are two words in the input string that have more characters than any other word, namely \"rotbi\" and \"fwj\"",
+        "time": 864.193,
+        "tokens": 258,
+        "toks/sec": 298.54442236861445
+    },
+    "sample_415": {
+        "expected": "{8: 2, 5: 3}",
+        "answer": "{(8, 5): 5, (8, 2): 2, (5, 3): 3}",
+        "time": 810.443,
+        "tokens": 235,
+        "toks/sec": 289.9648710643438
+    },
+    "sample_627": {
+        "expected": "[-5, 7]",
+        "answer": "[1, 7, -5]. This function takes a list of tuples as input. Each tuple contains two elements where the first element represents a key and the second one represents its corresponding value.",
+        "time": 3299.596,
+        "tokens": 309,
+        "toks/sec": 93.64782840081028
+    },
+    "sample_89": {
+        "expected": "'O'",
+        "answer": "O",
+        "time": 193.687,
+        "tokens": 197,
+        "toks/sec": 1017.1049166954932
+    },
+    "sample_476": {
+        "expected": "False",
+        "answer": "False because the character 'k' does not appear in any of the words \"booty,\" \"boot-boot,\" or \"bootclass.\"",
+        "time": 843.613,
+        "tokens": 250,
+        "toks/sec": 296.34441384853005
+    },
+    "sample_99": {
+        "expected": "'aa++___bb'",
+        "answer": "aa+++bb'. In this case, the function splits the string from right using the separator '+' and limits it to 1 split. Then it joins them back together with '_' underscores in between each part of the split. Since there was only one '+",
+        "time": 1996.137,
+        "tokens": 258,
+        "toks/sec": 129.2496456906515
+    },
+    "sample_101": {
+        "expected": "[-4, 4, 1, 0]",
+        "answer": "[-4, 4, 1, 0]",
+        "time": 404.254,
+        "tokens": 198,
+        "toks/sec": 489.7910719498137
+    },
+    "sample_4": {
+        "expected": "'           '",
+        "answer": "",
+        "time": 187.824,
+        "tokens": 184,
+        "toks/sec": 979.6405145242354
+    },
+    "sample_138": {
+        "expected": "'tflb omn rtt'",
+        "answer": "tmflbm bnom rtt",
+        "time": 360.789,
+        "tokens": 233,
+        "toks/sec": 645.8068289221678
+    },
+    "sample_673": {
+        "expected": "'cA'",
+        "answer": "\"CA\"",
+        "time": 188.218,
+        "tokens": 190,
+        "toks/sec": 1009.467744849058
+    },
+    "sample_352": {
+        "expected": "-5",
+        "answer": "-5",
+        "time": 185.713,
+        "tokens": 182,
+        "toks/sec": 980.0067846623554
+    },
+    "sample_607": {
+        "expected": "True",
+        "answer": "True, as the input string ends with a period ('.')",
+        "time": 431.858,
+        "tokens": 198,
+        "toks/sec": 458.48403873495454
+    },
+    "sample_184": {
+        "expected": "[1, 2]",
+        "answer": "[2,1]",
+        "time": 260.593,
+        "tokens": 226,
+        "toks/sec": 867.2527658072165
+    },
+    "sample_631": {
+        "expected": "'*'",
+        "answer": "***a******",
+        "time": 270.312,
+        "tokens": 202,
+        "toks/sec": 747.284619254787
+    },
+    "sample_1": {
+        "expected": "{1: None, 2: None}",
+        "answer": "{1: None, 2: None}",
+        "time": 360.278,
+        "tokens": 210,
+        "toks/sec": 582.8832179594646
+    },
+    "sample_382": {
+        "expected": "\"(12, 'Rwrepny') (15, 'Qltuf')\"",
+        "answer": "12 Rwrepny 15 Qltuf",
+        "time": 473.166,
+        "tokens": 220,
+        "toks/sec": 464.9531031392788
+    },
+    "sample_168": {
+        "expected": "'spaib'",
+        "answer": "sbiain",
+        "time": 244.721,
+        "tokens": 197,
+        "toks/sec": 804.9983450541637
+    },
+    "sample_199": {
+        "expected": "'mnmnj krupa...##!@#!@#$$@##'",
+        "answer": "mnmnj krupa...",
+        "time": 367.059,
+        "tokens": 213,
+        "toks/sec": 580.2881825537584
+    },
+    "sample_517": {
+        "expected": "'SzHjifnzo'",
+        "answer": "SZ",
+        "time": 220.172,
+        "tokens": 206,
+        "toks/sec": 935.6321421434152
+    },
+    "sample_500": {
+        "expected": "'d'",
+        "answer": "wi'. This function works by finding the last occurrence of the delimiter in the reversed string, then slicing from the start to that index (also reversed",
+        "time": 1388.381,
+        "tokens": 236,
+        "toks/sec": 169.98215907593087
+    },
+    "sample_450": {
+        "expected": "'K KBz'",
+        "answer": "K BzK",
+        "time": 275.857,
+        "tokens": 220,
+        "toks/sec": 797.5146543317733
+    },
+    "sample_314": {
+        "expected": "' 105, -90 244'",
+        "answer": "-90 244 105",
+        "time": 418.275,
+        "tokens": 224,
+        "toks/sec": 535.5328432251509
+    },
+    "sample_189": {
+        "expected": "'{{{{}}}}'",
+        "answer": "\"{{{}}}\". Here, the function `f` takes two arguments - a string 'out' and a dictionary 'mapping'. Initially, an empty dictionary is passed as mapping.",
+        "time": 4784.528,
+        "tokens": 412,
+        "toks/sec": 86.11089745947771
+    },
+    "sample_25": {
+        "expected": "{'l': 1, 't': 2}",
+        "answer": "{'t': 2, 'x:': 3}",
+        "time": 432.849,
+        "tokens": 200,
+        "toks/sec": 462.054896742282
+    },
+    "sample_334": {
+        "expected": "'nU00 9 rCSAz00w00 lpA5BO00sizL00i7rlVr'",
+        "answer": "00nUnU00  9rCSAznU00w00lpA5BO00sizLi7rlVri00",
+        "time": 2228.232,
+        "tokens": 284,
+        "toks/sec": 127.45530986001458
+    },
+    "sample_240": {
+        "expected": "'3.121'",
+        "answer": "3.12",
+        "time": 279.575,
+        "tokens": 224,
+        "toks/sec": 801.2161316283646
+    },
+    "sample_683": {
+        "expected": "{'disface': 9, 'cam': 7, 'mforce': 5}",
+        "answer": "{'disface': 9, 'cam': 7, 'mforce': 5}",
+        "time": 1918.041,
+        "tokens": 278,
+        "toks/sec": 144.93955030158375
+    },
+    "sample_336": {
+        "expected": "'234dsfssdfs333324314'",
+        "answer": "234d",
+        "time": 266.713,
+        "tokens": 195,
+        "toks/sec": 731.1229673844169
+    },
+    "sample_468": {
+        "expected": "'unrndqafi'",
+        "answer": "undrafi",
+        "time": 251.492,
+        "tokens": 229,
+        "toks/sec": 910.5657436419449
+    },
+    "sample_371": {
+        "expected": "0",
+        "answer": "12.",
+        "time": 2647.537,
+        "tokens": 322,
+        "toks/sec": 121.62247402019311
+    },
+    "sample_278": {
+        "expected": "{0: [], 132: [5, 32]}",
+        "answer": "{0: [], 132: [5, 991, 32, 997]}",
+        "time": 1828.067,
+        "tokens": 292,
+        "toks/sec": 159.73156344926088
+    },
+    "sample_779": {
+        "expected": "'${first}y, ${second}x, ${third}r, ${fourth}p'",
+        "answer": "$pythony, $rubyx, $cry, $javascriptp",
+        "time": 522.822,
+        "tokens": 247,
+        "toks/sec": 472.43612548821585
+    },
+    "sample_159": {
+        "expected": "'mgItr'",
+        "answer": "mgItR",
+        "time": 266.379,
+        "tokens": 191,
+        "toks/sec": 717.0234890888546
+    },
+    "sample_723": {
+        "expected": "['d g a   n q d k', 'u l l   q c h a   k l']",
+        "answer": "`['dga nqdk', 'ull qcha kl']`. This function first splits the input text into lines using the splitlines() method. If a separator (in this case, it's an integer) is provided, it joins each line with spaces and returns a list of these joined strings. However, since no valid string can be formed from the given separator '1', the function simply returns the list of splitted lines without any modification",
+        "time": 2435.43,
+        "tokens": 299,
+        "toks/sec": 122.77092751588016
+    },
+    "sample_260": {
+        "expected": "[1, 2, 3, 4, 6, 5]",
+        "answer": "[1, 2, 3, 4, 6, 5]",
+        "time": 567.98,
+        "tokens": 225,
+        "toks/sec": 396.1407091799007
+    },
+    "sample_356": {
+        "expected": "[2, 1]",
+        "answer": "[1, 2]",
+        "time": 279.888,
+        "tokens": 231,
+        "toks/sec": 825.3301320528212
+    },
+    "sample_409": {
+        "expected": "'querisT'",
+        "answer": "Quesit",
+        "time": 254.333,
+        "tokens": 214,
+        "toks/sec": 841.4165680426842
+    },
+    "sample_538": {
+        "expected": "'zzz0574zz'",
+        "answer": "zzz0574zzz",
+        "time": 350.756,
+        "tokens": 183,
+        "toks/sec": 521.7302056130188
+    },
+    "sample_559": {
+        "expected": "'f.irst_second_third'",
+        "answer": "\"f.irst_secon_dth\"",
+        "time": 388.461,
+        "tokens": 197,
+        "toks/sec": 507.12941582295264
+    },
+    "sample_731": {
+        "expected": "'Chris requires  ride to the irport on Fridy.'",
+        "answer": "Chrs reqires r rid t h ircpt o n Frid",
+        "time": 526.843,
+        "tokens": 195,
+        "toks/sec": 370.12924153875065
+    },
+    "sample_656": {
+        "expected": "'yes'",
+        "answer": "yes'. This function checks if all elements in the list are unique, and returns 'no' as soon as it finds a duplicate. If no duplicates are found after checking every element, it returns 'yes'. In this case, there are no duplicates among ['b', 'i', 'r', 'o', 's', 'j', 'v', 'p'], so the function returns 'yes",
+        "time": 2178.649,
+        "tokens": 309,
+        "toks/sec": 141.8310154595807
+    },
+    "sample_325": {
+        "expected": "True",
+        "answer": "True. Since the input string is empty, there are no characters to check for digits or non-digits. Therefore, by default, it returns True as an empty string does not contain any non-digit character",
+        "time": 1199.864,
+        "tokens": 245,
+        "toks/sec": 204.1898081782602
+    },
+    "sample_37": {
+        "expected": "['123', '23', '3']",
+        "answer": "['123', '23', '3']",
+        "time": 414.87,
+        "tokens": 203,
+        "toks/sec": 489.3099043073734
+    },
+    "sample_557": {
+        "expected": "'xxxarmm ar xx'",
+        "answer": "`'xxx arm mar xx'`. Here, the `rpartition` method splits the string at the last occurrence of 'ar', resulting in a tuple ('xxx', 'arm', 'mar xx'). Then, these parts are joined with spaces using the `join` method",
+        "time": 1490.556,
+        "tokens": 241,
+        "toks/sec": 161.68463311676985
+    },
+    "sample_146": {
+        "expected": "[1, 2, 3, 4, 6, 7, 8, 9, 10]",
+        "answer": "[1,2,3,4,6,7,8,9,10]",
+        "time": 607.64,
+        "tokens": 211,
+        "toks/sec": 347.2450793232835
+    },
+    "sample_492": {
+        "expected": "'abbkebaniuwurzvr'",
+        "answer": "abbkabniuwrzu",
+        "time": 337.458,
+        "tokens": 230,
+        "toks/sec": 681.5662986208654
+    },
+    "sample_528": {
+        "expected": "2",
+        "answer": "2, which represents the index of the last occurrence of 'pa'",
+        "time": 485.287,
+        "tokens": 224,
+        "toks/sec": 461.5825274528269
+    },
+    "sample_183": {
+        "expected": "['echo']",
+        "answer": "['hello', 'nice!']",
+        "time": 315.233,
+        "tokens": 256,
+        "toks/sec": 812.0977181957472
+    },
+    "sample_69": {
+        "expected": "'Name unknown'",
+        "answer": "Name unknown",
+        "time": 232.033,
+        "tokens": 208,
+        "toks/sec": 896.4242155210682
+    },
+    "sample_373": {
+        "expected": "[1, 2, 3]",
+        "answer": "[1, 2, 100]",
+        "time": 379.8,
+        "tokens": 194,
+        "toks/sec": 510.7951553449184
+    },
+    "sample_734": {
+        "expected": "[5, 3, 3, 7]",
+        "answer": "[5, 3, 7]",
+        "time": 350.083,
+        "tokens": 225,
+        "toks/sec": 642.7047300211664
+    },
+    "sample_422": {
+        "expected": "[1, 4, 1]",
+        "answer": "[1, 4, 1]. This function first creates a copy of the input array to avoid modifying it. Then it reverses this copied array using `reversed()`. Finally, it returns a new list where each element in the reversed array has been squared (multiplied by itself)",
+        "time": 1639.632,
+        "tokens": 257,
+        "toks/sec": 156.7424885584082
+    },
+    "sample_78": {
+        "expected": "'mty'",
+        "answer": "myt",
+        "time": 232.638,
+        "tokens": 236,
+        "toks/sec": 1014.4516373077485
+    },
+    "sample_401": {
+        "expected": "'mathematics'",
+        "answer": "mathematics",
+        "time": 242.457,
+        "tokens": 194,
+        "toks/sec": 800.1418808283531
+    },
+    "sample_144": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 167.806,
+        "tokens": 192,
+        "toks/sec": 1144.1783964816514
+    },
+    "sample_727": {
+        "expected": "['dxh', 'ix', 'snegi', 'wiubvu']",
+        "answer": "['d x h', 'i x', 's neg i', 'w i u b v u']",
+        "time": 665.252,
+        "tokens": 232,
+        "toks/sec": 348.74002633588475
+    },
+    "sample_630": {
+        "expected": "{1: -9, 0: -7, 2: 1, 3: 0}",
+        "answer": "{-9: 2, -7: 3}",
+        "time": 423.141,
+        "tokens": 218,
+        "toks/sec": 515.194698693816
+    },
+    "sample_223": {
+        "expected": "1",
+        "answer": "3. This function counts the number of elements in a given sorted array that are less than or equal to a target value. It uses an efficient approach by maintaining two pointers (i and j) and counting only when certain conditions are met.",
+        "time": 5382.434,
+        "tokens": 459,
+        "toks/sec": 85.27740423756241
+    },
+    "sample_207": {
+        "expected": "{'brown': 2, 'blue': 5, 'bright': 4}",
+        "answer": "{'brown': 2, 'blue': 5, 'bright': 4}",
+        "time": 608.485,
+        "tokens": 214,
+        "toks/sec": 351.6931395186406
+    },
+    "sample_682": {
+        "expected": "'hy'",
+        "answer": "hy_pe-ni_mo",
+        "time": 347.111,
+        "tokens": 203,
+        "toks/sec": 584.8273318909513
+    },
+    "sample_513": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 173.944,
+        "tokens": 207,
+        "toks/sec": 1190.0381732051696
+    },
+    "sample_18": {
+        "expected": "[3, 5, 4, 3, 2, 1, 0]",
+        "answer": "[5, 4, 3, 3, 2, 1, 0]",
+        "time": 645.559,
+        "tokens": 243,
+        "toks/sec": 376.4179571503147
+    },
+    "sample_360": {
+        "expected": "'g'",
+        "answer": "gggggggggggggg",
+        "time": 359.48,
+        "tokens": 223,
+        "toks/sec": 620.3404918215199
+    },
+    "sample_134": {
+        "expected": "'372359'",
+        "answer": "104104104372359",
+        "time": 1628.726,
+        "tokens": 303,
+        "toks/sec": 186.03497457522013
+    },
+    "sample_97": {
+        "expected": "True",
+        "answer": "True",
+        "time": 175.541,
+        "tokens": 190,
+        "toks/sec": 1082.3682216690117
+    },
+    "sample_349": {
+        "expected": "{'noeohqhk': 623, 1049: 55}",
+        "answer": "{'noeohqhk': 623}",
+        "time": 8202.053,
+        "tokens": 527,
+        "toks/sec": 64.25220612449102
+    },
+    "sample_120": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 177.656,
+        "tokens": 210,
+        "toks/sec": 1182.0597109019677
+    },
+    "sample_760": {
+        "expected": "['k', 'j', 'h', 'f']",
+        "answer": "['k', 'j', 'h', 'f']",
+        "time": 419.737,
+        "tokens": 224,
+        "toks/sec": 533.6675108460774
+    },
+    "sample_126": {
+        "expected": "'-kkxkxxfck'",
+        "answer": "kkx-xxfck'. Here, the function `rpartition` splits the input string at the last occurrence of 'o', which doesn't exist in this case. So it returns a tuple with an empty string as first and third elements, and the original string as the second element. Then, depending on whether these strings are empty or not, '-' is assigned to `div` and `div2`. Finally, the function concatenates 'o', `div`, 'o",
+        "time": 2813.826,
+        "tokens": 331,
+        "toks/sec": 117.63342864839545
+    },
+    "sample_212": {
+        "expected": "[1, -9, 7, 2, 6, -3, 3]",
+        "answer": "[-3, 6, 2, 7, -9, 1]. This function reverses the list of numbers multiple times. In each iteration, it reverses all elements except for the last one (since we are iterating until `len(nums) - 1`). After three iterations, the original order is restored but with the first and second halves swapped",
+        "time": 2080.783,
+        "tokens": 279,
+        "toks/sec": 134.0841404413627
+    },
+    "sample_594": {
+        "expected": "33",
+        "answer": "21, which represents the index of the first newline character in the given string",
+        "time": 549.069,
+        "tokens": 196,
+        "toks/sec": 356.96788563914555
+    },
+    "sample_667": {
+        "expected": "['< C7 level=0 >']",
+        "answer": "['< C7 level=0 >']",
+        "time": 375.743,
+        "tokens": 270,
+        "toks/sec": 718.5762609017333
+    },
+    "sample_83": {
+        "expected": "'2:0'",
+        "answer": "2:3",
+        "time": 248.679,
+        "tokens": 214,
+        "toks/sec": 860.5471310404175
+    },
+    "sample_182": {
+        "expected": "[('a', 2), ('b', 1)]",
+        "answer": "[('a', 2), ('b', 1)]. This function sorts the dictionary items based on their keys in ascending order and returns a list of tuples",
+        "time": 993.61,
+        "tokens": 215,
+        "toks/sec": 216.38268535944687
+    },
+    "sample_454": {
+        "expected": "{}",
+        "answer": "{'a': 2, 'b': [], 'c': {}",
+        "time": 1490.478,
+        "tokens": 269,
+        "toks/sec": 180.47901411493493
+    },
+    "sample_281": {
+        "expected": "{1: 2, 3: 4, 5: 6, 8: 2}",
+        "answer": "{1: 2, 3: 4, 5: 6, 8: 2}",
+        "time": 1658.178,
+        "tokens": 296,
+        "toks/sec": 178.50918297070638
+    },
+    "sample_696": {
+        "expected": "3",
+        "answer": "2",
+        "time": 195.955,
+        "tokens": 197,
+        "toks/sec": 1005.3328570335025
+    },
+    "sample_46": {
+        "expected": "'manylettersasvszhelloman'",
+        "answer": "manylettersasvszhello",
+        "time": 329.553,
+        "tokens": 188,
+        "toks/sec": 570.469696831769
+    },
+    "sample_748": {
+        "expected": "(('a', 123), ('b', 456))",
+        "answer": "'a', 123",
+        "time": 314.663,
+        "tokens": 202,
+        "toks/sec": 641.9566329692401
+    },
+    "sample_156": {
+        "expected": "'tqzym'",
+        "answer": "tqzym",
+        "time": 246.612,
+        "tokens": 199,
+        "toks/sec": 806.9355911310074
+    },
+    "sample_284": {
+        "expected": "''",
+        "answer": "an empty string. Since the entire `prefix` matches with the beginning of the `text`, there are no characters left in the `text` after removing the prefix, resulting in an empty string as the output",
+        "time": 1172.193,
+        "tokens": 242,
+        "toks/sec": 206.45064421985117
+    },
+    "sample_486": {
+        "expected": "{1: 1, 2: 4, 3: 9}",
+        "answer": "{1:1, 2:4, 3:9}",
+        "time": 2080.33,
+        "tokens": 283,
+        "toks/sec": 136.03610965567964
+    },
+    "sample_369": {
+        "expected": "'tuple'",
+        "answer": "tuple'. This input represents a string with two numbers separated by space, which can be interpreted as a tuple of integers. However, the function does not directly handle tuples and thus returns 'tuple' for any other type that doesn",
+        "time": 1440.116,
+        "tokens": 296,
+        "toks/sec": 205.5389982473634
+    },
+    "sample_237": {
+        "expected": "'uuzlwaqiaj'",
+        "answer": "zlwauaqij",
+        "time": 355.967,
+        "tokens": 231,
+        "toks/sec": 648.9365587259493
+    },
+    "sample_484": {
+        "expected": "[182, 32]",
+        "answer": "[182, 32, 'r6', 'r5', 'reg', '', 'f', 'f1q', '-'].",
+        "time": 4839.329,
+        "tokens": 429,
+        "toks/sec": 88.64865356333492
+    },
+    "sample_440": {
+        "expected": "'no'",
+        "answer": "no",
+        "time": 186.875,
+        "tokens": 180,
+        "toks/sec": 963.2107023411371
+    },
+    "sample_689": {
+        "expected": "[-15, -6, 10, 7]",
+        "answer": "[-15, -6, 10, 7]. In this function, we first make a copy of the input array. Then for every second element (starting from index 0), we multiply it by 5. So in our case, only the elements at indices 0 and 2 are multiplied by 5 (-3*5 = -15 and 2*5 = 10). The other elements remain unchanged",
+        "time": 2435.862,
+        "tokens": 299,
+        "toks/sec": 122.74915409822067
+    },
+    "sample_612": {
+        "expected": "{'a': 42, 'b': 1337, 'c': -1, 'd': 5}",
+        "answer": "{'a': 42, 'b': 1337, 'c': -1, 'd': 5}",
+        "time": 2054.59,
+        "tokens": 265,
+        "toks/sec": 128.9795044266739
+    },
+    "sample_632": {
+        "expected": "[0, 0, 1, 4, 5, 7, 9, 25, 63, 87]",
+        "answer": "[0, 0, 1, 4, 5, 63, 7, 9, 25, 87].",
+        "time": 4086.822,
+        "tokens": 422,
+        "toks/sec": 103.25871789865083
+    },
+    "sample_195": {
+        "expected": "'ilfdoirwirmtoibsac  '",
+        "answer": "ifword",
+        "time": 226.572,
+        "tokens": 208,
+        "toks/sec": 918.0304715498826
+    },
+    "sample_575": {
+        "expected": "42",
+        "answer": "54. This function first extends the input list `nums` by repeating each element `val` times and then sums up all elements of the extended list to get the final result. For `[10, 4]` with `val = 3`, it becomes `[10, 10, 10, 4, 4, 4]`, which sums up to 54",
+        "time": 2224.172,
+        "tokens": 283,
+        "toks/sec": 127.2383610620042
+    },
+    "sample_498": {
+        "expected": "[2, 2, 3, 2, 3, 3]",
+        "answer": "[2, 2, 3, 3, 3]",
+        "time": 487.326,
+        "tokens": 208,
+        "toks/sec": 426.81900822036994
+    },
+    "sample_397": {
+        "expected": "{'x': 0, 'u': 0, 'w': 0, 'j': 0, 3: 0, 6: 0}",
+        "answer": "{'x': 0, 'u': 0, 'w': 0, 'j': 0, 3: 0, 6: 0}",
+        "time": 1508.387,
+        "tokens": 237,
+        "toks/sec": 157.12148142353388
+    },
+    "sample_157": {
+        "expected": "1",
+        "answer": "3, as there are three '0' characters present in the phrase",
+        "time": 515.842,
+        "tokens": 218,
+        "toks/sec": 422.61002399959676
+    },
+    "sample_778": {
+        "expected": "'mjsmjqwmjsqjwisojqwiso'",
+        "answer": "mjsmjqwismjqwiso",
+        "time": 389.615,
+        "tokens": 205,
+        "toks/sec": 526.1604404347881
+    },
+    "sample_317": {
+        "expected": "' vap a zwwo oihee amawaaw! '",
+        "answer": "vup u zwou oiheeu mwuuww!",
+        "time": 538.208,
+        "tokens": 214,
+        "toks/sec": 397.6157916641893
+    },
+    "sample_663": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 175.663,
+        "tokens": 213,
+        "toks/sec": 1212.5490285375975
+    },
+    "sample_273": {
+        "expected": "'NET'",
+        "answer": "ETN",
+        "time": 237.518,
+        "tokens": 235,
+        "toks/sec": 989.3986982039256
+    },
+    "sample_474": {
+        "expected": "'#[)[]>[^e>\\n 8'",
+        "answer": ":",
+        "time": 690.825,
+        "tokens": 233,
+        "toks/sec": 337.2778923750588
+    },
+    "sample_688": {
+        "expected": "[3, 1, 9, 0, 2, 8]",
+        "answer": "[3, 1, 9, 0, 2, 8]",
+        "time": 558.597,
+        "tokens": 222,
+        "toks/sec": 397.42426113996316
+    },
+    "sample_629": {
+        "expected": "'cat'",
+        "answer": "ca",
+        "time": 207.52,
+        "tokens": 220,
+        "toks/sec": 1060.1387818041635
+    },
+    "sample_589": {
+        "expected": "[-70, 20, 9, 1, 1]",
+        "answer": "[-70, 20, 9, 1, 1]",
+        "time": 531.454,
+        "tokens": 194,
+        "toks/sec": 365.0362966503216
+    },
+    "sample_759": {
+        "expected": "[]",
+        "answer": "an empty list `[]` because the substring \"good\" does not exist in the given string \"egmadtoa\"",
+        "time": 748.823,
+        "tokens": 245,
+        "toks/sec": 327.180121337085
+    },
+    "sample_381": {
+        "expected": "'00019'",
+        "answer": "00019",
+        "time": 289.525,
+        "tokens": 190,
+        "toks/sec": 656.2473016147138
+    },
+    "sample_600": {
+        "expected": "[]",
+        "answer": "[]",
+        "time": 174.541,
+        "tokens": 207,
+        "toks/sec": 1185.9677668857173
+    },
+    "sample_441": {
+        "expected": "{37: 'forty-five', '23': 'what?'}",
+        "answer": "{37: 'forty-five', 23: 'what?'}",
+        "time": 552.234,
+        "tokens": 200,
+        "toks/sec": 362.1653139792189
+    },
+    "sample_32": {
+        "expected": "'*ume;*vo'",
+        "answer": "*m;*e;*v;*o",
+        "time": 444.141,
+        "tokens": 201,
+        "toks/sec": 452.55898464676756
+    },
+    "sample_790": {
+        "expected": "(False, True)",
+        "answer": "`(True, True)`. This function creates a dictionary `r` with two keys `'c'` and `'d'`, each containing a copy of the input dictionary. It then returns a tuple where the first element checks if both copies are the same object (which they are since it uses `.copy()`) and the second element checks if both copies have the same content, which is also true in this case",
+        "time": 2138.449,
+        "tokens": 294,
+        "toks/sec": 137.4828204927964
+    },
+    "sample_327": {
+        "expected": "[-3, 1, 7, -1]",
+        "answer": "[-3, 1, -1, 7]",
+        "time": 425.979,
+        "tokens": 243,
+        "toks/sec": 570.4506560182544
+    },
+    "sample_700": {
+        "expected": "30",
+        "answer": "21. This is because there are no occurrences of 'bot' in the input string, so it simply returns the length of the entire string which is 21 characters long",
+        "time": 1069.02,
+        "tokens": 211,
+        "toks/sec": 197.3770369123122
+    },
+    "sample_178": {
+        "expected": "[2, 2, 2]",
+        "answer": "[2, 2, 2]",
+        "time": 333.058,
+        "tokens": 190,
+        "toks/sec": 570.4712092188148
+    },
+    "sample_100": {
+        "expected": "{'1': 'b'}",
+        "answer": "{'1': 'a', '1': 'b'}",
+        "time": 2233.607,
+        "tokens": 297,
+        "toks/sec": 132.96878098967275
+    },
+    "sample_596": {
+        "expected": "['2', '3', '4', '7', '8', '9']",
+        "answer": "['2', '3', '4', '7', '8', '9']. Here, the input list is sorted first to get ['2', '3', '4', '7', '8', '9']. Then it checks if the index of '9' (which is 5) is even. Since 5 % 2 != 0, it returns the original sorted list without reversing it",
+        "time": 2235.79,
+        "tokens": 295,
+        "toks/sec": 131.94441338408348
+    },
+    "sample_238": {
+        "expected": "[1, 9, 4]",
+        "answer": "[1, 9, 4]",
+        "time": 347.667,
+        "tokens": 224,
+        "toks/sec": 644.2946842812232
+    },
+    "sample_224": {
+        "expected": "{}",
+        "answer": "{23: 123}",
+        "time": 361.14,
+        "tokens": 250,
+        "toks/sec": 692.2523121227225
+    },
+    "sample_185": {
+        "expected": "[11, 14, 7, 12, 9, 16]",
+        "answer": "[11, 9, 7, 12, 14, 16]. This function performs a half-way reversal of the input list. It starts from both ends and swaps elements until it reaches the middle. For example, in the first iteration (k=1), it swaps 16 with 11; then for k=2, it swaps 14 with 9; finally for k=3, it swaps 12 with 7. The result is a list that has been reversed from the middle to both ends",
+        "time": 3187.675,
+        "tokens": 389,
+        "toks/sec": 122.03251586187424
+    },
+    "sample_341": {
+        "expected": "{}",
+        "answer": "remains an empty dictionary `{}` as the input was already an empty dictionary and there were no items to pop",
+        "time": 648.473,
+        "tokens": 194,
+        "toks/sec": 299.16434454479986
+    },
+    "sample_796": {
+        "expected": "'fnuiyh'",
+        "answer": "uyh",
+        "time": 220.085,
+        "tokens": 194,
+        "toks/sec": 881.4776109230525
+    },
+    "sample_229": {
+        "expected": "['9', 'm', 'm', 'A', '1', '0', 'L', 'k']",
+        "answer": "['m', 'A', 1]",
+        "time": 353.195,
+        "tokens": 243,
+        "toks/sec": 688.0052095867721
+    },
+    "sample_553": {
+        "expected": "'wslh0762m934'",
+        "answer": "wshl6279m394",
+        "time": 441.604,
+        "tokens": 201,
+        "toks/sec": 455.15892066195056
+    },
+    "sample_44": {
+        "expected": "'*+++n+z+o+h'",
+        "answer": "+*n+*z+*o+*h",
+        "time": 477.421,
+        "tokens": 235,
+        "toks/sec": 492.2280335385331
+    },
+    "sample_332": {
+        "expected": "[]",
+        "answer": "[-2, 1]",
+        "time": 284.544,
+        "tokens": 244,
+        "toks/sec": 857.5123706702655
+    },
+    "sample_297": {
+        "expected": "'Not found'",
+        "answer": "Half Life",
+        "time": 249.578,
+        "tokens": 195,
+        "toks/sec": 781.3188662462236
+    },
+    "sample_628": {
+        "expected": "[4, 3, 6, 1]",
+        "answer": "[4, 3, 6, 1]",
+        "time": 407.455,
+        "tokens": 195,
+        "toks/sec": 478.58045673755385
+    },
+    "sample_710": {
+        "expected": "{'aki': ['1', '5', '2']}",
+        "answer": "{'aki': ['1', '5', '2']}",
+        "time": 444.721,
+        "tokens": 232,
+        "toks/sec": 521.6753874901343
+    },
+    "sample_215": {
+        "expected": "')'",
+        "answer": "an empty string",
+        "time": 219.279,
+        "tokens": 202,
+        "toks/sec": 921.2008445861209
+    },
+    "sample_549": {
+        "expected": "[[1, 1, 1, 1]]",
+        "answer": "[[1, 1, 1, 1]]",
+        "time": 446.316,
+        "tokens": 220,
+        "toks/sec": 492.9242957904265
+    },
+    "sample_428": {
+        "expected": "[]",
+        "answer": "[]. Since the input list is empty, there are no elements to iterate over and thus nothing gets appended",
+        "time": 686.367,
+        "tokens": 221,
+        "toks/sec": 321.9851770262848
+    },
+    "sample_581": {
+        "expected": "'akoXoosn'",
+        "answer": "asXkoon",
+        "time": 291.391,
+        "tokens": 247,
+        "toks/sec": 847.658301045674
+    },
+    "sample_252": {
+        "expected": "'\\\\foo'",
+        "answer": "foo",
+        "time": 190.355,
+        "tokens": 194,
+        "toks/sec": 1019.1484331906175
+    },
+    "sample_726": {
+        "expected": "(2, 34)",
+        "answer": "3, 40",
+        "time": 718.203,
+        "tokens": 231,
+        "toks/sec": 321.6360833914645
+    },
+    "sample_191": {
+        "expected": "False",
+        "answer": "False",
+        "time": 163.321,
+        "tokens": 175,
+        "toks/sec": 1071.509481328182
+    },
+    "sample_231": {
+        "expected": "2",
+        "answer": "3. There are four years in the list that are less than or equal to 1900 (three of which meet the condition a10 > 3), and two years greater than 1910 (which do not meet the condition a90 > 3). Therefore, according to the function's logic, it returns 3",
+        "time": 1995.036,
+        "tokens": 326,
+        "toks/sec": 163.40557263127081
+    },
+    "sample_556": {
+        "expected": "'\\n\\n        z   d\\ng\\n            e'",
+        "answer": ":",
+        "time": 437.984,
+        "tokens": 230,
+        "toks/sec": 525.1333382041354
+    },
+    "sample_720": {
+        "expected": "2",
+        "answer": "18",
+        "time": 226.944,
+        "tokens": 216,
+        "toks/sec": 951.7766497461929
+    },
+    "sample_173": {
+        "expected": "[4, 8, 6, 8, 5]",
+        "answer": "[4, 6, 8, 8, 5]. This function reverses the order of elements in a list by popping each element from the end and appending it to a new list",
+        "time": 1191.425,
+        "tokens": 259,
+        "toks/sec": 217.3867427660155
+    },
+    "sample_166": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 174.483,
+        "tokens": 207,
+        "toks/sec": 1186.3619951513901
+    },
+    "sample_756": {
+        "expected": "'string'",
+        "answer": "string'. This function checks whether the input string consists of alphanumeric characters only (using `text.isalnum(",
+        "time": 2367.581,
+        "tokens": 276,
+        "toks/sec": 116.57468107743726
+    },
+    "sample_232": {
+        "expected": "'yesyes'",
+        "answer": "yessvnv",
+        "time": 284.95,
+        "tokens": 233,
+        "toks/sec": 817.6873135637832
+    },
+    "sample_597": {
+        "expected": "'JAAFODSFA SODOFJ AOAFJIS  JAFASIDFSA1'",
+        "answer": "\"JAAFODSFASODOFJ AOFJIS JAFASIDFSA1\"",
+        "time": 681.733,
+        "tokens": 204,
+        "toks/sec": 299.23738472393154
+    },
+    "sample_375": {
+        "expected": "'sieriizzizam'",
+        "answer": "sierezam",
+        "time": 271.608,
+        "tokens": 204,
+        "toks/sec": 751.0824423433772
+    },
+    "sample_763": {
+        "expected": "'yCxpg2C2Pny'",
+        "answer": "g2'. Here the function removes all occurrences of values and markers from the right end of the string until it encounters a character that does not belong to either. In this case, after removing '2's (values",
+        "time": 1654.511,
+        "tokens": 250,
+        "toks/sec": 151.10204767450927
+    },
+    "sample_241": {
+        "expected": "'CW'",
+        "answer": "CW",
+        "time": 211.215,
+        "tokens": 175,
+        "toks/sec": 828.5396397036195
+    },
+    "sample_579": {
+        "expected": "''",
+        "answer": "",
+        "time": 178.793,
+        "tokens": 213,
+        "toks/sec": 1191.3218079007568
+    },
+    "sample_279": {
+        "expected": "''",
+        "answer": "an empty string '' since the input was also an empty string and there were no characters to process or manipulate",
+        "time": 664.122,
+        "tokens": 238,
+        "toks/sec": 358.36789023703477
+    },
+    "sample_567": {
+        "expected": "['one', 'two', 'three_four_five']",
+        "answer": "`['one', 'two', 'three', 'four', 'five']`. This function splits the string into a list of words, then groups every n elements from the end of the list and joins them with underscores. Since there are more than or equal to n elements in the input list, it will group all elements except for the first one ('one') which remains as is",
+        "time": 2123.836,
+        "tokens": 294,
+        "toks/sec": 138.42876756962403
+    },
+    "sample_112": {
+        "expected": "'XYZLtRRdnHodLTTBIGGeXET fult'",
+        "answer": "XYZLittleREDRIdingHOODLiTTLEBigGEXEI'. In the given code, we first convert the input sentence into a list of characters. Then for each character in this list, if it does not start with an uppercase letter (checked using `istitle(",
+        "time": 2286.394,
+        "tokens": 301,
+        "toks/sec": 131.6483510716001
+    },
+    "sample_123": {
+        "expected": "[1, 2, 3, 5, 6, 8]",
+        "answer": "[1, 2, 3, 5, 6, 8]",
+        "time": 571.741,
+        "tokens": 228,
+        "toks/sec": 398.78196596011134
+    },
+    "sample_385": {
+        "expected": "[0, 2, 2]",
+        "answer": "[2, 6, 2]. This function iterates through the list and checks if an element appears again in the rest of the list. If it does, that element is added to a new list. Once three such elements are found (in this case, '2' and '6'), they are returned as output",
+        "time": 1800.806,
+        "tokens": 323,
+        "toks/sec": 179.3641291732702
+    },
+    "sample_335": {
+        "expected": "'sjbrfqmw'",
+        "answer": "sjb?rfmw",
+        "time": 339.65,
+        "tokens": 255,
+        "toks/sec": 750.7728544089505
+    },
+    "sample_489": {
+        "expected": "'cifysu'",
+        "answer": "ficysu",
+        "time": 232.973,
+        "tokens": 178,
+        "toks/sec": 764.0370343344507
+    },
+    "sample_105": {
+        "expected": "'Permission Is Granted'",
+        "answer": "\"permission is granted\"",
+        "time": 233.965,
+        "tokens": 187,
+        "toks/sec": 799.264847306221
+    },
+    "sample_320": {
+        "expected": "'usAr'",
+        "answer": "UsaR",
+        "time": 266.761,
+        "tokens": 237,
+        "toks/sec": 888.4357158655125
+    },
+    "sample_425": {
+        "expected": "['', ':', 'CL44     ']",
+        "answer": "['', 'CL44     ', '']",
+        "time": 361.469,
+        "tokens": 205,
+        "toks/sec": 567.1302380010458
+    },
+    "sample_539": {
+        "expected": "['']",
+        "answer": "['_']",
+        "time": 201.43,
+        "tokens": 214,
+        "toks/sec": 1062.4038127389167
+    },
+    "sample_331": {
+        "expected": "-1",
+        "answer": "-1",
+        "time": 206.39,
+        "tokens": 219,
+        "toks/sec": 1061.0979214109211
+    },
+    "sample_456": {
+        "expected": "'Join us in Hungary'",
+        "answer": "Join us in Hungary",
+        "time": 284.432,
+        "tokens": 177,
+        "toks/sec": 622.2928503122012
+    },
+    "sample_657": {
+        "expected": "'Djhasghasgdha'",
+        "answer": "\"DjhAsghAsghAdHa\"",
+        "time": 394.254,
+        "tokens": 225,
+        "toks/sec": 570.6980778888736
+    },
+    "sample_510": {
+        "expected": "'Wy'",
+        "answer": "o3Jwus'.\n\nExplanation: In the given function `f`, we are provided with five parameters - a dictionary `a`, an integer `b`, and three strings `c`, `d` and `e`. Here's how it works step by step:\n\n1. The key is set to be equal to parameter `d`, which in this case, is 'Wy'.\n2. We check if the key exists within dictionary `a`. Since there is no such key as 'Wy', we skip the first conditional block and move on to the next one.\n3. In the second conditional block, we compare the value of parameter `b` with 3. If it's greater than 3, then return a concatenation of all strings in list `c`. However, since b is equal to 4 which is indeed greater than 3, this condition is met and ''.join(c",
+        "time": 5758.958,
+        "tokens": 524,
+        "toks/sec": 90.98868232760164
+    },
+    "sample_315": {
+        "expected": "'czywz'",
+        "answer": "czy,z",
+        "time": 232.772,
+        "tokens": 174,
+        "toks/sec": 747.5125874246044
+    },
+    "sample_209": {
+        "expected": "'hymi'",
+        "answer": "remains unchanged:",
+        "time": 1932.783,
+        "tokens": 255,
+        "toks/sec": 131.93410745024144
+    },
+    "sample_776": {
+        "expected": "{}",
+        "answer": "{}",
+        "time": 170.584,
+        "tokens": 203,
+        "toks/sec": 1190.029545561131
+    },
+    "sample_737": {
+        "expected": "1",
+        "answer": "3",
+        "time": 198.891,
+        "tokens": 211,
+        "toks/sec": 1060.8825939836393
+    },
+    "sample_293": {
+        "expected": "'no'",
+        "answer": "False",
+        "time": 171.538,
+        "tokens": 200,
+        "toks/sec": 1165.922419522205
+    },
+    "sample_542": {
+        "expected": "['ab cd']",
+        "answer": "['ab cd']",
+        "time": 219.243,
+        "tokens": 196,
+        "toks/sec": 893.9852127547972
+    },
+    "sample_742": {
+        "expected": "False",
+        "answer": "False",
+        "time": 174.772,
+        "tokens": 198,
+        "toks/sec": 1132.904584258348
+    },
+    "sample_712": {
+        "expected": "[['A']]",
+        "answer": "[['p', 'c', 'i', 'h'], ['a']]",
+        "time": 545.902,
+        "tokens": 237,
+        "toks/sec": 434.1438573223765
+    },
+    "sample_391": {
+        "expected": "['9', '+', '+', '+']",
+        "answer": "`['+', '+', 'r', '+', '9']`",
+        "time": 556.996,
+        "tokens": 244,
+        "toks/sec": 438.0641871754914
+    },
+    "sample_797": {
+        "expected": "[('a', 1), ('b', 2), ('c', 3)]",
+        "answer": "[('a', 1), ('b', 2), ('c', 3)]",
+        "time": 605.63,
+        "tokens": 220,
+        "toks/sec": 363.2580948764097
+    },
+    "sample_24": {
+        "expected": "[45, 3, 61, 39, 27, 47]",
+        "answer": "[45, 3, 61, 39, 27, 47]",
+        "time": 685.688,
+        "tokens": 218,
+        "toks/sec": 317.928853939401
+    },
+    "sample_5": {
+        "expected": "(0, 'xxxxxxxxxxxxxxxxxx')",
+        "answer": "2, 'axuxexxtxxxxx'",
+        "time": 414.412,
+        "tokens": 261,
+        "toks/sec": 629.8080171423608
+    },
+    "sample_64": {
+        "expected": "'     7     '",
+        "answer": "\"  7  \"",
+        "time": 254.457,
+        "tokens": 212,
+        "toks/sec": 833.1466613219523
+    },
+    "sample_501": {
+        "expected": "'jqjfj zm'",
+        "answer": "jqpf ijmz",
+        "time": 305.533,
+        "tokens": 233,
+        "toks/sec": 762.6017484199742
+    },
+    "sample_283": {
+        "expected": "'Iron Man'",
+        "answer": "Captain America'. Here's how the function works step by step:\n\n1. It deletes the key `'Iron Man'` from the dictionary. Now the dictionary looks like this: `{'Captain America': 3, 'Black Panther': 0,'Thor': 1, 'Ant-Man': 6}`.\n2. Then it checks if the minimum value in the dictionary is equal to the key `'Iron Man'`, which is not true because there are no more `'Iron Man'` entries and the minimum value is `0` (corresponding to `'Black Panther'`",
+        "time": 4273.578,
+        "tokens": 393,
+        "toks/sec": 91.96041349894631
+    },
+    "sample_429": {
+        "expected": "[(87.29, 3), ('defghi', 2), ('abc', 2), (5, 1)]",
+        "answer": "[(87.29, 3), ('defghi', 2), ('abc', 2), (5, 1)].",
+        "time": 2195.299,
+        "tokens": 296,
+        "toks/sec": 134.83356936799953
+    },
+    "sample_226": {
+        "expected": "[1, 3, 3]",
+        "answer": "[1, 3, 3]. In this code snippet, the function `f` takes a list of numbers as input and iterates through each number in the list. If a number is divisible by 3 (i.e., its remainder when divided by 3 equals zero), it appends that number to the end of the list. For the given input [1, 3], since 3 is divisible by 3, an additional '3' gets appended resulting in the output [1, 3, 3]",
+        "time": 2899.68,
+        "tokens": 313,
+        "toks/sec": 107.94294542846107
+    },
+    "sample_378": {
+        "expected": "'No such key!'",
+        "answer": "0",
+        "time": 212.758,
+        "tokens": 245,
+        "toks/sec": 1151.5430677107324
+    },
+    "sample_477": {
+        "expected": "('', 'xduaisf')",
+        "answer": "'', 'xpaisf'",
+        "time": 292.796,
+        "tokens": 205,
+        "toks/sec": 700.1461768603397
+    },
+    "sample_511": {
+        "expected": "{'ct': '', 'c': '', 'ca': 'cx'}",
+        "answer": "`{'ct': '', 'c': '', 'ca': 'cx'}`. This function creates a dictionary with keys from the given tuple and empty string values. Then, it updates this dictionary using the provided update_dict. In this case, only the key-value pair ('ca', 'cx') from the update_dict is added to the resulting dictionary because that's the only one present in the input",
+        "time": 2182.215,
+        "tokens": 280,
+        "toks/sec": 128.30999695263756
+    },
+    "sample_421": {
+        "expected": "'try.'",
+        "answer": "would be \"try.\"",
+        "time": 3508.304,
+        "tokens": 324,
+        "toks/sec": 92.35231610487574
+    },
+    "sample_304": {
+        "expected": "{87: 7, 18: 6}",
+        "answer": "{18: 6, 2: 3}",
+        "time": 491.498,
+        "tokens": 293,
+        "toks/sec": 596.1367085929139
+    }
+}

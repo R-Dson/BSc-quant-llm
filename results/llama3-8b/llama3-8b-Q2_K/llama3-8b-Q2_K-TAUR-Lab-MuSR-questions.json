@@ -1,0 +1,5294 @@
+{
+    "394": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1293.642,
+        "tokens": 2235,
+        "toks/sec": 1727.6804556438333
+    },
+    "448": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1213.784,
+        "tokens": 2235,
+        "toks/sec": 1841.3490373905076
+    },
+    "379": {
+        "expected": "B",
+        "answer": "C",
+        "time": 675.967,
+        "tokens": 2269,
+        "toks/sec": 3356.6727369827227
+    },
+    "638": {
+        "expected": "C",
+        "answer": "A",
+        "time": 842.267,
+        "tokens": 1597,
+        "toks/sec": 1896.0733354150168
+    },
+    "38": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1181.545,
+        "tokens": 2166,
+        "toks/sec": 1833.1929803773871
+    },
+    "111": {
+        "expected": "B",
+        "answer": "A",
+        "time": 4497.958,
+        "tokens": 2380,
+        "toks/sec": 529.128995868792
+    },
+    "94": {
+        "expected": "A",
+        "answer": "B",
+        "time": 766.078,
+        "tokens": 2369,
+        "toks/sec": 3092.3744057393633
+    },
+    "244": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3379.301,
+        "tokens": 2593,
+        "toks/sec": 767.3184484010155
+    },
+    "311": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1150.863,
+        "tokens": 2111,
+        "toks/sec": 1834.2756696496454
+    },
+    "26": {
+        "expected": "A",
+        "answer": "A",
+        "time": 2822.592,
+        "tokens": 2356,
+        "toks/sec": 834.6937850032878
+    },
+    "255": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1189.974,
+        "tokens": 2157,
+        "toks/sec": 1812.6446460174761
+    },
+    "445": {
+        "expected": "D",
+        "answer": "D",
+        "time": 651.147,
+        "tokens": 2211,
+        "toks/sec": 3395.5466277200076
+    },
+    "15": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1355.665,
+        "tokens": 2443,
+        "toks/sec": 1802.0676199503564
+    },
+    "672": {
+        "expected": "A",
+        "answer": "B",
+        "time": 849.179,
+        "tokens": 1597,
+        "toks/sec": 1880.6400064061877
+    },
+    "291": {
+        "expected": "D",
+        "answer": "B",
+        "time": 1128.083,
+        "tokens": 2060,
+        "toks/sec": 1826.106766966615
+    },
+    "502": {
+        "expected": "C",
+        "answer": "C",
+        "time": 784.079,
+        "tokens": 2456,
+        "toks/sec": 3132.3374302844486
+    },
+    "558": {
+        "expected": "A",
+        "answer": "B",
+        "time": 844.873,
+        "tokens": 1598,
+        "toks/sec": 1891.4085312230359
+    },
+    "683": {
+        "expected": "A",
+        "answer": "D",
+        "time": 497.375,
+        "tokens": 1627,
+        "toks/sec": 3271.1736617240513
+    },
+    "179": {
+        "expected": "B",
+        "answer": "",
+        "time": 4424.495,
+        "tokens": 2659,
+        "toks/sec": 600.9725403690139
+    },
+    "655": {
+        "expected": "C",
+        "answer": "A",
+        "time": 842.684,
+        "tokens": 1590,
+        "toks/sec": 1886.8282772664486
+    },
+    "614": {
+        "expected": "C",
+        "answer": "B",
+        "time": 496.061,
+        "tokens": 1622,
+        "toks/sec": 3269.7591626836215
+    },
+    "288": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1293.464,
+        "tokens": 2336,
+        "toks/sec": 1806.0031048409544
+    },
+    "414": {
+        "expected": "B",
+        "answer": "A",
+        "time": 733.732,
+        "tokens": 2358,
+        "toks/sec": 3213.707457218712
+    },
+    "573": {
+        "expected": "C",
+        "answer": "B",
+        "time": 849.002,
+        "tokens": 1603,
+        "toks/sec": 1888.0992035354452
+    },
+    "744": {
+        "expected": "C",
+        "answer": "A",
+        "time": 479.71,
+        "tokens": 1585,
+        "toks/sec": 3304.0795480602865
+    },
+    "388": {
+        "expected": "B",
+        "answer": "D",
+        "time": 1276.596,
+        "tokens": 2304,
+        "toks/sec": 1804.7996390400722
+    },
+    "300": {
+        "expected": "C",
+        "answer": "C",
+        "time": 572.179,
+        "tokens": 2097,
+        "toks/sec": 3664.9370214565724
+    },
+    "174": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3746.719,
+        "tokens": 2521,
+        "toks/sec": 672.8553702586182
+    },
+    "691": {
+        "expected": "A",
+        "answer": "B",
+        "time": 827.13,
+        "tokens": 1572,
+        "toks/sec": 1900.547676906895
+    },
+    "451": {
+        "expected": "B",
+        "answer": "C",
+        "time": 1400.176,
+        "tokens": 2511,
+        "toks/sec": 1793.3459793625946
+    },
+    "88": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3330.23,
+        "tokens": 2460,
+        "toks/sec": 738.6877182657054
+    },
+    "270": {
+        "expected": "D",
+        "answer": "A",
+        "time": 1203.546,
+        "tokens": 2178,
+        "toks/sec": 1809.6524769306698
+    },
+    "613": {
+        "expected": "C",
+        "answer": "B",
+        "time": 823.155,
+        "tokens": 1544,
+        "toks/sec": 1875.7099209747862
+    },
+    "488": {
+        "expected": "D",
+        "answer": "B",
+        "time": 1572.229,
+        "tokens": 2763,
+        "toks/sec": 1757.3775830365678
+    },
+    "180": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1506.391,
+        "tokens": 2652,
+        "toks/sec": 1760.4991001672208
+    },
+    "529": {
+        "expected": "C",
+        "answer": "C",
+        "time": 822.933,
+        "tokens": 1535,
+        "toks/sec": 1865.2794334411185
+    },
+    "739": {
+        "expected": "B",
+        "answer": "B",
+        "time": 471.001,
+        "tokens": 1575,
+        "toks/sec": 3343.9419449215607
+    },
+    "531": {
+        "expected": "B",
+        "answer": "B",
+        "time": 444.391,
+        "tokens": 1519,
+        "toks/sec": 3418.1610338643222
+    },
+    "595": {
+        "expected": "C",
+        "answer": "B",
+        "time": 435.1,
+        "tokens": 1503,
+        "toks/sec": 3454.378303838198
+    },
+    "41": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3982.551,
+        "tokens": 2667,
+        "toks/sec": 669.6712735128816
+    },
+    "651": {
+        "expected": "B",
+        "answer": "B",
+        "time": 883.358,
+        "tokens": 1643,
+        "toks/sec": 1859.9480618277075
+    },
+    "571": {
+        "expected": "A",
+        "answer": "B",
+        "time": 481.07,
+        "tokens": 1581,
+        "toks/sec": 3286.4240131373813
+    },
+    "588": {
+        "expected": "B",
+        "answer": "B",
+        "time": 473.699,
+        "tokens": 1573,
+        "toks/sec": 3320.6740989531327
+    },
+    "408": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1243.64,
+        "tokens": 2244,
+        "toks/sec": 1804.3806889453538
+    },
+    "219": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1381.953,
+        "tokens": 2476,
+        "toks/sec": 1791.667299828576
+    },
+    "140": {
+        "expected": "A",
+        "answer": "B",
+        "time": 956.824,
+        "tokens": 2624,
+        "toks/sec": 2742.4061269366152
+    },
+    "390": {
+        "expected": "D",
+        "answer": "C",
+        "time": 1435.406,
+        "tokens": 2527,
+        "toks/sec": 1760.4775234323947
+    },
+    "220": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1527.374,
+        "tokens": 2667,
+        "toks/sec": 1746.1342146717175
+    },
+    "537": {
+        "expected": "A",
+        "answer": "B",
+        "time": 807.724,
+        "tokens": 1526,
+        "toks/sec": 1889.25920240082
+    },
+    "605": {
+        "expected": "A",
+        "answer": "D",
+        "time": 517.863,
+        "tokens": 1661,
+        "toks/sec": 3207.411998926357
+    },
+    "697": {
+        "expected": "B",
+        "answer": "B",
+        "time": 439.606,
+        "tokens": 1516,
+        "toks/sec": 3448.542558563805
+    },
+    "125": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1289.087,
+        "tokens": 2311,
+        "toks/sec": 1792.7416846186486
+    },
+    "464": {
+        "expected": "A",
+        "answer": "E",
+        "time": 1306.681,
+        "tokens": 2349,
+        "toks/sec": 1797.6843621358234
+    },
+    "187": {
+        "expected": "B",
+        "answer": "",
+        "time": 3498.55,
+        "tokens": 2641,
+        "toks/sec": 754.8841662974661
+    },
+    "608": {
+        "expected": "C",
+        "answer": "B",
+        "time": 853.231,
+        "tokens": 1587,
+        "toks/sec": 1859.988678329784
+    },
+    "730": {
+        "expected": "C",
+        "answer": "B",
+        "time": 487.834,
+        "tokens": 1594,
+        "toks/sec": 3267.5049299556817
+    },
+    "145": {
+        "expected": "B",
+        "answer": "B",
+        "time": 2950.454,
+        "tokens": 2701,
+        "toks/sec": 915.4523337764289
+    },
+    "563": {
+        "expected": "B",
+        "answer": "C",
+        "time": 907.981,
+        "tokens": 1700,
+        "toks/sec": 1872.285873823351
+    },
+    "383": {
+        "expected": "B",
+        "answer": "",
+        "time": 1634.042,
+        "tokens": 2303,
+        "toks/sec": 1409.3884979700645
+    },
+    "153": {
+        "expected": "B",
+        "answer": "",
+        "time": 2624.442,
+        "tokens": 2343,
+        "toks/sec": 892.7612040959564
+    },
+    "190": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1681.22,
+        "tokens": 2497,
+        "toks/sec": 1485.2309632290837
+    },
+    "405": {
+        "expected": "C",
+        "answer": "D",
+        "time": 1238.01,
+        "tokens": 2268,
+        "toks/sec": 1831.9722780914533
+    },
+    "161": {
+        "expected": "B",
+        "answer": "A",
+        "time": 3431.299,
+        "tokens": 2423,
+        "toks/sec": 706.1465643186443
+    },
+    "132": {
+        "expected": "A",
+        "answer": "",
+        "time": 4768.877,
+        "tokens": 2661,
+        "toks/sec": 557.9930033842348
+    },
+    "80": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3786.16,
+        "tokens": 2737,
+        "toks/sec": 722.8960212986245
+    },
+    "424": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1373.221,
+        "tokens": 2494,
+        "toks/sec": 1816.167972962837
+    },
+    "308": {
+        "expected": "D",
+        "answer": "D",
+        "time": 694.895,
+        "tokens": 2281,
+        "toks/sec": 3282.5103073126156
+    },
+    "193": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1370.396,
+        "tokens": 2476,
+        "toks/sec": 1806.7770191973707
+    },
+    "647": {
+        "expected": "C",
+        "answer": "B",
+        "time": 767.181,
+        "tokens": 1477,
+        "toks/sec": 1925.230160809509
+    },
+    "85": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1394.636,
+        "tokens": 2519,
+        "toks/sec": 1806.2060638044622
+    },
+    "359": {
+        "expected": "D",
+        "answer": "",
+        "time": 1241.998,
+        "tokens": 2214,
+        "toks/sec": 1782.6115662022
+    },
+    "68": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1466.858,
+        "tokens": 2604,
+        "toks/sec": 1775.222959550277
+    },
+    "643": {
+        "expected": "B",
+        "answer": "C",
+        "time": 854.81,
+        "tokens": 1626,
+        "toks/sec": 1902.1770919853536
+    },
+    "562": {
+        "expected": "A",
+        "answer": "B",
+        "time": 469.948,
+        "tokens": 1576,
+        "toks/sec": 3353.562521810924
+    },
+    "431": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1320.393,
+        "tokens": 2393,
+        "toks/sec": 1812.3392050700056
+    },
+    "343": {
+        "expected": "C",
+        "answer": "B",
+        "time": 667.257,
+        "tokens": 2255,
+        "toks/sec": 3379.5074461564286
+    },
+    "732": {
+        "expected": "C",
+        "answer": "C",
+        "time": 827.461,
+        "tokens": 1569,
+        "toks/sec": 1896.16187349011
+    },
+    "380": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1241.729,
+        "tokens": 2268,
+        "toks/sec": 1826.4854891848381
+    },
+    "340": {
+        "expected": "A",
+        "answer": "",
+        "time": 1011.43,
+        "tokens": 2266,
+        "toks/sec": 2240.3923158300627
+    },
+    "704": {
+        "expected": "A",
+        "answer": "C",
+        "time": 853.766,
+        "tokens": 1622,
+        "toks/sec": 1899.817982913351
+    },
+    "262": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1491.371,
+        "tokens": 2637,
+        "toks/sec": 1768.1717024134168
+    },
+    "560": {
+        "expected": "C",
+        "answer": "B",
+        "time": 846.98,
+        "tokens": 1586,
+        "toks/sec": 1872.5353609294198
+    },
+    "348": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1313.78,
+        "tokens": 2368,
+        "toks/sec": 1802.4326751815372
+    },
+    "344": {
+        "expected": "A",
+        "answer": "A",
+        "time": 667.483,
+        "tokens": 2253,
+        "toks/sec": 3375.366863275919
+    },
+    "368": {
+        "expected": "A",
+        "answer": "B",
+        "time": 598.051,
+        "tokens": 2141,
+        "toks/sec": 3579.9622440226667
+    },
+    "253": {
+        "expected": "A",
+        "answer": "A",
+        "time": 771.254,
+        "tokens": 2429,
+        "toks/sec": 3149.4164049716437
+    },
+    "365": {
+        "expected": "B",
+        "answer": "B",
+        "time": 603.944,
+        "tokens": 2152,
+        "toks/sec": 3563.244274303578
+    },
+    "713": {
+        "expected": "B",
+        "answer": "A",
+        "time": 854.195,
+        "tokens": 1617,
+        "toks/sec": 1893.010378192333
+    },
+    "624": {
+        "expected": "C",
+        "answer": "B",
+        "time": 466.522,
+        "tokens": 1555,
+        "toks/sec": 3333.1761417467987
+    },
+    "412": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1289.716,
+        "tokens": 2317,
+        "toks/sec": 1796.519543837558
+    },
+    "310": {
+        "expected": "B",
+        "answer": "",
+        "time": 1072.939,
+        "tokens": 2142,
+        "toks/sec": 1996.3856286331281
+    },
+    "682": {
+        "expected": "B",
+        "answer": "A",
+        "time": 803.839,
+        "tokens": 1528,
+        "toks/sec": 1900.8781609252599
+    },
+    "116": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1313.039,
+        "tokens": 2368,
+        "toks/sec": 1803.449859448196
+    },
+    "499": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1306.636,
+        "tokens": 2358,
+        "toks/sec": 1804.6341903942644
+    },
+    "321": {
+        "expected": "C",
+        "answer": "B",
+        "time": 792.161,
+        "tokens": 2455,
+        "toks/sec": 3099.1174773814923
+    },
+    "11": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1555.762,
+        "tokens": 2732,
+        "toks/sec": 1756.0526610111315
+    },
+    "210": {
+        "expected": "A",
+        "answer": "",
+        "time": 4005.55,
+        "tokens": 2557,
+        "toks/sec": 638.3642695759634
+    },
+    "312": {
+        "expected": "D",
+        "answer": "",
+        "time": 1923.057,
+        "tokens": 2161,
+        "toks/sec": 1123.7316418598098
+    },
+    "400": {
+        "expected": "B",
+        "answer": "C",
+        "time": 747.719,
+        "tokens": 2381,
+        "toks/sec": 3184.3513405437066
+    },
+    "580": {
+        "expected": "B",
+        "answer": "B",
+        "time": 876.967,
+        "tokens": 1637,
+        "toks/sec": 1866.66088917827
+    },
+    "443": {
+        "expected": "C",
+        "answer": "",
+        "time": 2046.836,
+        "tokens": 2262,
+        "toks/sec": 1105.1202929790174
+    },
+    "264": {
+        "expected": "D",
+        "answer": "C",
+        "time": 928.972,
+        "tokens": 2637,
+        "toks/sec": 2838.621616152048
+    },
+    "473": {
+        "expected": "E",
+        "answer": "B",
+        "time": 693.304,
+        "tokens": 2293,
+        "toks/sec": 3307.351464869668
+    },
+    "96": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1397.762,
+        "tokens": 2504,
+        "toks/sec": 1791.4351656433641
+    },
+    "662": {
+        "expected": "A",
+        "answer": "B",
+        "time": 880.709,
+        "tokens": 1648,
+        "toks/sec": 1871.2196650653054
+    },
+    "561": {
+        "expected": "A",
+        "answer": "A",
+        "time": 480.302,
+        "tokens": 1600,
+        "toks/sec": 3331.237429783761
+    },
+    "39": {
+        "expected": "B",
+        "answer": "",
+        "time": 3238.827,
+        "tokens": 2434,
+        "toks/sec": 751.506641138906
+    },
+    "478": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1271.369,
+        "tokens": 2294,
+        "toks/sec": 1804.3542040115813
+    },
+    "113": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4965.267,
+        "tokens": 2637,
+        "toks/sec": 531.0892646860683
+    },
+    "495": {
+        "expected": "C",
+        "answer": "",
+        "time": 1714.301,
+        "tokens": 2240,
+        "toks/sec": 1306.6550156594437
+    },
+    "128": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1213.328,
+        "tokens": 2203,
+        "toks/sec": 1815.6673216146005
+    },
+    "92": {
+        "expected": "A",
+        "answer": "A",
+        "time": 820.89,
+        "tokens": 2459,
+        "toks/sec": 2995.5292426512688
+    },
+    "627": {
+        "expected": "B",
+        "answer": "B",
+        "time": 764.503,
+        "tokens": 1471,
+        "toks/sec": 1924.1258700096664
+    },
+    "234": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4339.947,
+        "tokens": 2449,
+        "toks/sec": 564.29260541661
+    },
+    "47": {
+        "expected": "B",
+        "answer": "B",
+        "time": 895.794,
+        "tokens": 2549,
+        "toks/sec": 2845.520287030277
+    },
+    "150": {
+        "expected": "A",
+        "answer": "B",
+        "time": 739.948,
+        "tokens": 2311,
+        "toks/sec": 3123.1924405498767
+    },
+    "53": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3600.479,
+        "tokens": 2618,
+        "toks/sec": 727.1254741383021
+    },
+    "160": {
+        "expected": "A",
+        "answer": "B",
+        "time": 660.984,
+        "tokens": 2177,
+        "toks/sec": 3293.5744284279194
+    },
+    "51": {
+        "expected": "B",
+        "answer": "B",
+        "time": 838.816,
+        "tokens": 2485,
+        "toks/sec": 2962.509060389883
+    },
+    "564": {
+        "expected": "A",
+        "answer": "B",
+        "time": 882.274,
+        "tokens": 1648,
+        "toks/sec": 1867.9004481600955
+    },
+    "372": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1231.561,
+        "tokens": 2218,
+        "toks/sec": 1800.9664157926404
+    },
+    "81": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1305.442,
+        "tokens": 2352,
+        "toks/sec": 1801.6886234700585
+    },
+    "154": {
+        "expected": "A",
+        "answer": "B",
+        "time": 840.294,
+        "tokens": 2483,
+        "toks/sec": 2954.9181595965224
+    },
+    "27": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1857.441,
+        "tokens": 2547,
+        "toks/sec": 1371.2414014765475
+    },
+    "286": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1297.763,
+        "tokens": 2338,
+        "toks/sec": 1801.561610247788
+    },
+    "419": {
+        "expected": "A",
+        "answer": "D",
+        "time": 778.873,
+        "tokens": 2432,
+        "toks/sec": 3122.460272727389
+    },
+    "679": {
+        "expected": "A",
+        "answer": "A",
+        "time": 847.845,
+        "tokens": 1600,
+        "toks/sec": 1887.1373894992598
+    },
+    "485": {
+        "expected": "D",
+        "answer": "B",
+        "time": 1236.76,
+        "tokens": 2222,
+        "toks/sec": 1796.6299039425596
+    },
+    "569": {
+        "expected": "C",
+        "answer": "B",
+        "time": 888.215,
+        "tokens": 1676,
+        "toks/sec": 1886.9305292074553
+    },
+    "430": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1322.227,
+        "tokens": 2393,
+        "toks/sec": 1809.8253930679073
+    },
+    "71": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1281.841,
+        "tokens": 2311,
+        "toks/sec": 1802.8757076735728
+    },
+    "684": {
+        "expected": "C",
+        "answer": "B",
+        "time": 830.94,
+        "tokens": 1577,
+        "toks/sec": 1897.850627000746
+    },
+    "514": {
+        "expected": "B",
+        "answer": "B",
+        "time": 494.629,
+        "tokens": 1614,
+        "toks/sec": 3263.051701376183
+    },
+    "512": {
+        "expected": "A",
+        "answer": "B",
+        "time": 435.468,
+        "tokens": 1502,
+        "toks/sec": 3449.1627398568894
+    },
+    "716": {
+        "expected": "B",
+        "answer": "C",
+        "time": 499.265,
+        "tokens": 1639,
+        "toks/sec": 3282.8257538581715
+    },
+    "740": {
+        "expected": "B",
+        "answer": "B",
+        "time": 432.449,
+        "tokens": 1500,
+        "toks/sec": 3468.6171086070262
+    },
+    "70": {
+        "expected": "A",
+        "answer": "",
+        "time": 3473.347,
+        "tokens": 2502,
+        "toks/sec": 720.3426550816835
+    },
+    "104": {
+        "expected": "A",
+        "answer": "B",
+        "time": 757.864,
+        "tokens": 2343,
+        "toks/sec": 3091.5837142284104
+    },
+    "114": {
+        "expected": "A",
+        "answer": "B",
+        "time": 801.547,
+        "tokens": 2408,
+        "toks/sec": 3004.1906463376445
+    },
+    "122": {
+        "expected": "A",
+        "answer": "A",
+        "time": 858.75,
+        "tokens": 2525,
+        "toks/sec": 2940.320232896652
+    },
+    "748": {
+        "expected": "C",
+        "answer": "B",
+        "time": 853.259,
+        "tokens": 1609,
+        "toks/sec": 1885.7111381186721
+    },
+    "7": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1204.999,
+        "tokens": 2179,
+        "toks/sec": 1808.3002558508347
+    },
+    "680": {
+        "expected": "A",
+        "answer": "B",
+        "time": 855.145,
+        "tokens": 1618,
+        "toks/sec": 1892.0767823000779
+    },
+    "453": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1395.057,
+        "tokens": 2513,
+        "toks/sec": 1801.3600877956958
+    },
+    "617": {
+        "expected": "A",
+        "answer": "B",
+        "time": 825.639,
+        "tokens": 1554,
+        "toks/sec": 1882.1785308106812
+    },
+    "707": {
+        "expected": "C",
+        "answer": "B",
+        "time": 445.306,
+        "tokens": 1541,
+        "toks/sec": 3460.5417398373256
+    },
+    "301": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1159.015,
+        "tokens": 2099,
+        "toks/sec": 1811.0205648762094
+    },
+    "515": {
+        "expected": "A",
+        "answer": "A",
+        "time": 919.301,
+        "tokens": 1703,
+        "toks/sec": 1852.4944495872408
+    },
+    "115": {
+        "expected": "B",
+        "answer": "",
+        "time": 3671.49,
+        "tokens": 2461,
+        "toks/sec": 670.300068909353
+    },
+    "135": {
+        "expected": "B",
+        "answer": "B",
+        "time": 851.245,
+        "tokens": 2498,
+        "toks/sec": 2934.5253129240114
+    },
+    "540": {
+        "expected": "A",
+        "answer": "B",
+        "time": 828.64,
+        "tokens": 1559,
+        "toks/sec": 1881.3960223981464
+    },
+    "247": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1501.528,
+        "tokens": 2651,
+        "toks/sec": 1765.534841841111
+    },
+    "407": {
+        "expected": "E",
+        "answer": "D",
+        "time": 1239.252,
+        "tokens": 2244,
+        "toks/sec": 1810.7697223809203
+    },
+    "695": {
+        "expected": "A",
+        "answer": "B",
+        "time": 853.961,
+        "tokens": 1618,
+        "toks/sec": 1894.700109255575
+    },
+    "63": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1345.65,
+        "tokens": 2422,
+        "toks/sec": 1799.8736670010774
+    },
+    "442": {
+        "expected": "D",
+        "answer": "",
+        "time": 1731.054,
+        "tokens": 2243,
+        "toks/sec": 1295.7423627454718
+    },
+    "509": {
+        "expected": "B",
+        "answer": "B",
+        "time": 826.051,
+        "tokens": 1570,
+        "toks/sec": 1900.609042298841
+    },
+    "13": {
+        "expected": "B",
+        "answer": "A",
+        "time": 2604.622,
+        "tokens": 2508,
+        "toks/sec": 962.9036382246637
+    },
+    "402": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1247.801,
+        "tokens": 2268,
+        "toks/sec": 1817.597517552879
+    },
+    "200": {
+        "expected": "A",
+        "answer": "",
+        "time": 4176.813,
+        "tokens": 2473,
+        "toks/sec": 592.0782184885941
+    },
+    "701": {
+        "expected": "B",
+        "answer": "B",
+        "time": 889.118,
+        "tokens": 1671,
+        "toks/sec": 1879.390587076181
+    },
+    "36": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1343.69,
+        "tokens": 2399,
+        "toks/sec": 1785.3820449657287
+    },
+    "57": {
+        "expected": "B",
+        "answer": "B",
+        "time": 806.242,
+        "tokens": 2401,
+        "toks/sec": 2978.014045410683
+    },
+    "181": {
+        "expected": "B",
+        "answer": "A",
+        "time": 5122.727,
+        "tokens": 2545,
+        "toks/sec": 496.8057052425398
+    },
+    "250": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1350.435,
+        "tokens": 2430,
+        "toks/sec": 1799.4201868286887
+    },
+    "688": {
+        "expected": "B",
+        "answer": "B",
+        "time": 856.801,
+        "tokens": 1613,
+        "toks/sec": 1882.5841706533954
+    },
+    "706": {
+        "expected": "B",
+        "answer": "A",
+        "time": 487.734,
+        "tokens": 1609,
+        "toks/sec": 3298.929334432293
+    },
+    "266": {
+        "expected": "A",
+        "answer": "E",
+        "time": 1210.794,
+        "tokens": 2193,
+        "toks/sec": 1811.208182399318
+    },
+    "618": {
+        "expected": "B",
+        "answer": "B",
+        "time": 827.537,
+        "tokens": 1555,
+        "toks/sec": 1879.0700597073
+    },
+    "213": {
+        "expected": "B",
+        "answer": "B",
+        "time": 2518.854,
+        "tokens": 2475,
+        "toks/sec": 982.589701507114
+    },
+    "714": {
+        "expected": "C",
+        "answer": "E",
+        "time": 883.752,
+        "tokens": 1648,
+        "toks/sec": 1864.7765436457287
+    },
+    "158": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1267.712,
+        "tokens": 2271,
+        "toks/sec": 1791.416346930533
+    },
+    "399": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1318.194,
+        "tokens": 2380,
+        "toks/sec": 1805.5005560638267
+    },
+    "254": {
+        "expected": "A",
+        "answer": "D",
+        "time": 607.506,
+        "tokens": 2157,
+        "toks/sec": 3550.582216471936
+    },
+    "239": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4665.733,
+        "tokens": 2487,
+        "toks/sec": 533.0352165458246
+    },
+    "699": {
+        "expected": "B",
+        "answer": "B",
+        "time": 845.994,
+        "tokens": 1583,
+        "toks/sec": 1871.1716631560034
+    },
+    "521": {
+        "expected": "B",
+        "answer": "B",
+        "time": 515.51,
+        "tokens": 1646,
+        "toks/sec": 3192.9545498632424
+    },
+    "522": {
+        "expected": "C",
+        "answer": "B",
+        "time": 504.335,
+        "tokens": 1643,
+        "toks/sec": 3257.755261879505
+    },
+    "271": {
+        "expected": "C",
+        "answer": "A",
+        "time": 1204.653,
+        "tokens": 2178,
+        "toks/sec": 1807.9895206337426
+    },
+    "55": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4032.305,
+        "tokens": 2493,
+        "toks/sec": 618.2568034908074
+    },
+    "367": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1176.81,
+        "tokens": 2141,
+        "toks/sec": 1819.3251247015237
+    },
+    "622": {
+        "expected": "C",
+        "answer": "B",
+        "time": 849.177,
+        "tokens": 1583,
+        "toks/sec": 1864.157884634181
+    },
+    "98": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4247.912,
+        "tokens": 2514,
+        "toks/sec": 591.8201695327022
+    },
+    "206": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2489.433,
+        "tokens": 2480,
+        "toks/sec": 996.2107837407152
+    },
+    "163": {
+        "expected": "B",
+        "answer": "",
+        "time": 2227.129,
+        "tokens": 2515,
+        "toks/sec": 1129.2565450856237
+    },
+    "646": {
+        "expected": "A",
+        "answer": "B",
+        "time": 878.859,
+        "tokens": 1636,
+        "toks/sec": 1861.504518927382
+    },
+    "398": {
+        "expected": "B",
+        "answer": "C",
+        "time": 1325.401,
+        "tokens": 2381,
+        "toks/sec": 1796.4374555323257
+    },
+    "62": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1383.052,
+        "tokens": 2485,
+        "toks/sec": 1796.7509536879309
+    },
+    "202": {
+        "expected": "A",
+        "answer": "A",
+        "time": 789.67,
+        "tokens": 2392,
+        "toks/sec": 3029.113427127788
+    },
+    "274": {
+        "expected": "B",
+        "answer": "",
+        "time": 1352.193,
+        "tokens": 2344,
+        "toks/sec": 1733.4803537660675
+    },
+    "461": {
+        "expected": "C",
+        "answer": "E",
+        "time": 666.396,
+        "tokens": 2245,
+        "toks/sec": 3368.867760310686
+    },
+    "526": {
+        "expected": "C",
+        "answer": "B",
+        "time": 857.08,
+        "tokens": 1616,
+        "toks/sec": 1885.4716012507583
+    },
+    "678": {
+        "expected": "C",
+        "answer": "B",
+        "time": 485.323,
+        "tokens": 1593,
+        "toks/sec": 3282.350104981631
+    },
+    "164": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1403.494,
+        "tokens": 2515,
+        "toks/sec": 1791.9563603406928
+    },
+    "465": {
+        "expected": "E",
+        "answer": "E",
+        "time": 1307.074,
+        "tokens": 2349,
+        "toks/sec": 1797.1438495448613
+    },
+    "591": {
+        "expected": "A",
+        "answer": "C",
+        "time": 862.002,
+        "tokens": 1628,
+        "toks/sec": 1888.6267085227182
+    },
+    "366": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1198.391,
+        "tokens": 2141,
+        "toks/sec": 1786.5621487477792
+    },
+    "77": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4108.253,
+        "tokens": 2869,
+        "toks/sec": 698.350369366249
+    },
+    "12": {
+        "expected": "A",
+        "answer": "A",
+        "time": 898.329,
+        "tokens": 2543,
+        "toks/sec": 2830.8114287749813
+    },
+    "103": {
+        "expected": "B",
+        "answer": "A",
+        "time": 3901.234,
+        "tokens": 2830,
+        "toks/sec": 725.4114980029397
+    },
+    "75": {
+        "expected": "B",
+        "answer": "B",
+        "time": 750.807,
+        "tokens": 2322,
+        "toks/sec": 3092.6722846217467
+    },
+    "413": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1806.768,
+        "tokens": 2349,
+        "toks/sec": 1300.11158045748
+    },
+    "14": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1283.097,
+        "tokens": 2296,
+        "toks/sec": 1789.4204413228306
+    },
+    "333": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1324.288,
+        "tokens": 2398,
+        "toks/sec": 1810.7843611057413
+    },
+    "582": {
+        "expected": "B",
+        "answer": "A",
+        "time": 891.09,
+        "tokens": 1659,
+        "toks/sec": 1861.7648049018617
+    },
+    "623": {
+        "expected": "C",
+        "answer": "B",
+        "time": 485.635,
+        "tokens": 1611,
+        "toks/sec": 3317.306207336786
+    },
+    "149": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1472.147,
+        "tokens": 2588,
+        "toks/sec": 1757.9766151070512
+    },
+    "54": {
+        "expected": "A",
+        "answer": "A",
+        "time": 826.299,
+        "tokens": 2462,
+        "toks/sec": 2979.550985781176
+    },
+    "171": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4251.328,
+        "tokens": 2957,
+        "toks/sec": 695.5473677871948
+    },
+    "410": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1794.415,
+        "tokens": 2348,
+        "toks/sec": 1308.50444295216
+    },
+    "568": {
+        "expected": "C",
+        "answer": "B",
+        "time": 893.743,
+        "tokens": 1684,
+        "toks/sec": 1884.210561649154
+    },
+    "272": {
+        "expected": "D",
+        "answer": "A",
+        "time": 1210.664,
+        "tokens": 2178,
+        "toks/sec": 1799.012773155888
+    },
+    "698": {
+        "expected": "A",
+        "answer": "B",
+        "time": 831.781,
+        "tokens": 1580,
+        "toks/sec": 1899.538460243742
+    },
+    "491": {
+        "expected": "C",
+        "answer": "A",
+        "time": 1293.349,
+        "tokens": 2317,
+        "toks/sec": 1791.4731445263421
+    },
+    "702": {
+        "expected": "C",
+        "answer": "B",
+        "time": 803.278,
+        "tokens": 1503,
+        "toks/sec": 1871.0832364386924
+    },
+    "377": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1325.669,
+        "tokens": 2391,
+        "toks/sec": 1803.6176451286103
+    },
+    "296": {
+        "expected": "B",
+        "answer": "C",
+        "time": 784.194,
+        "tokens": 2436,
+        "toks/sec": 3106.3741880198013
+    },
+    "601": {
+        "expected": "C",
+        "answer": "B",
+        "time": 859.957,
+        "tokens": 1622,
+        "toks/sec": 1886.1408186688404
+    },
+    "606": {
+        "expected": "A",
+        "answer": "A",
+        "time": 547.935,
+        "tokens": 1699,
+        "toks/sec": 3100.7327511474905
+    },
+    "725": {
+        "expected": "B",
+        "answer": "B",
+        "time": 470.551,
+        "tokens": 1552,
+        "toks/sec": 3298.260974899639
+    },
+    "110": {
+        "expected": "A",
+        "answer": "",
+        "time": 4275.764,
+        "tokens": 2405,
+        "toks/sec": 562.4725780000954
+    },
+    "217": {
+        "expected": "B",
+        "answer": "B",
+        "time": 842.261,
+        "tokens": 2483,
+        "toks/sec": 2948.0173010503872
+    },
+    "148": {
+        "expected": "A",
+        "answer": "A",
+        "time": 922.112,
+        "tokens": 2570,
+        "toks/sec": 2787.0800943920044
+    },
+    "506": {
+        "expected": "B",
+        "answer": "B",
+        "time": 829.542,
+        "tokens": 1580,
+        "toks/sec": 1904.6654660041324
+    },
+    "235": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1405.99,
+        "tokens": 2522,
+        "toks/sec": 1793.7538673817025
+    },
+    "452": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1401.132,
+        "tokens": 2512,
+        "toks/sec": 1792.8360782567238
+    },
+    "318": {
+        "expected": "C",
+        "answer": "B",
+        "time": 792.105,
+        "tokens": 2454,
+        "toks/sec": 3098.0741189615014
+    },
+    "466": {
+        "expected": "C",
+        "answer": "B",
+        "time": 673.115,
+        "tokens": 2270,
+        "toks/sec": 3372.3806481804745
+    },
+    "728": {
+        "expected": "A",
+        "answer": "B",
+        "time": 921.398,
+        "tokens": 1699,
+        "toks/sec": 1843.937147682109
+    },
+    "74": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1437.852,
+        "tokens": 2531,
+        "toks/sec": 1760.2646169424947
+    },
+    "673": {
+        "expected": "A",
+        "answer": "B",
+        "time": 851.245,
+        "tokens": 1587,
+        "toks/sec": 1864.3281311490816
+    },
+    "20": {
+        "expected": "A",
+        "answer": "A",
+        "time": 3748.558,
+        "tokens": 2496,
+        "toks/sec": 665.8560438440595
+    },
+    "681": {
+        "expected": "C",
+        "answer": "B",
+        "time": 850.678,
+        "tokens": 1591,
+        "toks/sec": 1870.2728882138717
+    },
+    "434": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1209.952,
+        "tokens": 2188,
+        "toks/sec": 1808.3361984607654
+    },
+    "525": {
+        "expected": "B",
+        "answer": "B",
+        "time": 896.562,
+        "tokens": 1688,
+        "toks/sec": 1882.7476515846088
+    },
+    "710": {
+        "expected": "B",
+        "answer": "B",
+        "time": 466.456,
+        "tokens": 1559,
+        "toks/sec": 3342.223060695971
+    },
+    "504": {
+        "expected": "C",
+        "answer": "A",
+        "time": 1368.404,
+        "tokens": 2454,
+        "toks/sec": 1793.3300399589596
+    },
+    "615": {
+        "expected": "B",
+        "answer": "A",
+        "time": 852.51,
+        "tokens": 1590,
+        "toks/sec": 1865.080761515994
+    },
+    "720": {
+        "expected": "C",
+        "answer": "B",
+        "time": 440.326,
+        "tokens": 1514,
+        "toks/sec": 3438.3615775584453
+    },
+    "487": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1575.844,
+        "tokens": 2764,
+        "toks/sec": 1753.9807239802924
+    },
+    "554": {
+        "expected": "C",
+        "answer": "B",
+        "time": 832.849,
+        "tokens": 1574,
+        "toks/sec": 1889.8984089552846
+    },
+    "729": {
+        "expected": "B",
+        "answer": "B",
+        "time": 445.498,
+        "tokens": 1524,
+        "toks/sec": 3420.8907784097796
+    },
+    "532": {
+        "expected": "A",
+        "answer": "B",
+        "time": 469.339,
+        "tokens": 1563,
+        "toks/sec": 3330.2154732506783
+    },
+    "346": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1321.517,
+        "tokens": 2368,
+        "toks/sec": 1791.8800893215903
+    },
+    "147": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1397.626,
+        "tokens": 2497,
+        "toks/sec": 1786.6009933988064
+    },
+    "523": {
+        "expected": "C",
+        "answer": "B",
+        "time": 806.924,
+        "tokens": 1524,
+        "toks/sec": 1888.653702207395
+    },
+    "604": {
+        "expected": "C",
+        "answer": "B",
+        "time": 442.563,
+        "tokens": 1521,
+        "toks/sec": 3436.798828641346
+    },
+    "188": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4274.785,
+        "tokens": 2650,
+        "toks/sec": 619.9142179080352
+    },
+    "616": {
+        "expected": "C",
+        "answer": "B",
+        "time": 806.83,
+        "tokens": 1531,
+        "toks/sec": 1897.549669694979
+    },
+    "544": {
+        "expected": "A",
+        "answer": "A",
+        "time": 452.578,
+        "tokens": 1543,
+        "toks/sec": 3409.3570611032796
+    },
+    "694": {
+        "expected": "C",
+        "answer": "B",
+        "time": 486.877,
+        "tokens": 1608,
+        "toks/sec": 3302.682196940911
+    },
+    "722": {
+        "expected": "C",
+        "answer": "B",
+        "time": 473.349,
+        "tokens": 1564,
+        "toks/sec": 3304.1159905270742
+    },
+    "106": {
+        "expected": "A",
+        "answer": "A",
+        "time": 3984.8,
+        "tokens": 2506,
+        "toks/sec": 628.8897811684401
+    },
+    "23": {
+        "expected": "B",
+        "answer": "",
+        "time": 2070.953,
+        "tokens": 2573,
+        "toks/sec": 1242.423174258421
+    },
+    "640": {
+        "expected": "B",
+        "answer": "B",
+        "time": 806.286,
+        "tokens": 1515,
+        "toks/sec": 1878.9858685379631
+    },
+    "19": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1321.4,
+        "tokens": 2371,
+        "toks/sec": 1794.3090661419706
+    },
+    "463": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1303.537,
+        "tokens": 2346,
+        "toks/sec": 1799.7187651750583
+    },
+    "493": {
+        "expected": "C",
+        "answer": "A",
+        "time": 711.033,
+        "tokens": 2317,
+        "toks/sec": 3258.6391911486526
+    },
+    "322": {
+        "expected": "C",
+        "answer": "D",
+        "time": 905.789,
+        "tokens": 2607,
+        "toks/sec": 2878.1537422070705
+    },
+    "633": {
+        "expected": "A",
+        "answer": "B",
+        "time": 831.229,
+        "tokens": 1573,
+        "toks/sec": 1892.3786345279098
+    },
+    "3": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1461.849,
+        "tokens": 2559,
+        "toks/sec": 1750.5227968141717
+    },
+    "518": {
+        "expected": "A",
+        "answer": "B",
+        "time": 852.59,
+        "tokens": 1600,
+        "toks/sec": 1876.6347247797885
+    },
+    "275": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1306.137,
+        "tokens": 2342,
+        "toks/sec": 1793.0737740374861
+    },
+    "747": {
+        "expected": "B",
+        "answer": "B",
+        "time": 835.817,
+        "tokens": 1573,
+        "toks/sec": 1881.9909142790825
+    },
+    "204": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1402.105,
+        "tokens": 2507,
+        "toks/sec": 1788.025861115965
+    },
+    "619": {
+        "expected": "B",
+        "answer": "A",
+        "time": 806.555,
+        "tokens": 1506,
+        "toks/sec": 1867.2006248798905
+    },
+    "222": {
+        "expected": "A",
+        "answer": "",
+        "time": 3331.956,
+        "tokens": 2751,
+        "toks/sec": 825.6411549252151
+    },
+    "404": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1252.31,
+        "tokens": 2269,
+        "toks/sec": 1811.8516980619816
+    },
+    "590": {
+        "expected": "A",
+        "answer": "A",
+        "time": 861.848,
+        "tokens": 1625,
+        "toks/sec": 1885.4832870761434
+    },
+    "726": {
+        "expected": "B",
+        "answer": "B",
+        "time": 469.076,
+        "tokens": 1570,
+        "toks/sec": 3347.005602503645
+    },
+    "455": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1306.674,
+        "tokens": 2348,
+        "toks/sec": 1796.9286907063276
+    },
+    "435": {
+        "expected": "A",
+        "answer": "A",
+        "time": 632.858,
+        "tokens": 2188,
+        "toks/sec": 3457.33166049888
+    },
+    "364": {
+        "expected": "A",
+        "answer": "B",
+        "time": 607.371,
+        "tokens": 2152,
+        "toks/sec": 3543.139201575314
+    },
+    "129": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1348.556,
+        "tokens": 2403,
+        "toks/sec": 1781.9059794328155
+    },
+    "165": {
+        "expected": "B",
+        "answer": "A",
+        "time": 4037.022,
+        "tokens": 2493,
+        "toks/sec": 617.534410265785
+    },
+    "108": {
+        "expected": "A",
+        "answer": "B",
+        "time": 843.798,
+        "tokens": 2493,
+        "toks/sec": 2954.4985885247415
+    },
+    "21": {
+        "expected": "B",
+        "answer": "B",
+        "time": 857.855,
+        "tokens": 2508,
+        "toks/sec": 2923.570999761032
+    },
+    "362": {
+        "expected": "D",
+        "answer": "B",
+        "time": 1655.38,
+        "tokens": 2182,
+        "toks/sec": 1318.1263516533968
+    },
+    "28": {
+        "expected": "A",
+        "answer": "",
+        "time": 4180.76,
+        "tokens": 2386,
+        "toks/sec": 570.7096317415971
+    },
+    "666": {
+        "expected": "B",
+        "answer": "B",
+        "time": 829.806,
+        "tokens": 1558,
+        "toks/sec": 1877.5472821358244
+    },
+    "45": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1467.345,
+        "tokens": 2569,
+        "toks/sec": 1750.7811727984897
+    },
+    "658": {
+        "expected": "B",
+        "answer": "B",
+        "time": 829.405,
+        "tokens": 1549,
+        "toks/sec": 1867.6038847125349
+    },
+    "245": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1347.84,
+        "tokens": 2402,
+        "toks/sec": 1782.110636277303
+    },
+    "201": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3569.899,
+        "tokens": 2538,
+        "toks/sec": 710.9444833033092
+    },
+    "609": {
+        "expected": "A",
+        "answer": "B",
+        "time": 771.873,
+        "tokens": 1489,
+        "toks/sec": 1929.0738243208402
+    },
+    "479": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1281.981,
+        "tokens": 2294,
+        "toks/sec": 1789.4180959000173
+    },
+    "66": {
+        "expected": "A",
+        "answer": "",
+        "time": 3485.509,
+        "tokens": 2389,
+        "toks/sec": 685.4092185675033
+    },
+    "345": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1250.757,
+        "tokens": 2255,
+        "toks/sec": 1802.908158819019
+    },
+    "426": {
+        "expected": "B",
+        "answer": "B",
+        "time": 661.557,
+        "tokens": 2221,
+        "toks/sec": 3357.2315008381743
+    },
+    "386": {
+        "expected": "B",
+        "answer": "D",
+        "time": 702.156,
+        "tokens": 2304,
+        "toks/sec": 3281.322099362535
+    },
+    "294": {
+        "expected": "C",
+        "answer": "C",
+        "time": 784.308,
+        "tokens": 2436,
+        "toks/sec": 3105.9226732355146
+    },
+    "670": {
+        "expected": "A",
+        "answer": "B",
+        "time": 855.368,
+        "tokens": 1600,
+        "toks/sec": 1870.5399313511844
+    },
+    "137": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1495.596,
+        "tokens": 2611,
+        "toks/sec": 1745.7923128973332
+    },
+    "130": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4128.663,
+        "tokens": 2589,
+        "toks/sec": 627.0795170252453
+    },
+    "121": {
+        "expected": "B",
+        "answer": "B",
+        "time": 893.412,
+        "tokens": 2532,
+        "toks/sec": 2834.0787900766945
+    },
+    "387": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1287.065,
+        "tokens": 2303,
+        "toks/sec": 1789.342418603567
+    },
+    "641": {
+        "expected": "A",
+        "answer": "B",
+        "time": 834.947,
+        "tokens": 1580,
+        "toks/sec": 1892.3356811869496
+    },
+    "337": {
+        "expected": "C",
+        "answer": "D",
+        "time": 1402.88,
+        "tokens": 2518,
+        "toks/sec": 1794.8791058394158
+    },
+    "637": {
+        "expected": "C",
+        "answer": "A",
+        "time": 859.205,
+        "tokens": 1607,
+        "toks/sec": 1870.333622360205
+    },
+    "592": {
+        "expected": "C",
+        "answer": "B",
+        "time": 434.302,
+        "tokens": 1509,
+        "toks/sec": 3474.540757353178
+    },
+    "656": {
+        "expected": "B",
+        "answer": "B",
+        "time": 476.312,
+        "tokens": 1578,
+        "toks/sec": 3312.954534002922
+    },
+    "139": {
+        "expected": "B",
+        "answer": "B",
+        "time": 2353.457,
+        "tokens": 2387,
+        "toks/sec": 1014.2526504627024
+    },
+    "347": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1318.165,
+        "tokens": 2368,
+        "toks/sec": 1796.4367131580645
+    },
+    "307": {
+        "expected": "B",
+        "answer": "E",
+        "time": 699.289,
+        "tokens": 2280,
+        "toks/sec": 3260.454547404578
+    },
+    "295": {
+        "expected": "D",
+        "answer": "D",
+        "time": 782.664,
+        "tokens": 2435,
+        "toks/sec": 3111.1690329438943
+    },
+    "735": {
+        "expected": "C",
+        "answer": "B",
+        "time": 830.166,
+        "tokens": 1552,
+        "toks/sec": 1869.5056169488992
+    },
+    "719": {
+        "expected": "C",
+        "answer": "B",
+        "time": 435.263,
+        "tokens": 1508,
+        "toks/sec": 3464.571994403384
+    },
+    "565": {
+        "expected": "A",
+        "answer": "A",
+        "time": 553.542,
+        "tokens": 1682,
+        "toks/sec": 3038.613149499044
+    },
+    "742": {
+        "expected": "B",
+        "answer": "B",
+        "time": 502.923,
+        "tokens": 1635,
+        "toks/sec": 3250.9946850710744
+    },
+    "29": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1355.015,
+        "tokens": 2415,
+        "toks/sec": 1782.2680929731405
+    },
+    "520": {
+        "expected": "C",
+        "answer": "B",
+        "time": 828.459,
+        "tokens": 1548,
+        "toks/sec": 1868.529402179227
+    },
+    "167": {
+        "expected": "B",
+        "answer": "A",
+        "time": 4396.221,
+        "tokens": 2461,
+        "toks/sec": 559.7989727995931
+    },
+    "660": {
+        "expected": "B",
+        "answer": "B",
+        "time": 775.009,
+        "tokens": 1492,
+        "toks/sec": 1925.1389338704453
+    },
+    "0": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1404.012,
+        "tokens": 2498,
+        "toks/sec": 1779.187072475164
+    },
+    "676": {
+        "expected": "B",
+        "answer": "A",
+        "time": 811.062,
+        "tokens": 1522,
+        "toks/sec": 1876.5519775306943
+    },
+    "490": {
+        "expected": "E",
+        "answer": "A",
+        "time": 1295.593,
+        "tokens": 2318,
+        "toks/sec": 1789.1421148462518
+    },
+    "330": {
+        "expected": "A",
+        "answer": "A",
+        "time": 760.992,
+        "tokens": 2397,
+        "toks/sec": 3149.8360035322316
+    },
+    "48": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4193.362,
+        "tokens": 2595,
+        "toks/sec": 618.8351971520704
+    },
+    "354": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1436.923,
+        "tokens": 2542,
+        "toks/sec": 1769.0579105491386
+    },
+    "319": {
+        "expected": "A",
+        "answer": "B",
+        "time": 792.55,
+        "tokens": 2455,
+        "toks/sec": 3097.596366159864
+    },
+    "326": {
+        "expected": "A",
+        "answer": "B",
+        "time": 746.719,
+        "tokens": 2372,
+        "toks/sec": 3176.563071249024
+    },
+    "734": {
+        "expected": "B",
+        "answer": "A",
+        "time": 807.594,
+        "tokens": 1521,
+        "toks/sec": 1883.372090431578
+    },
+    "578": {
+        "expected": "B",
+        "answer": "B",
+        "time": 472.065,
+        "tokens": 1580,
+        "toks/sec": 3346.9967059621026
+    },
+    "494": {
+        "expected": "B",
+        "answer": "",
+        "time": 2195.605,
+        "tokens": 2270,
+        "toks/sec": 1033.8835992812915
+    },
+    "376": {
+        "expected": "B",
+        "answer": "D",
+        "time": 759.767,
+        "tokens": 2391,
+        "toks/sec": 3147.01744087332
+    },
+    "251": {
+        "expected": "A",
+        "answer": "B",
+        "time": 774.819,
+        "tokens": 2429,
+        "toks/sec": 3134.9257052292214
+    },
+    "357": {
+        "expected": "D",
+        "answer": "B",
+        "time": 846.751,
+        "tokens": 2542,
+        "toks/sec": 3002.0631803210154
+    },
+    "433": {
+        "expected": "C",
+        "answer": "B",
+        "time": 760.356,
+        "tokens": 2393,
+        "toks/sec": 3147.209991109428
+    },
+    "282": {
+        "expected": "C",
+        "answer": "C",
+        "time": 669.408,
+        "tokens": 2250,
+        "toks/sec": 3361.1788326401834
+    },
+    "243": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4654.74,
+        "tokens": 2652,
+        "toks/sec": 569.7418115727195
+    },
+    "733": {
+        "expected": "C",
+        "answer": "B",
+        "time": 804.585,
+        "tokens": 1505,
+        "toks/sec": 1870.5295276446864
+    },
+    "437": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1730.112,
+        "tokens": 2221,
+        "toks/sec": 1283.7319202456256
+    },
+    "671": {
+        "expected": "A",
+        "answer": "B",
+        "time": 862.453,
+        "tokens": 1625,
+        "toks/sec": 1884.1606441162592
+    },
+    "427": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1243.947,
+        "tokens": 2221,
+        "toks/sec": 1785.4458429499007
+    },
+    "269": {
+        "expected": "A",
+        "answer": "B",
+        "time": 636.036,
+        "tokens": 2193,
+        "toks/sec": 3447.9180423749604
+    },
+    "211": {
+        "expected": "B",
+        "answer": "A",
+        "time": 3120.719,
+        "tokens": 2544,
+        "toks/sec": 815.1967543377023
+    },
+    "287": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1304.625,
+        "tokens": 2338,
+        "toks/sec": 1792.0858484238765
+    },
+    "328": {
+        "expected": "A",
+        "answer": "B",
+        "time": 745.332,
+        "tokens": 2372,
+        "toks/sec": 3182.474387252929
+    },
+    "109": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1299.333,
+        "tokens": 2324,
+        "toks/sec": 1788.6100022088256
+    },
+    "117": {
+        "expected": "B",
+        "answer": "",
+        "time": 4010.705,
+        "tokens": 2453,
+        "toks/sec": 611.6131702531101
+    },
+    "585": {
+        "expected": "C",
+        "answer": "B",
+        "time": 885.971,
+        "tokens": 1648,
+        "toks/sec": 1860.1060305585622
+    },
+    "634": {
+        "expected": "A",
+        "answer": "B",
+        "time": 471.511,
+        "tokens": 1571,
+        "toks/sec": 3331.8416749556213
+    },
+    "552": {
+        "expected": "B",
+        "answer": "C",
+        "time": 555.839,
+        "tokens": 1690,
+        "toks/sec": 3040.4487630410963
+    },
+    "236": {
+        "expected": "A",
+        "answer": "",
+        "time": 2627.016,
+        "tokens": 2613,
+        "toks/sec": 994.6646689628079
+    },
+    "460": {
+        "expected": "A",
+        "answer": "E",
+        "time": 1247.466,
+        "tokens": 2243,
+        "toks/sec": 1798.0449968175487
+    },
+    "631": {
+        "expected": "A",
+        "answer": "B",
+        "time": 824.654,
+        "tokens": 1541,
+        "toks/sec": 1868.662493603378
+    },
+    "84": {
+        "expected": "A",
+        "answer": "",
+        "time": 3812.989,
+        "tokens": 2642,
+        "toks/sec": 692.894734288507
+    },
+    "221": {
+        "expected": "B",
+        "answer": "A",
+        "time": 754.787,
+        "tokens": 2326,
+        "toks/sec": 3081.664098613251
+    },
+    "203": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3307.687,
+        "tokens": 2610,
+        "toks/sec": 789.0710336256121
+    },
+    "570": {
+        "expected": "C",
+        "answer": "B",
+        "time": 855.957,
+        "tokens": 1597,
+        "toks/sec": 1865.7479289263363
+    },
+    "374": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1335.204,
+        "tokens": 2391,
+        "toks/sec": 1790.737595153999
+    },
+    "566": {
+        "expected": "B",
+        "answer": "B",
+        "time": 831.784,
+        "tokens": 1560,
+        "toks/sec": 1875.4869052542488
+    },
+    "155": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1443.908,
+        "tokens": 2544,
+        "toks/sec": 1761.8851062533072
+    },
+    "745": {
+        "expected": "C",
+        "answer": "B",
+        "time": 810.937,
+        "tokens": 1528,
+        "toks/sec": 1884.2400827684519
+    },
+    "242": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1407.753,
+        "tokens": 2511,
+        "toks/sec": 1783.6935882928326
+    },
+    "543": {
+        "expected": "C",
+        "answer": "B",
+        "time": 889.57,
+        "tokens": 1648,
+        "toks/sec": 1852.5804602223545
+    },
+    "65": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1390.23,
+        "tokens": 2481,
+        "toks/sec": 1784.5967933363545
+    },
+    "396": {
+        "expected": "B",
+        "answer": "",
+        "time": 2653.551,
+        "tokens": 2468,
+        "toks/sec": 930.0744549473517
+    },
+    "198": {
+        "expected": "A",
+        "answer": "A",
+        "time": 4359.056,
+        "tokens": 2521,
+        "toks/sec": 578.3362269261969
+    },
+    "289": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1305.378,
+        "tokens": 2336,
+        "toks/sec": 1789.5199704606637
+    },
+    "584": {
+        "expected": "A",
+        "answer": "B",
+        "time": 886.652,
+        "tokens": 1640,
+        "toks/sec": 1849.6546559416772
+    },
+    "292": {
+        "expected": "B",
+        "answer": "",
+        "time": 1623.079,
+        "tokens": 2091,
+        "toks/sec": 1288.2921903370077
+    },
+    "9": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1286.247,
+        "tokens": 2294,
+        "toks/sec": 1783.4832656558187
+    },
+    "436": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1210.259,
+        "tokens": 2188,
+        "toks/sec": 1807.8774873808002
+    },
+    "169": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1404.313,
+        "tokens": 2513,
+        "toks/sec": 1789.4871015222388
+    },
+    "22": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3853.186,
+        "tokens": 2481,
+        "toks/sec": 643.8827505342332
+    },
+    "136": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1017.491,
+        "tokens": 2456,
+        "toks/sec": 2413.78056415241
+    },
+    "505": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1368.041,
+        "tokens": 2456,
+        "toks/sec": 1795.2678318851556
+    },
+    "61": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3006.647,
+        "tokens": 2450,
+        "toks/sec": 814.8612058548941
+    },
+    "196": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2938.883,
+        "tokens": 2394,
+        "toks/sec": 814.5952050489932
+    },
+    "754": {
+        "expected": "B",
+        "answer": "D",
+        "time": 829.005,
+        "tokens": 1553,
+        "toks/sec": 1873.3300764169094
+    },
+    "497": {
+        "expected": "A",
+        "answer": "",
+        "time": 1258.16,
+        "tokens": 2211,
+        "toks/sec": 1757.3281617600303
+    },
+    "370": {
+        "expected": "A",
+        "answer": "A",
+        "time": 661.68,
+        "tokens": 2218,
+        "toks/sec": 3352.073509853706
+    },
+    "576": {
+        "expected": "B",
+        "answer": "B",
+        "time": 806.866,
+        "tokens": 1519,
+        "toks/sec": 1882.5926485934467
+    },
+    "727": {
+        "expected": "C",
+        "answer": "C",
+        "time": 441.041,
+        "tokens": 1513,
+        "toks/sec": 3430.520065027968
+    },
+    "724": {
+        "expected": "B",
+        "answer": "A",
+        "time": 434.337,
+        "tokens": 1514,
+        "toks/sec": 3485.7725683052563
+    },
+    "546": {
+        "expected": "C",
+        "answer": "A",
+        "time": 478.881,
+        "tokens": 1576,
+        "toks/sec": 3291.00548988162
+    },
+    "309": {
+        "expected": "E",
+        "answer": "E",
+        "time": 1278.318,
+        "tokens": 2280,
+        "toks/sec": 1783.593753666928
+    },
+    "35": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4638.003,
+        "tokens": 2595,
+        "toks/sec": 559.5080468900085
+    },
+    "16": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2655.957,
+        "tokens": 2671,
+        "toks/sec": 1005.6638718172019
+    },
+    "162": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3878.529,
+        "tokens": 2613,
+        "toks/sec": 673.7090273142214
+    },
+    "668": {
+        "expected": "B",
+        "answer": "B",
+        "time": 929.725,
+        "tokens": 1717,
+        "toks/sec": 1846.7826507838338
+    },
+    "107": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1387.061,
+        "tokens": 2492,
+        "toks/sec": 1796.6044752177447
+    },
+    "457": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1309.203,
+        "tokens": 2348,
+        "toks/sec": 1793.4575463087085
+    },
+    "233": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4087.891,
+        "tokens": 2501,
+        "toks/sec": 611.8069195093509
+    },
+    "723": {
+        "expected": "B",
+        "answer": "B",
+        "time": 923.566,
+        "tokens": 1702,
+        "toks/sec": 1842.8569263052125
+    },
+    "34": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3950.79,
+        "tokens": 2311,
+        "toks/sec": 584.9463018788647
+    },
+    "227": {
+        "expected": "B",
+        "answer": "B",
+        "time": 2790.615,
+        "tokens": 2582,
+        "toks/sec": 925.2440770224486
+    },
+    "276": {
+        "expected": "A",
+        "answer": "D",
+        "time": 1304.791,
+        "tokens": 2341,
+        "toks/sec": 1794.1570718988712
+    },
+    "218": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1353.136,
+        "tokens": 2415,
+        "toks/sec": 1784.7429970084308
+    },
+    "10": {
+        "expected": "A",
+        "answer": "B",
+        "time": 807.742,
+        "tokens": 2411,
+        "toks/sec": 2984.8639788447304
+    },
+    "8": {
+        "expected": "A",
+        "answer": "B",
+        "time": 749.118,
+        "tokens": 2313,
+        "toks/sec": 3087.6310541196444
+    },
+    "687": {
+        "expected": "C",
+        "answer": "B",
+        "time": 826.97,
+        "tokens": 1542,
+        "toks/sec": 1864.6383786594436
+    },
+    "406": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1249.633,
+        "tokens": 2245,
+        "toks/sec": 1796.5274604623917
+    },
+    "384": {
+        "expected": "B",
+        "answer": "A",
+        "time": 698.851,
+        "tokens": 2279,
+        "toks/sec": 3261.0670944164062
+    },
+    "72": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4176.956,
+        "tokens": 2563,
+        "toks/sec": 613.604739911074
+    },
+    "644": {
+        "expected": "B",
+        "answer": "B",
+        "time": 856.227,
+        "tokens": 1606,
+        "toks/sec": 1875.6708209388398
+    },
+    "119": {
+        "expected": "B",
+        "answer": "A",
+        "time": 5371.157,
+        "tokens": 2599,
+        "toks/sec": 483.88084727368795
+    },
+    "439": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1162.774,
+        "tokens": 2097,
+        "toks/sec": 1803.445897483088
+    },
+    "49": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4472.388,
+        "tokens": 2646,
+        "toks/sec": 591.6302431721041
+    },
+    "530": {
+        "expected": "A",
+        "answer": "A",
+        "time": 888.867,
+        "tokens": 1653,
+        "toks/sec": 1859.670794393312
+    },
+    "447": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1243.348,
+        "tokens": 2234,
+        "toks/sec": 1796.761646779502
+    },
+    "555": {
+        "expected": "C",
+        "answer": "A",
+        "time": 887.167,
+        "tokens": 1642,
+        "toks/sec": 1850.835299329213
+    },
+    "599": {
+        "expected": "B",
+        "answer": "B",
+        "time": 472.314,
+        "tokens": 1576,
+        "toks/sec": 3336.7632549532723
+    },
+    "611": {
+        "expected": "A",
+        "answer": "B",
+        "time": 433.688,
+        "tokens": 1501,
+        "toks/sec": 3461.013447455314
+    },
+    "131": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1435.255,
+        "tokens": 2527,
+        "toks/sec": 1760.6627393738393
+    },
+    "102": {
+        "expected": "A",
+        "answer": "",
+        "time": 970.571,
+        "tokens": 2486,
+        "toks/sec": 2561.378817211724
+    },
+    "675": {
+        "expected": "C",
+        "answer": "B",
+        "time": 850.082,
+        "tokens": 1582,
+        "toks/sec": 1860.9969391188145
+    },
+    "665": {
+        "expected": "A",
+        "answer": "B",
+        "time": 516.691,
+        "tokens": 1657,
+        "toks/sec": 3206.9457373943033
+    },
+    "175": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1392.207,
+        "tokens": 2492,
+        "toks/sec": 1789.963705109944
+    },
+    "58": {
+        "expected": "A",
+        "answer": "",
+        "time": 3574.206,
+        "tokens": 2692,
+        "toks/sec": 753.1742714325923
+    },
+    "417": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1316.211,
+        "tokens": 2358,
+        "toks/sec": 1791.506073114417
+    },
+    "392": {
+        "expected": "A",
+        "answer": "C",
+        "time": 845.867,
+        "tokens": 2527,
+        "toks/sec": 2987.467296868184
+    },
+    "176": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1474.388,
+        "tokens": 2603,
+        "toks/sec": 1765.478286583993
+    },
+    "323": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1478.719,
+        "tokens": 2605,
+        "toks/sec": 1761.6599232173253
+    },
+    "56": {
+        "expected": "A",
+        "answer": "A",
+        "time": 3882.075,
+        "tokens": 2540,
+        "toks/sec": 654.2892654057431
+    },
+    "225": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3791.073,
+        "tokens": 2610,
+        "toks/sec": 688.4594414299065
+    },
+    "755": {
+        "expected": "C",
+        "answer": "B",
+        "time": 857.598,
+        "tokens": 1610,
+        "toks/sec": 1877.3364676690012
+    },
+    "124": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1286.565,
+        "tokens": 2298,
+        "toks/sec": 1786.1514964265311
+    },
+    "650": {
+        "expected": "A",
+        "answer": "B",
+        "time": 827.567,
+        "tokens": 1543,
+        "toks/sec": 1864.50160530809
+    },
+    "351": {
+        "expected": "A",
+        "answer": "D",
+        "time": 1388.226,
+        "tokens": 2486,
+        "toks/sec": 1790.774700949269
+    },
+    "420": {
+        "expected": "B",
+        "answer": "",
+        "time": 1454.544,
+        "tokens": 2475,
+        "toks/sec": 1701.5642015642015
+    },
+    "503": {
+        "expected": "C",
+        "answer": "C",
+        "time": 792.385,
+        "tokens": 2454,
+        "toks/sec": 3096.9793724010424
+    },
+    "598": {
+        "expected": "C",
+        "answer": "A",
+        "time": 809.545,
+        "tokens": 1521,
+        "toks/sec": 1878.833171719917
+    },
+    "603": {
+        "expected": "A",
+        "answer": "B",
+        "time": 520.88,
+        "tokens": 1670,
+        "toks/sec": 3206.112732299186
+    },
+    "749": {
+        "expected": "B",
+        "answer": "A",
+        "time": 486.342,
+        "tokens": 1592,
+        "toks/sec": 3273.416649189254
+    },
+    "635": {
+        "expected": "B",
+        "answer": "B",
+        "time": 518.414,
+        "tokens": 1652,
+        "toks/sec": 3186.6423360480235
+    },
+    "711": {
+        "expected": "C",
+        "answer": "B",
+        "time": 451.283,
+        "tokens": 1541,
+        "toks/sec": 3414.7087304418733
+    },
+    "636": {
+        "expected": "A",
+        "answer": "B",
+        "time": 448.26,
+        "tokens": 1528,
+        "toks/sec": 3408.736001427743
+    },
+    "741": {
+        "expected": "C",
+        "answer": "A",
+        "time": 435.804,
+        "tokens": 1503,
+        "toks/sec": 3448.798083542143
+    },
+    "550": {
+        "expected": "C",
+        "answer": "B",
+        "time": 470.973,
+        "tokens": 1560,
+        "toks/sec": 3312.291787427305
+    },
+    "86": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3549.778,
+        "tokens": 2403,
+        "toks/sec": 676.9437412705809
+    },
+    "350": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1388.515,
+        "tokens": 2485,
+        "toks/sec": 1789.6817823358047
+    },
+    "40": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3192.109,
+        "tokens": 2522,
+        "toks/sec": 790.0732713074648
+    },
+    "177": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1172.768,
+        "tokens": 2660,
+        "toks/sec": 2268.138284809954
+    },
+    "586": {
+        "expected": "B",
+        "answer": "B",
+        "time": 865.888,
+        "tokens": 1627,
+        "toks/sec": 1878.99589785284
+    },
+    "750": {
+        "expected": "C",
+        "answer": "B",
+        "time": 501.647,
+        "tokens": 1632,
+        "toks/sec": 3253.283683546398
+    },
+    "480": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1287.49,
+        "tokens": 2294,
+        "toks/sec": 1781.7614117391204
+    },
+    "607": {
+        "expected": "C",
+        "answer": "A",
+        "time": 858.065,
+        "tokens": 1612,
+        "toks/sec": 1878.6455571547608
+    },
+    "548": {
+        "expected": "A",
+        "answer": "B",
+        "time": 515.514,
+        "tokens": 1649,
+        "toks/sec": 3198.749209526802
+    },
+    "507": {
+        "expected": "C",
+        "answer": "E",
+        "time": 455.183,
+        "tokens": 1534,
+        "toks/sec": 3370.0731354202594
+    },
+    "170": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3534.416,
+        "tokens": 2431,
+        "toks/sec": 687.8081131366539
+    },
+    "363": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1203.433,
+        "tokens": 2152,
+        "toks/sec": 1788.2175409848326
+    },
+    "652": {
+        "expected": "A",
+        "answer": "A",
+        "time": 893.546,
+        "tokens": 1668,
+        "toks/sec": 1866.719788348893
+    },
+    "228": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4515.856,
+        "tokens": 2477,
+        "toks/sec": 548.5117328807651
+    },
+    "230": {
+        "expected": "A",
+        "answer": "B",
+        "time": 781.283,
+        "tokens": 2377,
+        "toks/sec": 3042.4314876939598
+    },
+    "33": {
+        "expected": "B",
+        "answer": "B",
+        "time": 846.535,
+        "tokens": 2487,
+        "toks/sec": 2937.8584464906944
+    },
+    "403": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1256.787,
+        "tokens": 2269,
+        "toks/sec": 1805.3974141998603
+    },
+    "705": {
+        "expected": "C",
+        "answer": "B",
+        "time": 826.223,
+        "tokens": 1541,
+        "toks/sec": 1865.1138978217746
+    },
+    "248": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1498.501,
+        "tokens": 2621,
+        "toks/sec": 1749.0812485276954
+    },
+    "587": {
+        "expected": "C",
+        "answer": "B",
+        "time": 931.648,
+        "tokens": 1718,
+        "toks/sec": 1844.0441024936456
+    },
+    "653": {
+        "expected": "B",
+        "answer": "B",
+        "time": 504.05,
+        "tokens": 1638,
+        "toks/sec": 3249.6776113480805
+    },
+    "306": {
+        "expected": "D",
+        "answer": "",
+        "time": 1886.036,
+        "tokens": 2319,
+        "toks/sec": 1229.562956380472
+    },
+    "535": {
+        "expected": "A",
+        "answer": "B",
+        "time": 827.543,
+        "tokens": 1548,
+        "toks/sec": 1870.597660786207
+    },
+    "664": {
+        "expected": "B",
+        "answer": "C",
+        "time": 503.164,
+        "tokens": 1624,
+        "toks/sec": 3227.5758997066564
+    },
+    "76": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3320.073,
+        "tokens": 2556,
+        "toks/sec": 769.8625903707539
+    },
+    "43": {
+        "expected": "B",
+        "answer": "B",
+        "time": 825.634,
+        "tokens": 2444,
+        "toks/sec": 2960.149412451522
+    },
+    "305": {
+        "expected": "D",
+        "answer": "A",
+        "time": 1373.433,
+        "tokens": 2443,
+        "toks/sec": 1778.7544059302493
+    },
+    "416": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1442.662,
+        "tokens": 2402,
+        "toks/sec": 1664.9776593547206
+    },
+    "127": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4966.526,
+        "tokens": 2626,
+        "toks/sec": 528.7398072616553
+    },
+    "95": {
+        "expected": "B",
+        "answer": "B",
+        "time": 843.473,
+        "tokens": 2483,
+        "toks/sec": 2943.7812472954083
+    },
+    "534": {
+        "expected": "C",
+        "answer": "B",
+        "time": 894.399,
+        "tokens": 1663,
+        "toks/sec": 1859.3491271792566
+    },
+    "472": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1287.296,
+        "tokens": 2293,
+        "toks/sec": 1781.2531072884558
+    },
+    "703": {
+        "expected": "B",
+        "answer": "B",
+        "time": 852.772,
+        "tokens": 1581,
+        "toks/sec": 1853.9539290689656
+    },
+    "261": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1543.798,
+        "tokens": 2707,
+        "toks/sec": 1753.4677464279653
+    },
+    "620": {
+        "expected": "A",
+        "answer": "A",
+        "time": 899.176,
+        "tokens": 1684,
+        "toks/sec": 1872.8257871651379
+    },
+    "6": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2545.88,
+        "tokens": 2500,
+        "toks/sec": 981.978726412871
+    },
+    "481": {
+        "expected": "B",
+        "answer": "C",
+        "time": 1289.434,
+        "tokens": 2295,
+        "toks/sec": 1779.8506941805474
+    },
+    "667": {
+        "expected": "C",
+        "answer": "B",
+        "time": 852.497,
+        "tokens": 1592,
+        "toks/sec": 1867.4552520419427
+    },
+    "700": {
+        "expected": "B",
+        "answer": "B",
+        "time": 484.31,
+        "tokens": 1589,
+        "toks/sec": 3280.9564122153165
+    },
+    "60": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2514.676,
+        "tokens": 2556,
+        "toks/sec": 1016.4331309480824
+    },
+    "342": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1252.845,
+        "tokens": 2253,
+        "toks/sec": 1798.3070531470373
+    },
+    "290": {
+        "expected": "B",
+        "answer": "C",
+        "time": 537.57,
+        "tokens": 2061,
+        "toks/sec": 3833.919303532563
+    },
+    "393": {
+        "expected": "B",
+        "answer": "C",
+        "time": 846.0,
+        "tokens": 2528,
+        "toks/sec": 2988.179669030733
+    },
+    "265": {
+        "expected": "B",
+        "answer": "B",
+        "time": 935.975,
+        "tokens": 2637,
+        "toks/sec": 2817.382942920484
+    },
+    "677": {
+        "expected": "C",
+        "answer": "B",
+        "time": 778.898,
+        "tokens": 1495,
+        "toks/sec": 1919.378403847487
+    },
+    "524": {
+        "expected": "C",
+        "answer": "B",
+        "time": 518.949,
+        "tokens": 1656,
+        "toks/sec": 3191.065017949741
+    },
+    "299": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1170.132,
+        "tokens": 2099,
+        "toks/sec": 1793.8147149210515
+    },
+    "708": {
+        "expected": "C",
+        "answer": "E",
+        "time": 762.248,
+        "tokens": 1465,
+        "toks/sec": 1921.9466630283057
+    },
+    "42": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3658.603,
+        "tokens": 2554,
+        "toks/sec": 698.0806608424035
+    },
+    "496": {
+        "expected": "B",
+        "answer": "D",
+        "time": 1239.272,
+        "tokens": 2208,
+        "toks/sec": 1781.6911864384897
+    },
+    "302": {
+        "expected": "A",
+        "answer": "A",
+        "time": 788.599,
+        "tokens": 2443,
+        "toks/sec": 3097.8989321569006
+    },
+    "79": {
+        "expected": "B",
+        "answer": "A",
+        "time": 5131.875,
+        "tokens": 2518,
+        "toks/sec": 490.65887224454997
+    },
+    "246": {
+        "expected": "A",
+        "answer": "B",
+        "time": 898.649,
+        "tokens": 2535,
+        "toks/sec": 2820.9011527303765
+    },
+    "395": {
+        "expected": "C",
+        "answer": "",
+        "time": 2770.697,
+        "tokens": 2476,
+        "toks/sec": 893.6379546374071
+    },
+    "172": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1330.148,
+        "tokens": 2369,
+        "toks/sec": 1781.0048205162134
+    },
+    "626": {
+        "expected": "B",
+        "answer": "B",
+        "time": 806.27,
+        "tokens": 1506,
+        "toks/sec": 1867.8606422166272
+    },
+    "91": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4252.73,
+        "tokens": 2488,
+        "toks/sec": 585.0359651329852
+    },
+    "285": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1248.837,
+        "tokens": 2250,
+        "toks/sec": 1801.6762796105497
+    },
+    "205": {
+        "expected": "B",
+        "answer": "",
+        "time": 4832.185,
+        "tokens": 2629,
+        "toks/sec": 544.0602957047381
+    },
+    "194": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3836.91,
+        "tokens": 2621,
+        "toks/sec": 683.1017667862942
+    },
+    "214": {
+        "expected": "A",
+        "answer": "B",
+        "time": 899.035,
+        "tokens": 2536,
+        "toks/sec": 2820.802304693366
+    },
+    "669": {
+        "expected": "C",
+        "answer": "B",
+        "time": 772.585,
+        "tokens": 1472,
+        "toks/sec": 1905.2919743458647
+    },
+    "674": {
+        "expected": "C",
+        "answer": "A",
+        "time": 490.595,
+        "tokens": 1601,
+        "toks/sec": 3263.384257890928
+    },
+    "462": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1312.026,
+        "tokens": 2346,
+        "toks/sec": 1788.074321697893
+    },
+    "82": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1295.506,
+        "tokens": 2313,
+        "toks/sec": 1785.4027692654452
+    },
+    "602": {
+        "expected": "C",
+        "answer": "A",
+        "time": 780.481,
+        "tokens": 1500,
+        "toks/sec": 1921.891756493752
+    },
+    "192": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2526.472,
+        "tokens": 2396,
+        "toks/sec": 948.3580265286929
+    },
+    "411": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1297.838,
+        "tokens": 2317,
+        "toks/sec": 1785.2767448633806
+    },
+    "263": {
+        "expected": "C",
+        "answer": "A",
+        "time": 935.461,
+        "tokens": 2637,
+        "toks/sec": 2818.9309869679228
+    },
+    "277": {
+        "expected": "E",
+        "answer": "C",
+        "time": 752.307,
+        "tokens": 2342,
+        "toks/sec": 3113.090799367811
+    },
+    "645": {
+        "expected": "B",
+        "answer": "A",
+        "time": 925.025,
+        "tokens": 1696,
+        "toks/sec": 1833.4639604335018
+    },
+    "355": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1447.851,
+        "tokens": 2542,
+        "toks/sec": 1755.705524946973
+    },
+    "516": {
+        "expected": "A",
+        "answer": "B",
+        "time": 859.543,
+        "tokens": 1609,
+        "toks/sec": 1871.9249647777947
+    },
+    "467": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1280.869,
+        "tokens": 2272,
+        "toks/sec": 1773.79575897301
+    },
+    "527": {
+        "expected": "A",
+        "answer": "B",
+        "time": 807.559,
+        "tokens": 1508,
+        "toks/sec": 1867.3558216799022
+    },
+    "152": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1358.131,
+        "tokens": 2409,
+        "toks/sec": 1773.7611467524118
+    },
+    "483": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1245.349,
+        "tokens": 2221,
+        "toks/sec": 1783.4358079542362
+    },
+    "574": {
+        "expected": "B",
+        "answer": "B",
+        "time": 778.178,
+        "tokens": 1481,
+        "toks/sec": 1903.1635435594428
+    },
+    "438": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1168.371,
+        "tokens": 2097,
+        "toks/sec": 1794.8066153644688
+    },
+    "259": {
+        "expected": "C",
+        "answer": "C",
+        "time": 970.356,
+        "tokens": 2706,
+        "toks/sec": 2788.6672520188467
+    },
+    "151": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4493.197,
+        "tokens": 2419,
+        "toks/sec": 538.3694505270969
+    },
+    "685": {
+        "expected": "B",
+        "answer": "B",
+        "time": 865.275,
+        "tokens": 1619,
+        "toks/sec": 1871.0814480945364
+    },
+    "743": {
+        "expected": "C",
+        "answer": "B",
+        "time": 428.838,
+        "tokens": 1483,
+        "toks/sec": 3458.1823439154177
+    },
+    "715": {
+        "expected": "A",
+        "answer": "B",
+        "time": 449.574,
+        "tokens": 1542,
+        "toks/sec": 3429.913651590172
+    },
+    "298": {
+        "expected": "D",
+        "answer": "C",
+        "time": 1171.043,
+        "tokens": 2097,
+        "toks/sec": 1790.7113573113884
+    },
+    "133": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1574.243,
+        "tokens": 2724,
+        "toks/sec": 1730.355478792029
+    },
+    "654": {
+        "expected": "C",
+        "answer": "B",
+        "time": 893.684,
+        "tokens": 1667,
+        "toks/sec": 1865.312571333939
+    },
+    "258": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1545.283,
+        "tokens": 2706,
+        "toks/sec": 1751.1355525169176
+    },
+    "471": {
+        "expected": "A",
+        "answer": "D",
+        "time": 701.22,
+        "tokens": 2293,
+        "toks/sec": 3270.0151165112234
+    },
+    "2": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3748.043,
+        "tokens": 2602,
+        "toks/sec": 694.2289616207711
+    },
+    "142": {
+        "expected": "A",
+        "answer": "A",
+        "time": 3854.783,
+        "tokens": 2552,
+        "toks/sec": 662.0346722500333
+    },
+    "536": {
+        "expected": "B",
+        "answer": "B",
+        "time": 835.857,
+        "tokens": 1575,
+        "toks/sec": 1884.2936052458736
+    },
+    "216": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1329.849,
+        "tokens": 2377,
+        "toks/sec": 1787.42097787042
+    },
+    "446": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1244.615,
+        "tokens": 2235,
+        "toks/sec": 1795.7360308207758
+    },
+    "547": {
+        "expected": "C",
+        "answer": "B",
+        "time": 893.323,
+        "tokens": 1662,
+        "toks/sec": 1860.4692815476596
+    },
+    "610": {
+        "expected": "A",
+        "answer": "A",
+        "time": 430.959,
+        "tokens": 1494,
+        "toks/sec": 3466.6870862425426
+    },
+    "469": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1277.275,
+        "tokens": 2272,
+        "toks/sec": 1778.7868704859955
+    },
+    "90": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3513.006,
+        "tokens": 2492,
+        "toks/sec": 709.3640033635013
+    },
+    "541": {
+        "expected": "A",
+        "answer": "B",
+        "time": 860.559,
+        "tokens": 1609,
+        "toks/sec": 1869.7149178615296
+    },
+    "316": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1243.173,
+        "tokens": 2220,
+        "toks/sec": 1785.7530689614398
+    },
+    "268": {
+        "expected": "B",
+        "answer": "B",
+        "time": 636.641,
+        "tokens": 2192,
+        "toks/sec": 3443.070741595342
+    },
+    "659": {
+        "expected": "B",
+        "answer": "B",
+        "time": 882.887,
+        "tokens": 1640,
+        "toks/sec": 1857.5423581953298
+    },
+    "444": {
+        "expected": "A",
+        "answer": "",
+        "time": 1694.526,
+        "tokens": 2239,
+        "toks/sec": 1321.313452847581
+    },
+    "339": {
+        "expected": "D",
+        "answer": "",
+        "time": 1174.764,
+        "tokens": 2276,
+        "toks/sec": 1937.4104075371736
+    },
+    "423": {
+        "expected": "A",
+        "answer": "B",
+        "time": 815.829,
+        "tokens": 2495,
+        "toks/sec": 3058.2389201658684
+    },
+    "17": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1309.429,
+        "tokens": 2346,
+        "toks/sec": 1791.6206224239725
+    },
+    "197": {
+        "expected": "B",
+        "answer": "B",
+        "time": 845.387,
+        "tokens": 2486,
+        "toks/sec": 2940.665044529902
+    },
+    "267": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1213.097,
+        "tokens": 2192,
+        "toks/sec": 1806.9453638085001
+    },
+    "249": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1301.234,
+        "tokens": 2329,
+        "toks/sec": 1789.8394908217892
+    },
+    "593": {
+        "expected": "C",
+        "answer": "B",
+        "time": 853.737,
+        "tokens": 1590,
+        "toks/sec": 1862.4002473829764
+    },
+    "418": {
+        "expected": "E",
+        "answer": "D",
+        "time": 1369.955,
+        "tokens": 2433,
+        "toks/sec": 1775.9707435645698
+    },
+    "689": {
+        "expected": "A",
+        "answer": "B",
+        "time": 835.985,
+        "tokens": 1574,
+        "toks/sec": 1882.8089020736018
+    },
+    "449": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1247.409,
+        "tokens": 2234,
+        "toks/sec": 1790.9122028139927
+    },
+    "583": {
+        "expected": "C",
+        "answer": "B",
+        "time": 809.72,
+        "tokens": 1528,
+        "toks/sec": 1887.0720742972878
+    },
+    "621": {
+        "expected": "C",
+        "answer": "A",
+        "time": 486.934,
+        "tokens": 1599,
+        "toks/sec": 3283.8125906180303
+    },
+    "338": {
+        "expected": "B",
+        "answer": "",
+        "time": 1628.202,
+        "tokens": 2268,
+        "toks/sec": 1392.9475581039699
+    },
+    "751": {
+        "expected": "B",
+        "answer": "B",
+        "time": 809.77,
+        "tokens": 1532,
+        "toks/sec": 1891.895229509614
+    },
+    "143": {
+        "expected": "B",
+        "answer": "",
+        "time": 4450.061,
+        "tokens": 2547,
+        "toks/sec": 572.3517048417989
+    },
+    "572": {
+        "expected": "A",
+        "answer": "A",
+        "time": 860.83,
+        "tokens": 1611,
+        "toks/sec": 1871.4496474332911
+    },
+    "353": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1393.773,
+        "tokens": 2485,
+        "toks/sec": 1782.9302189093921
+    },
+    "329": {
+        "expected": "C",
+        "answer": "A",
+        "time": 750.313,
+        "tokens": 2372,
+        "toks/sec": 3161.3473310471763
+    },
+    "475": {
+        "expected": "D",
+        "answer": "A",
+        "time": 628.456,
+        "tokens": 2173,
+        "toks/sec": 3457.6804104026373
+    },
+    "50": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4914.165,
+        "tokens": 2649,
+        "toks/sec": 539.0539389703032
+    },
+    "93": {
+        "expected": "B",
+        "answer": "B",
+        "time": 2390.155,
+        "tokens": 2530,
+        "toks/sec": 1058.5087578002262
+    },
+    "642": {
+        "expected": "A",
+        "answer": "B",
+        "time": 857.374,
+        "tokens": 1609,
+        "toks/sec": 1876.6605938598557
+    },
+    "280": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1207.175,
+        "tokens": 2153,
+        "toks/sec": 1783.5028061382982
+    },
+    "186": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1318.792,
+        "tokens": 2362,
+        "toks/sec": 1791.033005963033
+    },
+    "551": {
+        "expected": "B",
+        "answer": "B",
+        "time": 898.632,
+        "tokens": 1684,
+        "toks/sec": 1873.9595295960974
+    },
+    "313": {
+        "expected": "A",
+        "answer": "",
+        "time": 1734.991,
+        "tokens": 2148,
+        "toks/sec": 1238.0467679659434
+    },
+    "67": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4114.059,
+        "tokens": 2620,
+        "toks/sec": 636.8406481287701
+    },
+    "208": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3679.012,
+        "tokens": 2416,
+        "toks/sec": 656.6980482803535
+    },
+    "87": {
+        "expected": "B",
+        "answer": "B",
+        "time": 897.377,
+        "tokens": 2530,
+        "toks/sec": 2819.327885604378
+    },
+    "30": {
+        "expected": "A",
+        "answer": "A",
+        "time": 956.764,
+        "tokens": 2622,
+        "toks/sec": 2740.487727381047
+    },
+    "118": {
+        "expected": "A",
+        "answer": "A",
+        "time": 988.586,
+        "tokens": 2668,
+        "toks/sec": 2698.804150574659
+    },
+    "458": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1247.661,
+        "tokens": 2243,
+        "toks/sec": 1797.7639759518008
+    },
+    "303": {
+        "expected": "C",
+        "answer": "C",
+        "time": 788.447,
+        "tokens": 2443,
+        "toks/sec": 3098.4961576364676
+    },
+    "459": {
+        "expected": "C",
+        "answer": "C",
+        "time": 667.595,
+        "tokens": 2245,
+        "toks/sec": 3362.8172769418584
+    },
+    "324": {
+        "expected": "C",
+        "answer": "D",
+        "time": 907.345,
+        "tokens": 2605,
+        "toks/sec": 2871.01378196827
+    },
+    "482": {
+        "expected": "D",
+        "answer": "B",
+        "time": 660.658,
+        "tokens": 2222,
+        "toks/sec": 3363.313544980913
+    },
+    "73": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1502.872,
+        "tokens": 2383,
+        "toks/sec": 1585.6307123959991
+    },
+    "731": {
+        "expected": "A",
+        "answer": "B",
+        "time": 892.446,
+        "tokens": 1666,
+        "toks/sec": 1866.7796146769665
+    },
+    "358": {
+        "expected": "C",
+        "answer": "D",
+        "time": 1240.093,
+        "tokens": 2213,
+        "toks/sec": 1784.5435785864447
+    },
+    "31": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1444.025,
+        "tokens": 2547,
+        "toks/sec": 1763.819878464708
+    },
+    "256": {
+        "expected": "D",
+        "answer": "",
+        "time": 1756.833,
+        "tokens": 2192,
+        "toks/sec": 1247.6996959870403
+    },
+    "432": {
+        "expected": "A",
+        "answer": "C",
+        "time": 763.06,
+        "tokens": 2393,
+        "toks/sec": 3136.05745288706
+    },
+    "59": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1319.07,
+        "tokens": 2364,
+        "toks/sec": 1792.1717573745138
+    },
+    "52": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2357.531,
+        "tokens": 2531,
+        "toks/sec": 1073.58079278703
+    },
+    "577": {
+        "expected": "B",
+        "answer": "B",
+        "time": 893.989,
+        "tokens": 1663,
+        "toks/sec": 1860.2018593069936
+    },
+    "545": {
+        "expected": "B",
+        "answer": "C",
+        "time": 427.161,
+        "tokens": 1483,
+        "toks/sec": 3471.7588918464
+    },
+    "470": {
+        "expected": "E",
+        "answer": "B",
+        "time": 1282.787,
+        "tokens": 2293,
+        "toks/sec": 1787.5142170913798
+    },
+    "141": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1439.396,
+        "tokens": 2527,
+        "toks/sec": 1755.597486723598
+    },
+    "389": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1291.051,
+        "tokens": 2303,
+        "toks/sec": 1783.8179901491112
+    },
+    "361": {
+        "expected": "A",
+        "answer": "D",
+        "time": 658.459,
+        "tokens": 2214,
+        "toks/sec": 3362.396140078578
+    },
+    "508": {
+        "expected": "C",
+        "answer": "B",
+        "time": 826.489,
+        "tokens": 1542,
+        "toks/sec": 1865.7235607491448
+    },
+    "519": {
+        "expected": "B",
+        "answer": "B",
+        "time": 472.84,
+        "tokens": 1549,
+        "toks/sec": 3275.949581253701
+    },
+    "533": {
+        "expected": "C",
+        "answer": "D",
+        "time": 552.727,
+        "tokens": 1690,
+        "toks/sec": 3057.5672981417592
+    },
+    "257": {
+        "expected": "D",
+        "answer": "A",
+        "time": 1206.549,
+        "tokens": 2157,
+        "toks/sec": 1787.7433904466375
+    },
+    "692": {
+        "expected": "B",
+        "answer": "D",
+        "time": 861.295,
+        "tokens": 1617,
+        "toks/sec": 1877.4055346890439
+    },
+    "415": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1317.044,
+        "tokens": 2358,
+        "toks/sec": 1790.3729867794848
+    },
+    "625": {
+        "expected": "C",
+        "answer": "B",
+        "time": 860.726,
+        "tokens": 1608,
+        "toks/sec": 1868.1903416418234
+    },
+    "89": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4060.532,
+        "tokens": 2603,
+        "toks/sec": 641.0490054012627
+    },
+    "476": {
+        "expected": "D",
+        "answer": "A",
+        "time": 1208.029,
+        "tokens": 2174,
+        "toks/sec": 1799.625671238025
+    },
+    "99": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1465.091,
+        "tokens": 2562,
+        "toks/sec": 1748.6968386264064
+    },
+    "101": {
+        "expected": "B",
+        "answer": "B",
+        "time": 824.253,
+        "tokens": 2446,
+        "toks/sec": 2967.535453313485
+    },
+    "4": {
+        "expected": "A",
+        "answer": "A",
+        "time": 2819.254,
+        "tokens": 2513,
+        "toks/sec": 891.3705540543705
+    },
+    "138": {
+        "expected": "A",
+        "answer": "",
+        "time": 2265.514,
+        "tokens": 2425,
+        "toks/sec": 1070.3972696703706
+    },
+    "639": {
+        "expected": "B",
+        "answer": "B",
+        "time": 826.421,
+        "tokens": 1541,
+        "toks/sec": 1864.6670401647584
+    },
+    "352": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1389.348,
+        "tokens": 2486,
+        "toks/sec": 1789.3285195645728
+    },
+    "184": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1302.932,
+        "tokens": 2333,
+        "toks/sec": 1790.576944921147
+    },
+    "1": {
+        "expected": "B",
+        "answer": "B",
+        "time": 2654.609,
+        "tokens": 2560,
+        "toks/sec": 964.3604764392798
+    },
+    "382": {
+        "expected": "C",
+        "answer": "",
+        "time": 2331.132,
+        "tokens": 2345,
+        "toks/sec": 1005.9490410667435
+    },
+    "168": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1390.45,
+        "tokens": 2490,
+        "toks/sec": 1790.787155237513
+    },
+    "199": {
+        "expected": "B",
+        "answer": "A",
+        "time": 753.3,
+        "tokens": 2313,
+        "toks/sec": 3070.489844683393
+    },
+    "517": {
+        "expected": "C",
+        "answer": "B",
+        "time": 773.155,
+        "tokens": 1483,
+        "toks/sec": 1918.114737665798
+    },
+    "500": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1320.634,
+        "tokens": 2358,
+        "toks/sec": 1785.506052396046
+    },
+    "450": {
+        "expected": "A",
+        "answer": "C",
+        "time": 834.656,
+        "tokens": 2510,
+        "toks/sec": 3007.2269294176285
+    },
+    "314": {
+        "expected": "C",
+        "answer": "",
+        "time": 1357.596,
+        "tokens": 2262,
+        "toks/sec": 1666.1805132012764
+    },
+    "189": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1219.287,
+        "tokens": 2205,
+        "toks/sec": 1808.43394541236
+    },
+    "25": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3760.339,
+        "tokens": 2602,
+        "toks/sec": 691.958889876684
+    },
+    "334": {
+        "expected": "C",
+        "answer": "E",
+        "time": 1407.581,
+        "tokens": 2518,
+        "toks/sec": 1788.884618362993
+    },
+    "240": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3584.927,
+        "tokens": 2522,
+        "toks/sec": 703.501075475177
+    },
+    "649": {
+        "expected": "C",
+        "answer": "B",
+        "time": 893.018,
+        "tokens": 1660,
+        "toks/sec": 1858.8651068623476
+    },
+    "336": {
+        "expected": "E",
+        "answer": "E",
+        "time": 1410.934,
+        "tokens": 2518,
+        "toks/sec": 1784.6334413941404
+    },
+    "468": {
+        "expected": "B",
+        "answer": "C",
+        "time": 679.347,
+        "tokens": 2270,
+        "toks/sec": 3341.444063195981
+    },
+    "371": {
+        "expected": "B",
+        "answer": "A",
+        "time": 662.133,
+        "tokens": 2219,
+        "toks/sec": 3351.2904507100534
+    },
+    "278": {
+        "expected": "C",
+        "answer": "A",
+        "time": 608.915,
+        "tokens": 2154,
+        "toks/sec": 3537.4395441071415
+    },
+    "738": {
+        "expected": "A",
+        "answer": "B",
+        "time": 888.212,
+        "tokens": 1639,
+        "toks/sec": 1845.2801808577233
+    },
+    "159": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1371.815,
+        "tokens": 2435,
+        "toks/sec": 1775.020684275941
+    },
+    "686": {
+        "expected": "A",
+        "answer": "B",
+        "time": 856.105,
+        "tokens": 1592,
+        "toks/sec": 1859.5849808142693
+    },
+    "260": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1547.882,
+        "tokens": 2707,
+        "toks/sec": 1748.8413199455772
+    },
+    "356": {
+        "expected": "B",
+        "answer": "C",
+        "time": 848.111,
+        "tokens": 2542,
+        "toks/sec": 2997.2491808265663
+    },
+    "409": {
+        "expected": "A",
+        "answer": "B",
+        "time": 675.098,
+        "tokens": 2245,
+        "toks/sec": 3325.4431208506026
+    },
+    "538": {
+        "expected": "C",
+        "answer": "B",
+        "time": 936.366,
+        "tokens": 1737,
+        "toks/sec": 1855.0438610543313
+    },
+    "559": {
+        "expected": "C",
+        "answer": "B",
+        "time": 502.177,
+        "tokens": 1637,
+        "toks/sec": 3259.806801187629
+    },
+    "693": {
+        "expected": "B",
+        "answer": "B",
+        "time": 477.016,
+        "tokens": 1578,
+        "toks/sec": 3308.065138276284
+    },
+    "325": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1497.69,
+        "tokens": 2607,
+        "toks/sec": 1740.6806481982253
+    },
+    "37": {
+        "expected": "B",
+        "answer": "",
+        "time": 4930.167,
+        "tokens": 2513,
+        "toks/sec": 509.7190419716005
+    },
+    "557": {
+        "expected": "B",
+        "answer": "B",
+        "time": 773.737,
+        "tokens": 1479,
+        "toks/sec": 1911.5022287935049
+    },
+    "146": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1293.167,
+        "tokens": 2304,
+        "toks/sec": 1781.6724367386425
+    },
+    "492": {
+        "expected": "A",
+        "answer": "D",
+        "time": 1291.08,
+        "tokens": 2318,
+        "toks/sec": 1795.3961024878397
+    },
+    "528": {
+        "expected": "A",
+        "answer": "A",
+        "time": 866.368,
+        "tokens": 1627,
+        "toks/sec": 1877.9548644455936
+    },
+    "183": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1315.051,
+        "tokens": 2362,
+        "toks/sec": 1796.1280589117837
+    },
+    "69": {
+        "expected": "B",
+        "answer": "B",
+        "time": 3261.888,
+        "tokens": 2378,
+        "toks/sec": 729.0256440441855
+    },
+    "373": {
+        "expected": "B",
+        "answer": "C",
+        "time": 1242.893,
+        "tokens": 2219,
+        "toks/sec": 1785.3507904542064
+    },
+    "696": {
+        "expected": "B",
+        "answer": "E",
+        "time": 833.805,
+        "tokens": 1561,
+        "toks/sec": 1872.1403685514001
+    },
+    "422": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1402.269,
+        "tokens": 2493,
+        "toks/sec": 1777.8329264927058
+    },
+    "78": {
+        "expected": "A",
+        "answer": "A",
+        "time": 4303.141,
+        "tokens": 2548,
+        "toks/sec": 592.1256124305479
+    },
+    "401": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1327.891,
+        "tokens": 2380,
+        "toks/sec": 1792.315784955241
+    },
+    "144": {
+        "expected": "A",
+        "answer": "A",
+        "time": 4235.58,
+        "tokens": 2614,
+        "toks/sec": 617.1527866313469
+    },
+    "690": {
+        "expected": "B",
+        "answer": "A",
+        "time": 778.308,
+        "tokens": 1495,
+        "toks/sec": 1920.833397575253
+    },
+    "630": {
+        "expected": "C",
+        "answer": "B",
+        "time": 429.41,
+        "tokens": 1492,
+        "toks/sec": 3474.5348268554526
+    },
+    "223": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1448.618,
+        "tokens": 2548,
+        "toks/sec": 1758.9178099402327
+    },
+    "207": {
+        "expected": "B",
+        "answer": "",
+        "time": 3228.852,
+        "tokens": 2594,
+        "toks/sec": 803.3815114474123
+    },
+    "648": {
+        "expected": "C",
+        "answer": "B",
+        "time": 897.762,
+        "tokens": 1681,
+        "toks/sec": 1872.433896734324
+    },
+    "513": {
+        "expected": "B",
+        "answer": "B",
+        "time": 576.979,
+        "tokens": 1731,
+        "toks/sec": 3000.109189415906
+    },
+    "18": {
+        "expected": "A",
+        "answer": "A",
+        "time": 2969.5,
+        "tokens": 2428,
+        "toks/sec": 817.6460683616771
+    },
+    "360": {
+        "expected": "C",
+        "answer": "D",
+        "time": 1239.706,
+        "tokens": 2214,
+        "toks/sec": 1785.9073038284885
+    },
+    "134": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1310.712,
+        "tokens": 2345,
+        "toks/sec": 1789.1039374019617
+    },
+    "97": {
+        "expected": "B",
+        "answer": "B",
+        "time": 763.581,
+        "tokens": 2337,
+        "toks/sec": 3060.5790348371684
+    },
+    "349": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1323.56,
+        "tokens": 2368,
+        "toks/sec": 1789.114207138324
+    },
+    "120": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1326.564,
+        "tokens": 2372,
+        "toks/sec": 1788.07807237344
+    },
+    "718": {
+        "expected": "C",
+        "answer": "C",
+        "time": 780.274,
+        "tokens": 1496,
+        "toks/sec": 1917.2752135788198
+    },
+    "126": {
+        "expected": "A",
+        "answer": "B",
+        "time": 5495.73,
+        "tokens": 2641,
+        "toks/sec": 480.5549035341984
+    },
+    "212": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3584.156,
+        "tokens": 2474,
+        "toks/sec": 690.260133766499
+    },
+    "594": {
+        "expected": "C",
+        "answer": "B",
+        "time": 807.646,
+        "tokens": 1524,
+        "toks/sec": 1886.9653288693314
+    },
+    "83": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1294.857,
+        "tokens": 2313,
+        "toks/sec": 1786.2976374997395
+    },
+    "182": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2307.647,
+        "tokens": 2503,
+        "toks/sec": 1084.6546287192105
+    },
+    "454": {
+        "expected": "C",
+        "answer": "A",
+        "time": 1311.985,
+        "tokens": 2348,
+        "toks/sec": 1789.6546073316388
+    },
+    "281": {
+        "expected": "B",
+        "answer": "B",
+        "time": 607.764,
+        "tokens": 2152,
+        "toks/sec": 3540.8480923516363
+    },
+    "661": {
+        "expected": "C",
+        "answer": "B",
+        "time": 832.453,
+        "tokens": 1560,
+        "toks/sec": 1873.9796721256337
+    },
+    "46": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1338.542,
+        "tokens": 2396,
+        "toks/sec": 1790.0073363405857
+    },
+    "709": {
+        "expected": "B",
+        "answer": "B",
+        "time": 891.84,
+        "tokens": 1663,
+        "toks/sec": 1864.6842482956583
+    },
+    "156": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4009.62,
+        "tokens": 2571,
+        "toks/sec": 641.207895012495
+    },
+    "284": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1251.516,
+        "tokens": 2249,
+        "toks/sec": 1797.0205734485214
+    },
+    "486": {
+        "expected": "D",
+        "answer": "B",
+        "time": 1007.176,
+        "tokens": 2763,
+        "toks/sec": 2743.3139788875033
+    },
+    "369": {
+        "expected": "C",
+        "answer": "A",
+        "time": 604.306,
+        "tokens": 2141,
+        "toks/sec": 3542.907070259107
+    },
+    "237": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1393.729,
+        "tokens": 2489,
+        "toks/sec": 1785.8565043849987
+    },
+    "484": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1242.395,
+        "tokens": 2221,
+        "toks/sec": 1787.6762221354722
+    },
+    "440": {
+        "expected": "A",
+        "answer": "C",
+        "time": 578.997,
+        "tokens": 2097,
+        "toks/sec": 3621.780423732766
+    },
+    "612": {
+        "expected": "A",
+        "answer": "A",
+        "time": 807.35,
+        "tokens": 1519,
+        "toks/sec": 1881.464049049359
+    },
+    "632": {
+        "expected": "B",
+        "answer": "B",
+        "time": 473.423,
+        "tokens": 1550,
+        "toks/sec": 3274.0276665899205
+    },
+    "195": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4465.019,
+        "tokens": 2633,
+        "toks/sec": 589.6951390352426
+    },
+    "575": {
+        "expected": "A",
+        "answer": "B",
+        "time": 859.853,
+        "tokens": 1610,
+        "toks/sec": 1872.4130752582128
+    },
+    "498": {
+        "expected": "C",
+        "answer": "C",
+        "time": 1316.908,
+        "tokens": 2357,
+        "toks/sec": 1789.7985280672608
+    },
+    "397": {
+        "expected": "A",
+        "answer": "",
+        "time": 2495.802,
+        "tokens": 2494,
+        "toks/sec": 999.2779875967724
+    },
+    "157": {
+        "expected": "B",
+        "answer": "B",
+        "time": 5129.425,
+        "tokens": 2665,
+        "toks/sec": 519.5514117079399
+    },
+    "736": {
+        "expected": "B",
+        "answer": "B",
+        "time": 886.527,
+        "tokens": 1643,
+        "toks/sec": 1853.2994482965548
+    },
+    "317": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1242.264,
+        "tokens": 2219,
+        "toks/sec": 1786.2547735425
+    },
+    "663": {
+        "expected": "A",
+        "answer": "A",
+        "time": 860.965,
+        "tokens": 1616,
+        "toks/sec": 1876.963639636919
+    },
+    "273": {
+        "expected": "C",
+        "answer": "A",
+        "time": 1213.069,
+        "tokens": 2178,
+        "toks/sec": 1795.4460958115326
+    },
+    "474": {
+        "expected": "B",
+        "answer": "B",
+        "time": 629.585,
+        "tokens": 2173,
+        "toks/sec": 3451.4799431371457
+    },
+    "629": {
+        "expected": "B",
+        "answer": "B",
+        "time": 858.479,
+        "tokens": 1608,
+        "toks/sec": 1873.0801801791306
+    },
+    "589": {
+        "expected": "C",
+        "answer": "A",
+        "time": 422.209,
+        "tokens": 1466,
+        "toks/sec": 3472.2139982804724
+    },
+    "717": {
+        "expected": "C",
+        "answer": "C",
+        "time": 468.46,
+        "tokens": 1563,
+        "toks/sec": 3336.4641591598
+    },
+    "381": {
+        "expected": "A",
+        "answer": "C",
+        "time": 1259.5,
+        "tokens": 2268,
+        "toks/sec": 1800.7145692735212
+    },
+    "600": {
+        "expected": "A",
+        "answer": "A",
+        "time": 863.672,
+        "tokens": 1628,
+        "toks/sec": 1884.9748515640197
+    },
+    "441": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1174.746,
+        "tokens": 2097,
+        "toks/sec": 1785.066729318508
+    },
+    "32": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4349.021,
+        "tokens": 2701,
+        "toks/sec": 621.0593142686596
+    },
+    "746": {
+        "expected": "C",
+        "answer": "A",
+        "time": 834.074,
+        "tokens": 1557,
+        "toks/sec": 1866.7408407407497
+    },
+    "327": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1324.293,
+        "tokens": 2372,
+        "toks/sec": 1791.1444068646442
+    },
+    "178": {
+        "expected": "A",
+        "answer": "A",
+        "time": 3374.933,
+        "tokens": 2537,
+        "toks/sec": 751.7186267105154
+    },
+    "100": {
+        "expected": "A",
+        "answer": "A",
+        "time": 788.625,
+        "tokens": 2384,
+        "toks/sec": 3022.9830401014424
+    },
+    "596": {
+        "expected": "B",
+        "answer": "B",
+        "time": 806.543,
+        "tokens": 1508,
+        "toks/sec": 1869.7081246753119
+    },
+    "238": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3040.21,
+        "tokens": 2167,
+        "toks/sec": 712.7797092963973
+    },
+    "224": {
+        "expected": "A",
+        "answer": "B",
+        "time": 3110.436,
+        "tokens": 2529,
+        "toks/sec": 813.0692931794771
+    },
+    "185": {
+        "expected": "B",
+        "answer": "B",
+        "time": 789.972,
+        "tokens": 2392,
+        "toks/sec": 3027.9554212048024
+    },
+    "341": {
+        "expected": "D",
+        "answer": "",
+        "time": 1758.128,
+        "tokens": 2276,
+        "toks/sec": 1294.5587579516396
+    },
+    "752": {
+        "expected": "C",
+        "answer": "C",
+        "time": 826.975,
+        "tokens": 1534,
+        "toks/sec": 1854.9532936304
+    },
+    "229": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1313.162,
+        "tokens": 2335,
+        "toks/sec": 1778.1507536770025
+    },
+    "553": {
+        "expected": "B",
+        "answer": "A",
+        "time": 937.137,
+        "tokens": 1737,
+        "toks/sec": 1853.5176820464885
+    },
+    "44": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4529.811,
+        "tokens": 2631,
+        "toks/sec": 580.8189348297313
+    },
+    "332": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1339.325,
+        "tokens": 2398,
+        "toks/sec": 1790.454146678364
+    },
+    "297": {
+        "expected": "A",
+        "answer": "D",
+        "time": 788.144,
+        "tokens": 2435,
+        "toks/sec": 3089.5369374124525
+    },
+    "628": {
+        "expected": "B",
+        "answer": "B",
+        "time": 755.84,
+        "tokens": 1441,
+        "toks/sec": 1906.4881456392886
+    },
+    "215": {
+        "expected": "B",
+        "answer": "A",
+        "time": 2817.59,
+        "tokens": 2421,
+        "toks/sec": 859.244957570122
+    },
+    "549": {
+        "expected": "B",
+        "answer": "C",
+        "time": 894.339,
+        "tokens": 1668,
+        "toks/sec": 1865.0645896019294
+    },
+    "428": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1248.311,
+        "tokens": 2221,
+        "toks/sec": 1779.2040605265836
+    },
+    "581": {
+        "expected": "C",
+        "answer": "B",
+        "time": 833.994,
+        "tokens": 1549,
+        "toks/sec": 1857.3275107494778
+    },
+    "252": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1369.797,
+        "tokens": 2430,
+        "toks/sec": 1773.985488360684
+    },
+    "191": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1389.907,
+        "tokens": 2475,
+        "toks/sec": 1780.6946795720867
+    },
+    "231": {
+        "expected": "B",
+        "answer": "",
+        "time": 994.357,
+        "tokens": 2467,
+        "toks/sec": 2481.000284606032
+    },
+    "556": {
+        "expected": "B",
+        "answer": "B",
+        "time": 776.426,
+        "tokens": 1496,
+        "toks/sec": 1926.7773103940362
+    },
+    "173": {
+        "expected": "B",
+        "answer": "B",
+        "time": 1448.159,
+        "tokens": 2535,
+        "toks/sec": 1750.498391405916
+    },
+    "166": {
+        "expected": "A",
+        "answer": "B",
+        "time": 4026.632,
+        "tokens": 2795,
+        "toks/sec": 694.1284924969552
+    },
+    "232": {
+        "expected": "A",
+        "answer": "B",
+        "time": 955.597,
+        "tokens": 2620,
+        "toks/sec": 2741.7415500467246
+    },
+    "597": {
+        "expected": "A",
+        "answer": "B",
+        "time": 852.424,
+        "tokens": 1584,
+        "toks/sec": 1858.2301765318668
+    },
+    "375": {
+        "expected": "D",
+        "answer": "D",
+        "time": 1339.237,
+        "tokens": 2391,
+        "toks/sec": 1785.344938946579
+    },
+    "721": {
+        "expected": "B",
+        "answer": "B",
+        "time": 809.419,
+        "tokens": 1505,
+        "toks/sec": 1859.3583792819295
+    },
+    "241": {
+        "expected": "B",
+        "answer": "B",
+        "time": 4115.598,
+        "tokens": 2488,
+        "toks/sec": 604.5294025315397
+    },
+    "579": {
+        "expected": "B",
+        "answer": "B",
+        "time": 855.079,
+        "tokens": 1591,
+        "toks/sec": 1860.6467940389134
+    },
+    "279": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1208.446,
+        "tokens": 2153,
+        "toks/sec": 1781.6269820910493
+    },
+    "567": {
+        "expected": "A",
+        "answer": "B",
+        "time": 857.47,
+        "tokens": 1603,
+        "toks/sec": 1869.4531587110919
+    },
+    "112": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1355.881,
+        "tokens": 2400,
+        "toks/sec": 1770.0668421491266
+    },
+    "123": {
+        "expected": "B",
+        "answer": "",
+        "time": 1988.819,
+        "tokens": 2630,
+        "toks/sec": 1322.3928371561212
+    },
+    "385": {
+        "expected": "B",
+        "answer": "A",
+        "time": 1283.3,
+        "tokens": 2279,
+        "toks/sec": 1775.89028286449
+    },
+    "335": {
+        "expected": "A",
+        "answer": "E",
+        "time": 836.135,
+        "tokens": 2518,
+        "toks/sec": 3011.475419639173
+    },
+    "489": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1009.372,
+        "tokens": 2765,
+        "toks/sec": 2739.327027102
+    },
+    "105": {
+        "expected": "B",
+        "answer": "",
+        "time": 4121.871,
+        "tokens": 2549,
+        "toks/sec": 618.4084848846555
+    },
+    "320": {
+        "expected": "A",
+        "answer": "A",
+        "time": 1373.408,
+        "tokens": 2456,
+        "toks/sec": 1788.2522891959272
+    },
+    "425": {
+        "expected": "B",
+        "answer": "B",
+        "time": 828.121,
+        "tokens": 2495,
+        "toks/sec": 3012.844741287807
+    },
+    "539": {
+        "expected": "C",
+        "answer": "B",
+        "time": 889.579,
+        "tokens": 1652,
+        "toks/sec": 1857.0582264194636
+    },
+    "331": {
+        "expected": "C",
+        "answer": "A",
+        "time": 1352.742,
+        "tokens": 2397,
+        "toks/sec": 1771.9565149895545
+    },
+    "456": {
+        "expected": "A",
+        "answer": "C",
+        "time": 747.786,
+        "tokens": 2348,
+        "toks/sec": 3139.9357570213942
+    },
+    "657": {
+        "expected": "B",
+        "answer": "B",
+        "time": 854.114,
+        "tokens": 1604,
+        "toks/sec": 1877.9694513847096
+    },
+    "510": {
+        "expected": "B",
+        "answer": "C",
+        "time": 438.41,
+        "tokens": 1512,
+        "toks/sec": 3448.826441002714
+    },
+    "315": {
+        "expected": "C",
+        "answer": "",
+        "time": 1718.265,
+        "tokens": 2249,
+        "toks/sec": 1308.8784326049822
+    },
+    "209": {
+        "expected": "B",
+        "answer": "",
+        "time": 4457.787,
+        "tokens": 2703,
+        "toks/sec": 606.3546777807014
+    },
+    "737": {
+        "expected": "B",
+        "answer": "B",
+        "time": 883.944,
+        "tokens": 1632,
+        "toks/sec": 1846.270804485352
+    },
+    "293": {
+        "expected": "C",
+        "answer": "",
+        "time": 1646.964,
+        "tokens": 2093,
+        "toks/sec": 1270.8231631049616
+    },
+    "542": {
+        "expected": "C",
+        "answer": "B",
+        "time": 899.366,
+        "tokens": 1679,
+        "toks/sec": 1866.8706622220543
+    },
+    "712": {
+        "expected": "C",
+        "answer": "E",
+        "time": 430.915,
+        "tokens": 1488,
+        "toks/sec": 3453.1172040889733
+    },
+    "391": {
+        "expected": "B",
+        "answer": "C",
+        "time": 1442.047,
+        "tokens": 2528,
+        "toks/sec": 1753.0635270556368
+    },
+    "753": {
+        "expected": "B",
+        "answer": "B",
+        "time": 853.879,
+        "tokens": 1583,
+        "toks/sec": 1853.8926475531075
+    },
+    "24": {
+        "expected": "A",
+        "answer": "A",
+        "time": 2944.461,
+        "tokens": 2433,
+        "toks/sec": 826.2972408192875
+    },
+    "5": {
+        "expected": "B",
+        "answer": "B",
+        "time": 843.619,
+        "tokens": 2478,
+        "toks/sec": 2937.3449388882896
+    },
+    "64": {
+        "expected": "A",
+        "answer": "B",
+        "time": 2410.903,
+        "tokens": 2533,
+        "toks/sec": 1050.643679982148
+    },
+    "501": {
+        "expected": "C",
+        "answer": "A",
+        "time": 1319.99,
+        "tokens": 2357,
+        "toks/sec": 1785.619588027182
+    },
+    "283": {
+        "expected": "B",
+        "answer": "B",
+        "time": 671.854,
+        "tokens": 2249,
+        "toks/sec": 3347.4534645920094
+    },
+    "429": {
+        "expected": "A",
+        "answer": "A",
+        "time": 665.705,
+        "tokens": 2221,
+        "toks/sec": 3336.3126309701743
+    },
+    "226": {
+        "expected": "A",
+        "answer": "B",
+        "time": 1408.783,
+        "tokens": 2497,
+        "toks/sec": 1772.4518254408238
+    },
+    "378": {
+        "expected": "B",
+        "answer": "C",
+        "time": 1255.332,
+        "tokens": 2269,
+        "toks/sec": 1807.489970780638
+    },
+    "477": {
+        "expected": "B",
+        "answer": "B",
+        "time": 630.287,
+        "tokens": 2173,
+        "toks/sec": 3447.6357595825393
+    },
+    "511": {
+        "expected": "C",
+        "answer": "B",
+        "time": 882.597,
+        "tokens": 1631,
+        "toks/sec": 1847.9555221692347
+    },
+    "421": {
+        "expected": "C",
+        "answer": "B",
+        "time": 1370.043,
+        "tokens": 2432,
+        "toks/sec": 1775.126766094203
+    },
+    "304": {
+        "expected": "B",
+        "answer": "C",
+        "time": 789.028,
+        "tokens": 2443,
+        "toks/sec": 3096.214583005926
+    }
+}

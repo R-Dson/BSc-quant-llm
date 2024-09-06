@@ -1,0 +1,13 @@
+{
+    "accuracy": 0.005284015852047556,
+    "correct": {
+        "object_placements": 0,
+        "team_allocation": 1,
+        "murder_mysteries": 3
+    },
+    "wrong": {
+        "object_placements": 256,
+        "team_allocation": 249,
+        "murder_mysteries": 247
+    }
+}

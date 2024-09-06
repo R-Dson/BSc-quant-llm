@@ -1,0 +1,35 @@
+{
+    "accuracy": 0.17844396859386152,
+    "correct": {
+        "biology": 26,
+        "law": 17,
+        "chemistry": 10,
+        "other": 20,
+        "physics": 14,
+        "business": 15,
+        "history": 26,
+        "health": 19,
+        "math": 19,
+        "engineering": 16,
+        "economics": 9,
+        "psychology": 33,
+        "philosophy": 16,
+        "computer science": 10
+    },
+    "wrong": {
+        "biology": 74,
+        "law": 83,
+        "chemistry": 90,
+        "other": 80,
+        "physics": 86,
+        "business": 85,
+        "history": 74,
+        "health": 81,
+        "math": 81,
+        "engineering": 84,
+        "economics": 91,
+        "psychology": 67,
+        "philosophy": 84,
+        "computer science": 90
+    }
+}

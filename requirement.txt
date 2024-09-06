@@ -1,0 +1,15 @@
+ollama
+datasets
+tqdm
+psutil
+matplotlib
+sentencepiece
+
+#llama-cpp-python
+# may need to set these variables. Change for your system
+# export PATH="/usr/local/cuda/bin:$PATH"
+# export LD_LIBRARY_PATH="/usr/local/cuda/lib64:$LD_LIBRARY_PATH"
+# sudo chmod 1777 /tmp
+# build with gcc 12.x
+# fedora needs 'dnf install --releasever=37 --installroot=/tmp/ gcc'
+# llama-cpp-python -C cmake.args="-DLLAMA_CUDA=on" --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu125

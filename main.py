@@ -101,6 +101,13 @@ MODEL_SETTINGS = {
         'model_name' : 'gemma-2-27b',
         'use_f32': False,
         'k-quants' : ['Q8_0', 'Q5_K', 'Q3_K', 'Q2_K']
+    },
+    'mistral-7b': {
+        'full_model_path' : './LLM/Mistral-7B-Instruct-v0.3/',
+        'model_path' : './LLM/quants/Mistral-7B-Instruct-v0.3/',
+        'model_name' : 'Mistral-7B-Instruct-v0.3',
+        'use_f32': False,
+        'k-quants' : ['Q8_0', 'Q6_K', 'Q4_K', 'Q3_K', 'Q2_K']
     }
 }
 """

@@ -48,6 +48,8 @@ def main():
     for dataset_key in DATASET_SETTINGS:
         print(dataset_key)
         for model_name in MODEL_SETTINGS:
+            if model_name != 'mistral-7b':
+                continue
             model = MODEL_SETTINGS[model_name]
             path = model['model_path']
             model_name_short = model_name

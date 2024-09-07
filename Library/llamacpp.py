@@ -1,6 +1,6 @@
 from llama_cpp import Llama
 import time
-from . import online
+
 from together.types import ChatCompletionResponse
 
 def llama_cpp_call_messages(llm: Llama, few_shot_messages: list, dataset_settings: dict):
